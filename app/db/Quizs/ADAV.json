@@ -1,0 +1,1337 @@
+[{
+    "id": 25106,
+    "text": "Có mấy loại Service?",
+    "marks": 1,
+    "answerid": 104121,
+    "answers": [{
+            "id": 104118,
+            "text": "3"
+        },
+        {
+            "id": 104119,
+            "text": "4"
+        },
+        {
+            "id": 104120,
+            "text": "1"
+        },
+        {
+            "id": 104121,
+            "text": "2"
+        }
+    ]
+}, {
+    "id": 25107,
+    "text": "Trong IntentService, phương thức onHandlerIntent sẽ được tự động gọi trong phương thức nào?",
+    "marks": 1,
+    "answerid": 104124,
+    "answers": [{
+        "id": 104122,
+        "text": "onServiceConnected()"
+    }, {
+        "id": 104123,
+        "text": "onServiceDisConnected()"
+    }, {
+        "id": 104124,
+        "text": "onStartCommand()"
+    }, {
+        "id": 104125,
+        "text": "onBind()"
+    }]
+}, {
+    "id": 25108,
+    "text": "Khi nào phương thức ServiceConnection.onServiceConnected được gọi?",
+    "marks": 1,
+    "answerid": 104126,
+    "answers": [{
+        "id": 104126,
+        "text": "Sau khi một thành phần gọi Context.startService()"
+    }, {
+        "id": 104127,
+        "text": "Sau khi một thành phần gọi Context.bindService()"
+    }, {
+        "id": 104128,
+        "text": "Sau khi BroadcastReceiver nhận một Intent được gửi bởi Service"
+    }, {
+        "id": 104129,
+        "text": "Khi một Service gọi Context.startActivity()"
+    }]
+}, {
+    "id": 25109,
+    "text": "Phương thức Service.stopSelf(int startid) có tham số kiểu int. Tham số này dùng để làm gì?",
+    "marks": 1,
+    "answerid": 104132,
+    "answers": [{
+        "id": 104130,
+        "text": "Nếu startid khác 0, Service sẽ bị hủy một cách vô điều kiện"
+    }, {
+        "id": 104131,
+        "text": "Tham số miêu tả số miliseconds bị trì hoãn trước khi Service bị hủy"
+    }, {
+        "id": 104132,
+        "text": "Là start identifier gần nhất nhận được bởi lời gọi onStart(Intent, int)"
+    }, {
+        "id": 104133,
+        "text": "Được sử dụng để dừng Service nếu Service đang chạy trong process id với process id bằng giá trị startid"
+    }]
+}, {
+    "id": 25110,
+    "text": "Câu nào là đúng khi đề cập đến Service?",
+    "marks": 1,
+    "answerid": 104137,
+    "answers": [{
+        "id": 104134,
+        "text": "Các ứng dụng khác nhau không thể truy cập đến các Service của chính nó"
+    }, {
+        "id": 104135,
+        "text": "Tất cả phương án đều đúng"
+    }, {
+        "id": 104136,
+        "text": "Lớp Service luôn luôn được truy cập bởi tất cả ứng dụng Android khác cài trên thiết bị"
+    }, {
+        "id": 104137,
+        "text": "Service có thể chạy nền vô hạn kể cả khi thành phần khởi tạo Service đã bị hủy"
+    }]
+}, {
+    "id": 25111,
+    "text": "Trong IntentService, onBind mặc định trả lại giá trị nào?",
+    "marks": 1,
+    "answerid": 104139,
+    "answers": [{
+        "id": 104138,
+        "text": "-1"
+    }, {
+        "id": 104139,
+        "text": "null"
+    }, {
+        "id": 104140,
+        "text": "0"
+    }, {
+        "id": 104141,
+        "text": "\"\""
+    }]
+}, {
+    "id": 25112,
+    "text": "Phương thức stopSelf dùng để làm gì?",
+    "marks": 1,
+    "answerid": 104145,
+    "answers": [{
+        "id": 104142,
+        "text": "Dừng thông báo notification tới người dùng"
+    }, {
+        "id": 104143,
+        "text": "Dừng chương trình"
+    }, {
+        "id": 104144,
+        "text": "Dừng kết nối Service với Sqlite"
+    }, {
+        "id": 104145,
+        "text": "Dừng Service"
+    }]
+}, {
+    "id": 25113,
+    "text": "Phương thức onStartCommand được gọi khi nào?",
+    "marks": 1,
+    "answerid": 104149,
+    "answers": [{
+        "id": 104146,
+        "text": "Khi phương thức bindService được gọi"
+    }, {
+        "id": 104147,
+        "text": "Khi phương thức stopSelf được gọi"
+    }, {
+        "id": 104148,
+        "text": "Khi phương thức onBind được gọi"
+    }, {
+        "id": 104149,
+        "text": "Khi phương thức startService được gọi"
+    }]
+}, {
+    "id": 25114,
+    "text": "Bạn nên giải phóng tài nguyên mà Service sử dụng trong phương thức nào?",
+    "marks": 1,
+    "answerid": 104152,
+    "answers": [{
+        "id": 104150,
+        "text": "onPause"
+    }, {
+        "id": 104151,
+        "text": "pauseService"
+    }, {
+        "id": 104152,
+        "text": "onDestroy"
+    }, {
+        "id": 104153,
+        "text": "startService"
+    }]
+}, {
+    "id": 25115,
+    "text": "Để hủy Service dùng phương thức nào?",
+    "marks": 1,
+    "answerid": 104155,
+    "answers": [{
+        "id": 104154,
+        "text": "PauseService"
+    }, {
+        "id": 104155,
+        "text": "StopService"
+    }, {
+        "id": 104156,
+        "text": "PauseServices"
+    }, {
+        "id": 104157,
+        "text": "StopServices"
+    }]
+}, {
+    "id": 25116,
+    "text": "Làm thế nào để disable một Broadcast Receiver khi nó đã được đăng ký trong AndroidManifest.xml?",
+    "marks": 1,
+    "answerid": 104161,
+    "answers": [{
+        "id": 104158,
+        "text": "Sử dụng lớp PackageReceiverManager"
+    }, {
+        "id": 104159,
+        "text": "Sử dụng lớp BroadcastReceiver"
+    }, {
+        "id": 104160,
+        "text": "Sử dụng lớp BroadcastReceiverManger"
+    }, {
+        "id": 104161,
+        "text": "Sử dụng lớp PackageManager"
+    }]
+}, {
+    "id": 25117,
+    "text": "Có mấy cách phát, nhận broadcast receiver?",
+    "marks": 1,
+    "answerid": 104163,
+    "answers": [{
+        "id": 104162,
+        "text": "1"
+    }, {
+        "id": 104163,
+        "text": "2"
+    }, {
+        "id": 104164,
+        "text": "4"
+    }, {
+        "id": 104165,
+        "text": "3"
+    }]
+}, {
+    "id": 25118,
+    "text": "Khi sử dụng Intent.ACTION_BOOT_COMPLETED, hệ thống sẽ broadcast mấy lần?",
+    "marks": 1,
+    "answerid": 104167,
+    "answers": [{
+        "id": 104166,
+        "text": "4"
+    }, {
+        "id": 104167,
+        "text": "1"
+    }, {
+        "id": 104168,
+        "text": "3"
+    }, {
+        "id": 104169,
+        "text": "2"
+    }]
+}, {
+    "id": 25119,
+    "text": "Vòng đời của Broadcast Receiver bao gồm mấy phương thức?",
+    "marks": 1,
+    "answerid": 104170,
+    "answers": [{
+        "id": 104170,
+        "text": "1"
+    }, {
+        "id": 104171,
+        "text": "2"
+    }, {
+        "id": 104172,
+        "text": "4"
+    }, {
+        "id": 104173,
+        "text": "3"
+    }]
+}, {
+    "id": 25120,
+    "text": "Lệnh sau dùng để làm gì?                                                                                   \u003creceiver             android:name=\".MyCallReceiver\"             android:exported=\"false\" \u003e  \u003c/receiver\u003e",
+    "marks": 1,
+    "answerid": 104177,
+    "answers": [{
+        "id": 104174,
+        "text": "Disable receiver MyCallReceiver"
+    }, {
+        "id": 104175,
+        "text": "Khai báo MyCallReceiver là broadcast hệ thống"
+    }, {
+        "id": 104176,
+        "text": "Cho phép ứng dụng Calendar của hệ thống gửi broadcast tới receiver MyCallReceiver"
+    }, {
+        "id": 104177,
+        "text": "Cấm ứng dụng khác gửi broadcast tới receiver MyCallReceiver"
+    }]
+}, {
+    "id": 25121,
+    "text": "Nếu ứng dụng của bạn ở trạng thái foreground, bạn chỉ muốn ứng dụng chỉ nhận broadcast nhất định khi nó active, bạn phải làm gì?",
+    "marks": 1,
+    "answerid": 104181,
+    "answers": [{
+        "id": 104178,
+        "text": "Load Intent thông qua menu hoặc Action Bar"
+    }, {
+        "id": 104179,
+        "text": "Đăng ký BroadcastReceiver với mức độ ưu tiên thấp"
+    }, {
+        "id": 104180,
+        "text": "Đăng ký động BroadcastReceiver với mức độ ưu tiếp thấp.Sử dụng abortBroadcast lúc runtime để ngăn cản gửi"
+    }, {
+        "id": 104181,
+        "text": "Đăng ký động BroadcastReceiver trong onResume và hủy đăng ký trong onPause"
+    }]
+}, {
+    "id": 25122,
+    "text": "Broadcast Intent thông thường sẽ biến mất khi hệ thống xử lý xong?",
+    "marks": 1,
+    "answerid": 104183,
+    "answers": [{
+        "id": 104182,
+        "text": "Sai"
+    }, {
+        "id": 104183,
+        "text": "Đúng"
+    }]
+}, {
+    "id": 25123,
+    "text": "Phương thức onReceive có mấy tham số đầu vào?",
+    "marks": 1,
+    "answerid": 104184,
+    "answers": [{
+        "id": 104184,
+        "text": "2"
+    }, {
+        "id": 104185,
+        "text": "4"
+    }, {
+        "id": 104186,
+        "text": "1"
+    }, {
+        "id": 104187,
+        "text": "3"
+    }]
+}, {
+    "id": 25124,
+    "text": "Phương thức nào được sử dụng để gửi broadcast intent mà intent này sẽ không mất đi sau khi hệ thống xử lý?",
+    "marks": 1,
+    "answerid": 104191,
+    "answers": [{
+        "id": 104188,
+        "text": "Context.sendStickyBroadcast"
+    }, {
+        "id": 104189,
+        "text": "Context.sendingStickyBroadcast"
+    }, {
+        "id": 104190,
+        "text": "Context.sendingStickyBroadcastIntent"
+    }, {
+        "id": 104191,
+        "text": "Context.sendStickyBroadcastIntent"
+    }]
+}, {
+    "id": 25125,
+    "text": "Để nhận thông tin người dùng qua wifi, phải sử dụng gì?",
+    "marks": 1,
+    "answerid": 104192,
+    "answers": [{
+        "id": 104192,
+        "text": "LocationManager.NETWORK_PROVidER"
+    }, {
+        "id": 104193,
+        "text": "LocationManager.WIFI_PROVidER"
+    }, {
+        "id": 104194,
+        "text": "LocationManager.GPS_PROVidER"
+    }, {
+        "id": 104195,
+        "text": "LocationManager.CELLUAR_PROVidER"
+    }]
+}, {
+    "id": 25126,
+    "text": "Phương thức callback nào gọi khi vị trí người dùng thay đổi?",
+    "marks": 1,
+    "answerid": 104196,
+    "answers": [{
+        "id": 104196,
+        "text": "onLocationChanged"
+    }, {
+        "id": 104197,
+        "text": "onCurrentLocationChanged"
+    }, {
+        "id": 104198,
+        "text": "onLocationChange"
+    }, {
+        "id": 104199,
+        "text": "onCurentLocationChange"
+    }]
+}, {
+    "id": 25127,
+    "text": "Khi tạo ứng dụng trên trang developer của Facebook, ngoài thông tin username và password, người dùng phải nhập thêm thông tin gì?",
+    "marks": 1,
+    "answerid": 104203,
+    "answers": [{
+        "id": 104200,
+        "text": "Không cần thêm thông tin nào"
+    }, {
+        "id": 104201,
+        "text": "app id"
+    }, {
+        "id": 104202,
+        "text": "certificate"
+    }, {
+        "id": 104203,
+        "text": "key hash"
+    }]
+}, {
+    "id": 25128,
+    "text": "Để đăng nhập ứng dụng Facebook từ ứng dụng Android, Facebook SDK yêu cầu gì?",
+    "marks": 1,
+    "answerid": 104207,
+    "answers": [{
+        "id": 104204,
+        "text": "Không có yêu cầu nào"
+    }, {
+        "id": 104205,
+        "text": "Sử dụng Google social API"
+    }, {
+        "id": 104206,
+        "text": "Sử dụng Facebook Graph API"
+    }, {
+        "id": 104207,
+        "text": "Thiết bị phải cài đặt ứng dụng native Facebook"
+    }]
+}, {
+    "id": 25129,
+    "text": "Có thể cài đặt ứng dụng native Facebook trên Emulator không?",
+    "marks": 1,
+    "answerid": 104208,
+    "answers": [{
+        "id": 104208,
+        "text": "Có thể"
+    }, {
+        "id": 104209,
+        "text": "Không thể"
+    }]
+}, {
+    "id": 25130,
+    "text": "Để lấy thông tin vị trí người dùng sử dụng GPS_PROVidER, phải thêm permission nào vào Android manifest file?",
+    "marks": 1,
+    "answerid": 104213,
+    "answers": [{
+        "id": 104210,
+        "text": "android.permission.USE_CREDENTIALS"
+    }, {
+        "id": 104211,
+        "text": "android.permission.android.permission.ACCESS_MOCK_LOCATION"
+    }, {
+        "id": 104212,
+        "text": "android.permission.INTERNET"
+    }, {
+        "id": 104213,
+        "text": "android.permission.ACCESS_FINE_LOCATION"
+    }]
+}, {
+    "id": 25131,
+    "text": "Để đăng nhập ứng dụng Facebook từ ứng dụng Android, phải thêm Activity nào vào Android manifest?",
+    "marks": 1,
+    "answerid": 104215,
+    "answers": [{
+        "id": 104214,
+        "text": "com.facebook.SingleSignInActivity"
+    }, {
+        "id": 104215,
+        "text": "com.facebook.LoginActivity"
+    }, {
+        "id": 104216,
+        "text": "com.facebook.SignInActivity"
+    }, {
+        "id": 104217,
+        "text": "com.facebook.SignOnActivity"
+    }]
+}, {
+    "id": 25132,
+    "text": "Có thể gửi dữ liệu người dùng giả tới Emulator thông qua DDMS không?",
+    "marks": 1,
+    "answerid": 104218,
+    "answers": [{
+        "id": 104218,
+        "text": "Có"
+    }, {
+        "id": 104219,
+        "text": "Không"
+    }]
+}, {
+    "id": 25133,
+    "text": "Địa chỉ trang web nào cung cấp facebook sdk cho ứng dụng Android?",
+    "marks": 1,
+    "answerid": 104222,
+    "answers": [{
+        "id": 104220,
+        "text": "http://facebook.com"
+    }, {
+        "id": 104221,
+        "text": "http://facebook.com.vn"
+    }, {
+        "id": 104222,
+        "text": "https://developers.facebook.com"
+    }, {
+        "id": 104223,
+        "text": "http://developers.facebook.com.vn"
+    }]
+}, {
+    "id": 25134,
+    "text": "Phương thức getLastKnownLocation của LocationManager dùng để làm gì?",
+    "marks": 1,
+    "answerid": 104226,
+    "answers": [{
+        "id": 104224,
+        "text": "Trả lại thông tin location của địa điểm đầu tiên ghi nhận được"
+    }, {
+        "id": 104225,
+        "text": "Trả lại thông tin location của địa điểm gần nhất"
+    }, {
+        "id": 104226,
+        "text": "Trả lại thông tin cache location"
+    }, {
+        "id": 104227,
+        "text": "Trả lại thông tin location hiện tại"
+    }]
+}, {
+    "id": 25135,
+    "text": "Media Player có hỗ trợ một số listener để tương tác với Player?",
+    "marks": 1,
+    "answerid": 104229,
+    "answers": [{
+        "id": 104228,
+        "text": "Sai"
+    }, {
+        "id": 104229,
+        "text": "Đúng"
+    }]
+}, {
+    "id": 25136,
+    "text": "Dùng phương thức gì để cho phép media process thao tác với camera?",
+    "marks": 1,
+    "answerid": 104230,
+    "answers": [{
+        "id": 104230,
+        "text": "unlock()"
+    }, {
+        "id": 104231,
+        "text": "opening()"
+    }, {
+        "id": 104232,
+        "text": "unlocking()"
+    }, {
+        "id": 104233,
+        "text": "open()"
+    }]
+}, {
+    "id": 25137,
+    "text": "Google cloud messaging cho phép gửi thông điệp đến tối đa bao nhiêu người?",
+    "marks": 1,
+    "answerid": 104237,
+    "answers": [{
+        "id": 104234,
+        "text": "10000"
+    }, {
+        "id": 104235,
+        "text": "100"
+    }, {
+        "id": 104236,
+        "text": "100"
+    }, {
+        "id": 104237,
+        "text": "1000"
+    }]
+}, {
+    "id": 25138,
+    "text": "Quyền nào là cần thiết để ứng dụng có thể lưu ảnh chụp của Camera trên SD card?",
+    "marks": 1,
+    "answerid": 104238,
+    "answers": [{
+        "id": 104238,
+        "text": "android.permission.WRITE_EXTERNAL_STORAGE"
+    }, {
+        "id": 104239,
+        "text": "android.permission.WRITE_GSERVICES"
+    }, {
+        "id": 104240,
+        "text": "android.permission.WRITE_APN_SETTINGS"
+    }, {
+        "id": 104241,
+        "text": "android.permission.WAKE_LOCK"
+    }]
+}, {
+    "id": 25139,
+    "text": "Phương thức nào của Camera được sử dụng để lấy các thông số thiết lập cho Camera?",
+    "marks": 1,
+    "answerid": 104245,
+    "answers": [{
+        "id": 104242,
+        "text": "setParameter"
+    }, {
+        "id": 104243,
+        "text": "setParameters"
+    }, {
+        "id": 104244,
+        "text": "getParameter"
+    }, {
+        "id": 104245,
+        "text": "getParameters"
+    }]
+}, {
+    "id": 25140,
+    "text": "Lớp nào hỗ trợ xây dựng backup agent?",
+    "marks": 1,
+    "answerid": 104249,
+    "answers": [{
+        "id": 104246,
+        "text": "FilesHelper"
+    }, {
+        "id": 104247,
+        "text": "BackupHelper"
+    }, {
+        "id": 104248,
+        "text": "SharedBackupHelper"
+    }, {
+        "id": 104249,
+        "text": "SharedPreferencesBackupHelper"
+    }]
+}, {
+    "id": 25141,
+    "text": "Khi kết thúc quay phim, sử dụng phương thức nào để khóa camera?",
+    "marks": 1,
+    "answerid": 104250,
+    "answers": [{
+        "id": 104250,
+        "text": "reConnect()"
+    }, {
+        "id": 104251,
+        "text": "reConnecting()"
+    }, {
+        "id": 104252,
+        "text": "reLock()"
+    }, {
+        "id": 104253,
+        "text": "reLocking()"
+    }]
+}, {
+    "id": 25142,
+    "text": "Media Player có thể play mọi loại file audio?",
+    "marks": 1,
+    "answerid": 104254,
+    "answers": [{
+        "id": 104254,
+        "text": "Sai"
+    }, {
+        "id": 104255,
+        "text": "Đúng"
+    }]
+}, {
+    "id": 25143,
+    "text": "Sử dụng phương thức gì của Camera để nhận thông tin của Camera?",
+    "marks": 1,
+    "answerid": 104259,
+    "answers": [{
+        "id": 104256,
+        "text": "start"
+    }, {
+        "id": 104257,
+        "text": "close"
+    }, {
+        "id": 104258,
+        "text": "launch"
+    }, {
+        "id": 104259,
+        "text": "open"
+    }]
+}, {
+    "id": 25144,
+    "text": "Phương thức nào được gọi để ngừng cập nhật preview surface?",
+    "marks": 1,
+    "answerid": 104263,
+    "answers": [{
+        "id": 104260,
+        "text": "DestroypPreviews()"
+    }, {
+        "id": 104261,
+        "text": "stopPreviews()"
+    }, {
+        "id": 104262,
+        "text": "DestroyPreview()"
+    }, {
+        "id": 104263,
+        "text": "stopPreview()"
+    }]
+}, {
+    "id": 25145,
+    "text": "Loại Animation nào chỉ sử dụng được cho View?",
+    "marks": 1,
+    "answerid": 104265,
+    "answers": [{
+        "id": 104264,
+        "text": "Drawable Animation"
+    }, {
+        "id": 104265,
+        "text": "View Animation"
+    }, {
+        "id": 104266,
+        "text": "Property Animation"
+    }, {
+        "id": 104267,
+        "text": "Không có Animation nào đáp ứng được yêu cầu này"
+    }]
+}, {
+    "id": 25146,
+    "text": "Phải thiết lập thuộc tính nào bằng true để hỗ trợ tạo hoạt hình cho ViewGroup?",
+    "marks": 1,
+    "answerid": 104268,
+    "answers": [{
+        "id": 104268,
+        "text": "android:animateLayoutChanges"
+    }, {
+        "id": 104269,
+        "text": "android:animateLayoutChange"
+    }, {
+        "id": 104270,
+        "text": "android:animateLayoutModify"
+    }, {
+        "id": 104271,
+        "text": "android:animateLayoutModifying"
+    }]
+}, {
+    "id": 25147,
+    "text": "Đối với drawable animation, phải thiết lập giá trị của thuộc tính android:oneshot bằng true đối với animation-list để làm gì?",
+    "marks": 1,
+    "answerid": 104272,
+    "answers": [{
+        "id": 104272,
+        "text": "Cho phép animation chỉ chạy một lần duy nhất"
+    }, {
+        "id": 104273,
+        "text": "Thuộc tính android:oneshot không có giá trị true và false"
+    }, {
+        "id": 104274,
+        "text": "Cho phép animation chạy lặp đi lặp lại"
+    }, {
+        "id": 104275,
+        "text": "Không có thuộc tính android:oneshot của animation-list"
+    }]
+}, {
+    "id": 25148,
+    "text": "Android có hỗ trợ khai báo animation trong XML hay không?",
+    "marks": 1,
+    "answerid": 104276,
+    "answers": [{
+        "id": 104276,
+        "text": "Có"
+    }, {
+        "id": 104277,
+        "text": "Không"
+    }]
+}, {
+    "id": 25149,
+    "text": "Trong animation, có thể định nghĩa tối đa bao nhiêu frame?",
+    "marks": 1,
+    "answerid": 104280,
+    "answers": [{
+        "id": 104278,
+        "text": "3"
+    }, {
+        "id": 104279,
+        "text": "2"
+    }, {
+        "id": 104280,
+        "text": "Không giới hạn số frame"
+    }, {
+        "id": 104281,
+        "text": "1"
+    }]
+}, {
+    "id": 25150,
+    "text": "Khái niệm nào đề cập đến cặp gồm thời gian và giá trị để định nghĩa trạng thái xác định tại thời gian xác định của animation?",
+    "marks": 1,
+    "answerid": 104285,
+    "answers": [{
+        "id": 104282,
+        "text": "keys"
+    }, {
+        "id": 104283,
+        "text": "frame"
+    }, {
+        "id": 104284,
+        "text": "key"
+    }, {
+        "id": 104285,
+        "text": "keyframe"
+    }]
+}, {
+    "id": 25151,
+    "text": "File XML liệt kê danh sách frame tạo nên animation nằm trong thư mục nào?",
+    "marks": 1,
+    "answerid": 104289,
+    "answers": [{
+        "id": 104286,
+        "text": "res/layout"
+    }, {
+        "id": 104287,
+        "text": "res/values"
+    }, {
+        "id": 104288,
+        "text": "res/menu"
+    }, {
+        "id": 104289,
+        "text": "res/drawable"
+    }]
+}, {
+    "id": 25152,
+    "text": "ObjectAnimator là lớp con của lớp nào?",
+    "marks": 1,
+    "answerid": 104290,
+    "answers": [{
+        "id": 104290,
+        "text": "ValueAnimator"
+    }, {
+        "id": 104291,
+        "text": "ButtonAnimator"
+    }, {
+        "id": 104292,
+        "text": "textAnimator"
+    }, {
+        "id": 104293,
+        "text": "ValuableAnimator"
+    }]
+}, {
+    "id": 25153,
+    "text": "Khi khai báo Broadcast Receiver để nhận biết sự thay đổi kết nối mạng của thiết bị, bạn có thể disable broadcast receiver không?",
+    "marks": 1,
+    "answerid": 104294,
+    "answers": [{
+        "id": 104294,
+        "text": "Có"
+    }, {
+        "id": 104295,
+        "text": "Không"
+    }]
+}, {
+    "id": 25154,
+    "text": "Lệnh nào để kiểm tra kết nối 3G của thiết bị?",
+    "marks": 1,
+    "answerid": 104298,
+    "answers": [{
+        "id": 104296,
+        "text": "ConnectivityManager connMgr = (ConnectivityManager)           getSystemService(Context.CONNECTIVITY_SERVICE); NetworkInfo networkInfo = connMgr.getNetworkInfo(ConnectivityManager.TYPE_WIMAX);"
+    }, {
+        "id": 104297,
+        "text": "ConnectivityManager connMgr = (ConnectivityManager)           getSystemService(Context.CONNECTIVITY_SERVICE); NetworkInfo networkInfo = connMgr.getNetworkInfo(ConnectivityManager.TYPE_2.5G);"
+    }, {
+        "id": 104298,
+        "text": "ConnectivityManager connMgr = (ConnectivityManager)           getSystemService(Context.CONNECTIVITY_SERVICE); NetworkInfo networkInfo = connMgr.getNetworkInfo(ConnectivityManager.TYPE_MOBILE);"
+    }, {
+        "id": 104299,
+        "text": "ConnectivityManager connMgr = (ConnectivityManager)           getSystemService(Context.CONNECTIVITY_SERVICE); NetworkInfo networkInfo = connMgr.getNetworkInfo(ConnectivityManager.TYPE_3G);"
+    }]
+}, {
+    "id": 25155,
+    "text": "Để trích xuất dữ liệu link trong XML, phải sử dụng phương thức nào của XmlPullParser?",
+    "marks": 1,
+    "answerid": 104303,
+    "answers": [{
+        "id": 104300,
+        "text": "getHrefValue(\"href\")"
+    }, {
+        "id": 104301,
+        "text": "getAttributeValue(\"href\")"
+    }, {
+        "id": 104302,
+        "text": "getHrefValue(null,\"href\")"
+    }, {
+        "id": 104303,
+        "text": "getAttributeValue(null,\"href\")"
+    }]
+}, {
+    "id": 25156,
+    "text": "Bạn hãy cho biết kết quả khi thực hiện gọi phương thức sau? private String readLink(XmlPullParser parser) throws IOException, XmlPullParserException {         String link = \"\";         parser.require(XmlPullParser.START_TAG, ns, \"link\");         String ta",
+    "marks": 1,
+    "answerid": 104305,
+    "answers": [{
+        "id": 104304,
+        "text": "Trả lại giá trị của tag title"
+    }, {
+        "id": 104305,
+        "text": "Trả lại giá trị href của link"
+    }, {
+        "id": 104306,
+        "text": "Chương trình báo lỗi khi biên dich"
+    }, {
+        "id": 104307,
+        "text": "Chương trình báo lỗi khi chạy"
+    }]
+}, {
+    "id": 25157,
+    "text": "Tại sao phải sử dụng AsyncTask để phân tích dữ liệu XML?",
+    "marks": 1,
+    "answerid": 104310,
+    "answers": [{
+        "id": 104308,
+        "text": "Để xử lý dữ liệu XML ngay cả khi máy không có kết nối WiFi"
+    }, {
+        "id": 104309,
+        "text": "Để xử lý dữ liệu XML ngay cả khi máy không có kết nối 3G"
+    }, {
+        "id": 104310,
+        "text": "Để tránh cho ứng dụng bị treo vì xử lý dữ liệu trên main thread"
+    }, {
+        "id": 104311,
+        "text": "Để đỡ tốn tài nguyên khi xử lý dữ liệu XML lưu trong SQLite"
+    }]
+}, {
+    "id": 25158,
+    "text": "Broadcast Receiver xử lý dữ liệu XML trên mạng cần được đăng ký trong phương thức nào?",
+    "marks": 1,
+    "answerid": 104315,
+    "answers": [{
+        "id": 104312,
+        "text": "onStart"
+    }, {
+        "id": 104313,
+        "text": "onPause"
+    }, {
+        "id": 104314,
+        "text": "onDestroy"
+    }, {
+        "id": 104315,
+        "text": "onCreate"
+    }]
+}, {
+    "id": 25159,
+    "text": "Phím tắt nào dùng để tắt bật kết nối mạng trên Emulator?",
+    "marks": 1,
+    "answerid": 104318,
+    "answers": [{
+        "id": 104316,
+        "text": "F9"
+    }, {
+        "id": 104317,
+        "text": "F4"
+    }, {
+        "id": 104318,
+        "text": "F8"
+    }, {
+        "id": 104319,
+        "text": "F5"
+    }]
+}, {
+    "id": 25160,
+    "text": "Kiểu nào không nằm trong lớp ConnectivityManager?",
+    "marks": 1,
+    "answerid": 104323,
+    "answers": [{
+        "id": 104320,
+        "text": "TYPE_WIMAX"
+    }, {
+        "id": 104321,
+        "text": "TYPE_MOBILE"
+    }, {
+        "id": 104322,
+        "text": "TYPE_WIFI"
+    }, {
+        "id": 104323,
+        "text": "TYPE_3G"
+    }]
+}, {
+    "id": 25161,
+    "text": "Để phân tích XML, bạn sẽ sử dụng lớp nào?",
+    "marks": 1,
+    "answerid": 104325,
+    "answers": [{
+        "id": 104324,
+        "text": "XmlPushParser"
+    }, {
+        "id": 104325,
+        "text": "XmlPullParser"
+    }, {
+        "id": 104326,
+        "text": "XmlParseParser"
+    }, {
+        "id": 104327,
+        "text": "XmlPopParser"
+    }]
+}, {
+    "id": 25162,
+    "text": "Để thực hiện đọc file XML trên SD Card, bạn phải bổ sung thêm quyền gì trong AndroidManifest.xml?",
+    "marks": 1,
+    "answerid": 104328,
+    "answers": [{
+        "id": 104328,
+        "text": "android.permission.READ_EXTERNAL_STORAGE"
+    }, {
+        "id": 104329,
+        "text": "android.permission.READ"
+    }, {
+        "id": 104330,
+        "text": "android.permission.READ_SD_CARD"
+    }, {
+        "id": 104331,
+        "text": "Không cần thêm quyền"
+    }]
+}, {
+    "id": 25163,
+    "text": "Contacts Provider cung cấp mấy loại dữ liệu về person?",
+    "marks": 1,
+    "answerid": 104334,
+    "answers": [{
+        "id": 104332,
+        "text": "1"
+    }, {
+        "id": 104333,
+        "text": "2"
+    }, {
+        "id": 104334,
+        "text": "3"
+    }, {
+        "id": 104335,
+        "text": "4"
+    }]
+}, {
+    "id": 25164,
+    "text": "Trong ứng dụng bạn sử dụng lớp nào để truy xuất thông tin Contact?",
+    "marks": 1,
+    "answerid": 104338,
+    "answers": [{
+        "id": 104336,
+        "text": "PersonResolver"
+    }, {
+        "id": 104337,
+        "text": "ContactResolver"
+    }, {
+        "id": 104338,
+        "text": "ContentResolver"
+    }, {
+        "id": 104339,
+        "text": "PeopleResolver"
+    }]
+}, {
+    "id": 25165,
+    "text": "Hằng số nào dùng để thấy thông tin Contact có số phone hay không?",
+    "marks": 1,
+    "answerid": 104340,
+    "answers": [{
+        "id": 104340,
+        "text": "ContactsContract.Contacts.HAS_PHONE_NUMBER"
+    }, {
+        "id": 104341,
+        "text": "ContactsContract.Contacts.HAS_MOBILE_NUMBER"
+    }, {
+        "id": 104342,
+        "text": "ContactsContract.Contacts.HAS_PHONE"
+    }, {
+        "id": 104343,
+        "text": "ContactsContract.Contacts.PHONE_NUMBER"
+    }]
+}, {
+    "id": 25166,
+    "text": "Content URI nào được sử dụng để lấy thông tin email của Contact?",
+    "marks": 1,
+    "answerid": 104347,
+    "answers": [{
+        "id": 104344,
+        "text": "ContactsContracts.CommonDataKinds.Email.CONTENT_URI"
+    }, {
+        "id": 104345,
+        "text": "ContactsContract.CommonDataKinds.Email.CONTENT"
+    }, {
+        "id": 104346,
+        "text": "ContactsContract.Email.CONTENT_URI"
+    }, {
+        "id": 104347,
+        "text": "ContactsContract.CommonDataKinds.Email.CONTENT_URI"
+    }]
+}, {
+    "id": 25167,
+    "text": "Có thể thêm Contact vào Emulator hay không?",
+    "marks": 1,
+    "answerid": 104348,
+    "answers": [{
+        "id": 104348,
+        "text": "Có"
+    }, {
+        "id": 104349,
+        "text": "Không"
+    }]
+}, {
+    "id": 25168,
+    "text": "Content URI nào được sử dụng để lấy thông tin phone của Contact?",
+    "marks": 1,
+    "answerid": 104352,
+    "answers": [{
+        "id": 104350,
+        "text": "ContactsContract.Phone.CONTENT_URI"
+    }, {
+        "id": 104351,
+        "text": "ContactsContract.CommonDataKinds.Phone.CONTENT"
+    }, {
+        "id": 104352,
+        "text": "ContactsContract.CommonDataKinds.Phone.CONTENT_URI"
+    }, {
+        "id": 104353,
+        "text": "ContactsContracts.CommonDataKinds.Phone.CONTENT_URI"
+    }]
+}, {
+    "id": 25169,
+    "text": "Bảng nào cung cấp thông tin về person như thông tin dữ liệu về person, như user account và type?",
+    "marks": 1,
+    "answerid": 104356,
+    "answers": [{
+        "id": 104354,
+        "text": "ContactsContract.Contacts"
+    }, {
+        "id": 104355,
+        "text": "ContactsContract.DataTable"
+    }, {
+        "id": 104356,
+        "text": "ContactsContract.RawContacts"
+    }, {
+        "id": 104357,
+        "text": "ContactsContract.Data"
+    }]
+}, {
+    "id": 25170,
+    "text": "Hãy cho biết kết quả khi thực hiện lệnh sau: Cursor phoneCursor = contentResolver.query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI,        null,        Phone_CONTACT_id + \" = ?\",        new String[] { contact_id }, null);",
+    "marks": 1,
+    "answerid": 104360,
+    "answers": [{
+        "id": 104358,
+        "text": "Bị lỗi khi chạy"
+    }, {
+        "id": 104359,
+        "text": "Bị lỗi khi biên dịch"
+    }, {
+        "id": 104360,
+        "text": "Trả lại một Cursor chức các số điện thoại của Contact với id là contact_id"
+    }, {
+        "id": 104361,
+        "text": "Trả lại một Cursor chức các số điện thoại mobile của Contact với id là contact_id"
+    }]
+}, {
+    "id": 25171,
+    "text": "Contacts Provider có hỗ trợ xóa thông tin một contact trong thiết bị hay không?",
+    "marks": 1,
+    "answerid": 104363,
+    "answers": [{
+        "id": 104362,
+        "text": "Không"
+    }, {
+        "id": 104363,
+        "text": "Có"
+    }]
+}, {
+    "id": 25172,
+    "text": "Phương thức nào của ContentResolver để cập nhật thông tin cho nhiều Contact cùng lúc?",
+    "marks": 1,
+    "answerid": 104364,
+    "answers": [{
+        "id": 104364,
+        "text": "applyBatch"
+    }, {
+        "id": 104365,
+        "text": "applyAllContacts"
+    }, {
+        "id": 104366,
+        "text": "applyBatches"
+    }, {
+        "id": 104367,
+        "text": "applyGroupContact"
+    }]
+}, {
+    "id": 25173,
+    "text": "Để lấy thông tin SHA1 fingerprint, phải sử dụng công cụ nào?",
+    "marks": 1,
+    "answerid": 104368,
+    "answers": [{
+        "id": 104368,
+        "text": "keytool"
+    }, {
+        "id": 104369,
+        "text": "telnet"
+    }, {
+        "id": 104370,
+        "text": "logchat"
+    }, {
+        "id": 104371,
+        "text": "ping"
+    }]
+}, {
+    "id": 25174,
+    "text": "Thư mục nào chứa code project Google Play Service?",
+    "marks": 1,
+    "answerid": 104372,
+    "answers": [{
+        "id": 104372,
+        "text": "/extras/google/google_play_services"
+    }, {
+        "id": 104373,
+        "text": "/google/google_play_services"
+    }, {
+        "id": 104374,
+        "text": "/extras/google/play_licensing"
+    }, {
+        "id": 104375,
+        "text": "/extras/google/play_billing"
+    }]
+}, {
+    "id": 25175,
+    "text": "Làm thế nào để cài đặt Google Play Service?",
+    "marks": 1,
+    "answerid": 104378,
+    "answers": [{
+        "id": 104376,
+        "text": "Vào SDK Manager, chọn extra \u003e google play billing library"
+    }, {
+        "id": 104377,
+        "text": "Vào SDK Manager, chọn extra \u003e google repository"
+    }, {
+        "id": 104378,
+        "text": "Vào SDK Manager, chọn extra \u003e google play service"
+    }, {
+        "id": 104379,
+        "text": "Vào SDK Manager, chọn extra \u003e google play apk expansion librariry"
+    }]
+}, {
+    "id": 25176,
+    "text": "Địa chỉ trang web nào cung cấp Google Play API cho ứng dụng sử dụng Google Map?",
+    "marks": 1,
+    "answerid": 104380,
+    "answers": [{
+        "id": 104380,
+        "text": "https://code.google.com/apis/console"
+    }, {
+        "id": 104381,
+        "text": "https://code.google.com/"
+    }, {
+        "id": 104382,
+        "text": "https://code.google.com/apis"
+    }, {
+        "id": 104383,
+        "text": "https://google.com/apis"
+    }]
+}, {
+    "id": 25177,
+    "text": "Khi tạo ứng dụng trên google console, bạn phải kích hoạt chức năng nào cho project để ứng dụng có thể hiển thị google map?",
+    "marks": 1,
+    "answerid": 104386,
+    "answers": [{
+        "id": 104384,
+        "text": "Google Notification Service"
+    }, {
+        "id": 104385,
+        "text": "Google Cloud SQL"
+    }, {
+        "id": 104386,
+        "text": "Google Map Android API v2"
+    }, {
+        "id": 104387,
+        "text": "BigQuery API"
+    }]
+}, {
+    "id": 25178,
+    "text": "Phải tải và cấu hình SDK nào để có thể sử dụng Google Map Android API?",
+    "marks": 1,
+    "answerid": 104390,
+    "answers": [{
+        "id": 104388,
+        "text": "Google Admob Ads SDK"
+    }, {
+        "id": 104389,
+        "text": "Google Analytics App Tracking SDK"
+    }, {
+        "id": 104390,
+        "text": "Google Play Service SDK"
+    }, {
+        "id": 104391,
+        "text": "Android Support Library"
+    }]
+}, {
+    "id": 25179,
+    "text": "Trong các quyền dưới đây, quyền nào không cần thiết để hiển thị Google Map?",
+    "marks": 1,
+    "answerid": 104392,
+    "answers": [{
+        "id": 104392,
+        "text": "android.permission.CHANGE_CONFIGURATION"
+    }, {
+        "id": 104393,
+        "text": "android.permission.ACCESS_NETWORK_STATE"
+    }, {
+        "id": 104394,
+        "text": "android.permission.WRITE_EXTERNAL_STORAGE"
+    }, {
+        "id": 104395,
+        "text": "android.permission.INTERNET"
+    }]
+}, {
+    "id": 25180,
+    "text": "Để nhận API key cho phép hiển thị map trong ứng dụng, trang nào được sử dụng để nhận API key?",
+    "marks": 1,
+    "answerid": 104396,
+    "answers": [{
+        "id": 104396,
+        "text": "Trang web của Google API Console"
+    }, {
+        "id": 104397,
+        "text": "Trang chủ Microsoft"
+    }, {
+        "id": 104398,
+        "text": "Trang chủ Google"
+    }, {
+        "id": 104399,
+        "text": "Trang trủ Apple"
+    }]
+}, {
+    "id": 25181,
+    "text": "Trong Eclipse, làm thế nào để biết được đường dẫn của debug keystore?",
+    "marks": 1,
+    "answerid": 104401,
+    "answers": [{
+        "id": 104400,
+        "text": "Không có cách nào để biết được đường dẫn debug keystore"
+    }, {
+        "id": 104401,
+        "text": "Vào Eclipse, Preferences-\u003eAndroid-\u003eBuild"
+    }, {
+        "id": 104402,
+        "text": "Vào Eclipse, Preferences-\u003eAndroid-\u003eDDMS"
+    }, {
+        "id": 104403,
+        "text": "Vào Eclipse, Preferences-\u003eAndroid-\u003eNDK"
+    }]
+}, {
+    "id": 25182,
+    "text": "Google Map Android API đòi hỏi thư viện nào để hiển thị Map?",
+    "marks": 1,
+    "answerid": 104405,
+    "answers": [{
+        "id": 104404,
+        "text": "UserVoice SDK"
+    }, {
+        "id": 104405,
+        "text": "OpenGL ES version 2"
+    }, {
+        "id": 104406,
+        "text": "HttpClient"
+    }, {
+        "id": 104407,
+        "text": "Maven SDK"
+    }]
+}]

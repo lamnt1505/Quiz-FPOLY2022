@@ -1,0 +1,34 @@
+<div class="row" ng-if="sumup == false">
+    <div class="col">
+        <div class="card" ng-if="questions.length >0">
+            <div class="card-header">
+                <div>Time {{time}}</div>
+                <div>Question {{currentQuestion + 1}} : {{question().marks}} Marks</div>
+            </div>
+            <div class="card-body">
+                <h4 class="card-title">{{question().text}}</h4>
+                <hr>
+                <p class="card-text" ng-repeat="item in question().answers">
+                    <label>
+                        <input type="radio" ng-model="answer.choice" value="{{item.id}}" name="answer">{{item.text}}
+                    </label>
+                </p>
+                <hr>
+                <div>
+                    <div ng-hide="currentQuestion == 0" ng-click="setQuestionIndex(currentQuestion - 1)"
+                        class="btn btn-primary">Previous</div>
+                    <div ng-hide="currentQuestion == questions.length -1" ng-click="setQuestionIndex(currentQuestion + 1)"
+                        class="btn btn-primary">Next</div>
+                    
+                    <div ng-click="submitQuiz()" class="btn btn-warning">Submit</div>
+                </div>
+            </div>
+            <div class="card-footer text-muted">
+                Chào Mừng Các Bạn Đến Bài Thi Quiz 10 Câu Hỏi
+            </div>
+        </div>
+    </div>
+</div>
+<div ng-if="sumup == true" ng-include="'views/quizs/sumup.html'">
+
+</div> 

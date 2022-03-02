@@ -1,0 +1,1444 @@
+[{
+    "id": 25262,
+    "text": "Kiểm thử nào không nằm trong kiểm thử hệ thống?",
+    "marks": 1,
+    "answerid": 104715,
+    "answers": [{
+        "id": 104712,
+        "text": "Installation tests"
+    }, {
+        "id": 104713,
+        "text": "Performance tests"
+    }, {
+        "id": 104714,
+        "text": "GUI tests"
+    }, {
+        "id": 104715,
+        "text": "Unit test"
+    }]
+}, {
+    "id": 25263,
+    "text": "Kiểm thử nào được sử dụng để kiểm thử hoạt động của các thành phần khi chúng làm việc chung với nhau?",
+    "marks": 1,
+    "answerid": 104717,
+    "answers": [{
+        "id": 104716,
+        "text": "Kiểm thử đơn vị"
+    }, {
+        "id": 104717,
+        "text": "Kiểm thử tích hợp"
+    }, {
+        "id": 104718,
+        "text": "Kiểm thử chấp nhận"
+    }, {
+        "id": 104719,
+        "text": "Kiểm thử giao diện"
+    }]
+}, {
+    "id": 25264,
+    "text": "Android sử dụng Framework nào để kiểm thử đơn vị?",
+    "marks": 1,
+    "answerid": 104720,
+    "answers": [{
+        "id": 104720,
+        "text": "JUnit"
+    }, {
+        "id": 104721,
+        "text": "FUnit"
+    }, {
+        "id": 104722,
+        "text": "NUnit"
+    }, {
+        "id": 104723,
+        "text": "AUnit"
+    }]
+}, {
+    "id": 25265,
+    "text": "Trong JUnit, phương thức nào được sử dụng để kiểm tra một giá trị có phải Null hay không?",
+    "marks": 1,
+    "answerid": 104727,
+    "answers": [{
+        "id": 104724,
+        "text": "confirmNull"
+    }, {
+        "id": 104725,
+        "text": "assertNulls"
+    }, {
+        "id": 104726,
+        "text": "confirmNulls"
+    }, {
+        "id": 104727,
+        "text": "assertNull"
+    }]
+}, {
+    "id": 25266,
+    "text": "Trong JUnit test case, phương thức nào được sử dụng để tạo đối tượng và khởi tạo giá trị cho các đối tượng?",
+    "marks": 1,
+    "answerid": 104729,
+    "answers": [{
+        "id": 104728,
+        "text": "tearingDown()"
+    }, {
+        "id": 104729,
+        "text": "setUp()"
+    }, {
+        "id": 104730,
+        "text": "settingUp()"
+    }, {
+        "id": 104731,
+        "text": "tearDown()"
+    }]
+}, {
+    "id": 25267,
+    "text": "Kiểm tra việc lưu thông tin trạng thái của Activity trong phương thức nào?",
+    "marks": 1,
+    "answerid": 104733,
+    "answers": [{
+        "id": 104732,
+        "text": "onSearchRequested"
+    }, {
+        "id": 104733,
+        "text": "onPause"
+    }, {
+        "id": 104734,
+        "text": "onKeyUp"
+    }, {
+        "id": 104735,
+        "text": "onNavigateUp"
+    }]
+}, {
+    "id": 25268,
+    "text": "Lớp nào không nằm trong gói android.test.mock?",
+    "marks": 1,
+    "answerid": 104740,
+    "answers": [{
+        "id": 104736,
+        "text": "MockContext"
+    }, {
+        "id": 104737,
+        "text": "MockContentResolver"
+    }, {
+        "id": 104738,
+        "text": "MockCursor"
+    }, {
+        "id": 104739,
+        "text": "MockContentProvider"
+    }, {
+        "id": 104740,
+        "text": "MockResource"
+    }]
+}, {
+    "id": 25269,
+    "text": "Trong JUnit, phương thức nào được sử dụng để so sánh hai giá trị có bằng nhau hay không?",
+    "marks": 1,
+    "answerid": 104742,
+    "answers": [{
+        "id": 104741,
+        "text": "assertEqual"
+    }, {
+        "id": 104742,
+        "text": "assertEquals"
+    }, {
+        "id": 104743,
+        "text": "confirmEqual"
+    }, {
+        "id": 104744,
+        "text": "confirmEquals"
+    }]
+}, {
+    "id": 25270,
+    "text": "Phương thức nào được chạy trước tất cả test case?",
+    "marks": 1,
+    "answerid": 104746,
+    "answers": [{
+        "id": 104745,
+        "text": "tearDown()"
+    }, {
+        "id": 104746,
+        "text": "setUp()"
+    }, {
+        "id": 104747,
+        "text": "settingUp()"
+    }, {
+        "id": 104748,
+        "text": "tearingDown()"
+    }]
+}, {
+    "id": 25271,
+    "text": "Kiểm thử đơn vị được thực hiện bởi ai trong nhóm phát triển?",
+    "marks": 1,
+    "answerid": 104751,
+    "answers": [{
+        "id": 104749,
+        "text": "Tester"
+    }, {
+        "id": 104750,
+        "text": "QA"
+    }, {
+        "id": 104751,
+        "text": "Lập trình viên"
+    }, {
+        "id": 104752,
+        "text": "Product Owner"
+    }]
+}, {
+    "id": 25272,
+    "text": "Đoạn code sau có ý nghĩa gì?SecondActivity startedActivity = (SecondActivity)monitor. waitForActivityWithTimeout(2000);",
+    "marks": 1,
+    "answerid": 104755,
+    "answers": [{
+        "id": 104753,
+        "text": "Khởi tạo SecondActivity. Nếu sau 2 milliseconds, SecondActivity không được khởi tạo thì sẽ trả lại giá trị NULL"
+    }, {
+        "id": 104754,
+        "text": "Khởi tạo SecondActivity. Nếu sau 2 giờ, SecondActivity không được khởi tạo thì sẽ trả lại giá trị NULL"
+    }, {
+        "id": 104755,
+        "text": "Khởi tạo SecondActivity. Nếu sau 2 giây, SecondActivity không được khởi tạo thì sẽ trả lại giá trị NULL"
+    }, {
+        "id": 104756,
+        "text": "Khởi tạo SecondActivity"
+    }]
+}, {
+    "id": 25273,
+    "text": "Lớp nào hỗ trợ để sinh ra các sự kiện touch event?",
+    "marks": 1,
+    "answerid": 104760,
+    "answers": [{
+        "id": 104757,
+        "text": "TouchLibraries"
+    }, {
+        "id": 104758,
+        "text": "TouchUtil"
+    }, {
+        "id": 104759,
+        "text": "TouchLibrary"
+    }, {
+        "id": 104760,
+        "text": "TouchUtils"
+    }]
+}, {
+    "id": 25274,
+    "text": "Để gửi các sự kiện tới giao diện người dùng từ chương trình Android khi kiểm thử phải sử dụng công cụ nào?",
+    "marks": 1,
+    "answerid": 104764,
+    "answers": [{
+        "id": 104761,
+        "text": "JUnit"
+    }, {
+        "id": 104762,
+        "text": "Nunit"
+    }, {
+        "id": 104763,
+        "text": "Ant"
+    }, {
+        "id": 104764,
+        "text": "Instrumentation"
+    }]
+}, {
+    "id": 25275,
+    "text": "Phương thức nào của ViewAsserts được dùng để kiểm tra xem View có nằm trên màn hình hay không?",
+    "marks": 1,
+    "answerid": 104768,
+    "answers": [{
+        "id": 104765,
+        "text": "assertOffScreenAbove"
+    }, {
+        "id": 104766,
+        "text": "assertOffScreenBelow"
+    }, {
+        "id": 104767,
+        "text": "assertOffScreen"
+    }, {
+        "id": 104768,
+        "text": "assertOnScreen"
+    }]
+}, {
+    "id": 25276,
+    "text": "Đối với lớp kiểm thử SingleLaunchActivityTestCase, để lấy thông tin Activity sử dụng phương thức nào?",
+    "marks": 1,
+    "answerid": 104770,
+    "answers": [{
+        "id": 104769,
+        "text": "getActivities()"
+    }, {
+        "id": 104770,
+        "text": "getActivity()"
+    }, {
+        "id": 104771,
+        "text": "getCurrentActivitiy()"
+    }, {
+        "id": 104772,
+        "text": "getRecentActivitiy()"
+    }]
+}, {
+    "id": 25277,
+    "text": "Trước khi xuất bản ứng dụng lên Google Play, chúng ta nên kiểm tra ứng dụng trên các loại thiết bị nào?",
+    "marks": 1,
+    "answerid": 104774,
+    "answers": [{
+        "id": 104773,
+        "text": "Chỉ cần kiểm tra ứng dụng trên Emulator"
+    }, {
+        "id": 104774,
+        "text": "Kiểm tra thiết bị trên mọi kích thước màn hình và trên các màn hình với mật độ điểm ảnh khác nhau"
+    }, {
+        "id": 104775,
+        "text": "Kiểm tra ứng dụng trên Galaxy S4"
+    }, {
+        "id": 104776,
+        "text": "Kiểm tra ứng dụng trên Galaxy Tab"
+    }]
+}, {
+    "id": 25278,
+    "text": "Lớp kiểm thử nào chỉ cho phép gọi các phương thức setUp và tearDown một lần duy nhất, thay vì gọi 2 phương thức này trong các lần thực hiện gọi phương thức kiểm thử?",
+    "marks": 1,
+    "answerid": 104777,
+    "answers": [{
+        "id": 104777,
+        "text": "SingleLaunchActivityTestCase"
+    }, {
+        "id": 104778,
+        "text": "ActivityUnitTestCase"
+    }, {
+        "id": 104779,
+        "text": "ActivityUnitTestCase2"
+    }, {
+        "id": 104780,
+        "text": "SingleLaunchActivityTestCase2"
+    }]
+}, {
+    "id": 25279,
+    "text": "Phương thức nào của ViewAsserts được dùng để kiểm tra xem view cụ thể có nằm trong một ViewGroup hay không?",
+    "marks": 1,
+    "answerid": 104781,
+    "answers": [{
+        "id": 104781,
+        "text": "assertGroupContains"
+    }, {
+        "id": 104782,
+        "text": "assertGroupContain"
+    }, {
+        "id": 104783,
+        "text": "assertViewContains"
+    }, {
+        "id": 104784,
+        "text": "assertViewContains"
+    }]
+}, {
+    "id": 25280,
+    "text": "Phương thức nào của ActivityMonitor dùng để kiểm tra xem ActivityMonitor có cho phép Activity chạy không?",
+    "marks": 1,
+    "answerid": 104785,
+    "answers": [{
+        "id": 104785,
+        "text": "isBlocking"
+    }, {
+        "id": 104786,
+        "text": "isPreventing"
+    }, {
+        "id": 104787,
+        "text": "isStopping"
+    }, {
+        "id": 104788,
+        "text": "isLocking"
+    }]
+}, {
+    "id": 25281,
+    "text": "Lớp nào được sử dụng để gửi Intent giả lập tới Activity khi kiểm thử?",
+    "marks": 1,
+    "answerid": 104789,
+    "answers": [{
+        "id": 104789,
+        "text": "ActivityInstrumentationTestcase2"
+    }, {
+        "id": 104790,
+        "text": "ActivityUnitTestCase"
+    }, {
+        "id": 104791,
+        "text": "ActivityInstrumentationTestcase"
+    }, {
+        "id": 104792,
+        "text": "ActivityUnitTestCase2"
+    }]
+}, {
+    "id": 25282,
+    "text": "Thư viện nào hỗ trợ kiểm thử giao diện tự động?",
+    "marks": 1,
+    "answerid": 104796,
+    "answers": [{
+        "id": 104793,
+        "text": "uiautomation"
+    }, {
+        "id": 104794,
+        "text": "uiautomating"
+    }, {
+        "id": 104795,
+        "text": "uiautomate"
+    }, {
+        "id": 104796,
+        "text": "uiautomator"
+    }]
+}, {
+    "id": 25283,
+    "text": "Công cụ uiautomatorviewer dùng để làm gì?",
+    "marks": 1,
+    "answerid": 104797,
+    "answers": [{
+        "id": 104797,
+        "text": "Hỗ trợ quét và phân tích giao diện của ứng dụng chạy trên thiết bị thật"
+    }, {
+        "id": 104798,
+        "text": "Hỗ trợ quét và phân tích giao diện của ứng dụng chạy trên máy ảo"
+    }, {
+        "id": 104799,
+        "text": "Hỗ trợ quét và phân tích các thành phần của ContentProvider"
+    }, {
+        "id": 104800,
+        "text": "Hỗ trợ quét và phân tích các thành phần của Service"
+    }]
+}, {
+    "id": 25284,
+    "text": "Lớp nào không phải lớp có sẵn của uiautomator API?",
+    "marks": 1,
+    "answerid": 104802,
+    "answers": [{
+        "id": 104801,
+        "text": "UiScrollable"
+    }, {
+        "id": 104802,
+        "text": "UiSelectors"
+    }, {
+        "id": 104803,
+        "text": "UiObject"
+    }, {
+        "id": 104804,
+        "text": "Uidevice"
+    }]
+}, {
+    "id": 25285,
+    "text": "Sử dụng lệnh nào để cài đặt file JAR vào thiết bị kiểm thử?",
+    "marks": 1,
+    "answerid": 104808,
+    "answers": [{
+        "id": 104805,
+        "text": "adb pull"
+    }, {
+        "id": 104806,
+        "text": "android push"
+    }, {
+        "id": 104807,
+        "text": "android pull"
+    }, {
+        "id": 104808,
+        "text": "adb push"
+    }]
+}, {
+    "id": 25286,
+    "text": "Lệnh nào trong Window để thiết lập biến ANDROid_HOME?",
+    "marks": 1,
+    "answerid": 104809,
+    "answers": [{
+        "id": 104809,
+        "text": "set ANDROid_HOME="
+    }, {
+        "id": 104810,
+        "text": "set path ANDROid_HOME="
+    }, {
+        "id": 104811,
+        "text": "setting up ANDROid_HOME="
+    }, {
+        "id": 104812,
+        "text": "set up ANDROid_HOME="
+    }]
+}, {
+    "id": 25287,
+    "text": "Ngoại lệ UiAutomatorObjectNotFoundException xuất hiện khi nào?",
+    "marks": 1,
+    "answerid": 104814,
+    "answers": [{
+        "id": 104813,
+        "text": "Có nhiều phần tử UI thỏa mãn điều kiện tìm kiếm"
+    }, {
+        "id": 104814,
+        "text": "Không có phần tử UI nào thỏa mãn điều kiện tìm kiếm"
+    }, {
+        "id": 104815,
+        "text": "Không có phần tử textView nào thỏa mãn điều kiện tìm kiếm"
+    }, {
+        "id": 104816,
+        "text": "Có nhiều phần tử UI thỏa mãn điều kiện tìm kiếm"
+    }]
+}, {
+    "id": 25288,
+    "text": "Phải bổ sung thư viện Junit nào để có thể kiểm thử được giao diện?",
+    "marks": 1,
+    "answerid": 104820,
+    "answers": [{
+        "id": 104817,
+        "text": "Junit1"
+    }, {
+        "id": 104818,
+        "text": "Junit5"
+    }, {
+        "id": 104819,
+        "text": "Junit2"
+    }, {
+        "id": 104820,
+        "text": "Junit3"
+    }]
+}, {
+    "id": 25289,
+    "text": "Lệnh sau dùng để làm gì?UiObject cancelButton = new UiObject(new UiSelector().text(\"Cancel\") .className(\"android.widget.Button\"));",
+    "marks": 1,
+    "answerid": 104822,
+    "answers": [{
+        "id": 104821,
+        "text": "Tìm kiếm Button có giá trị description là Cancel"
+    }, {
+        "id": 104822,
+        "text": "Tìm kiếm Button có giá trị text là Cancel"
+    }, {
+        "id": 104823,
+        "text": "Tìm kiếm tất cả control có giá trị text là Cancel"
+    }, {
+        "id": 104824,
+        "text": "Tìm kiếm Button có giá trị resource-id là Cancel"
+    }]
+}, {
+    "id": 25290,
+    "text": "Để kiểm thử giao diện trên Android sử dụng uiautomator, phải tạo project kiểu gì?",
+    "marks": 1,
+    "answerid": 104826,
+    "answers": [{
+        "id": 104825,
+        "text": "Android Project"
+    }, {
+        "id": 104826,
+        "text": "Java Project"
+    }, {
+        "id": 104827,
+        "text": "Java Testing Project"
+    }, {
+        "id": 104828,
+        "text": "Android Testing Project"
+    }]
+}, {
+    "id": 25291,
+    "text": "Đối với Edittext nên cung cấp thuộc tính nào để phục vụ kiểm thử giao diện?",
+    "marks": 1,
+    "answerid": 104831,
+    "answers": [{
+        "id": 104829,
+        "text": "android:key"
+    }, {
+        "id": 104830,
+        "text": "android:caption"
+    }, {
+        "id": 104831,
+        "text": "android:hint"
+    }, {
+        "id": 104832,
+        "text": "android:id"
+    }]
+}, {
+    "id": 25292,
+    "text": "Khi kiểm thử Service, nếu override phương thức tearDown, phải gọi phương thức nào ở cuối phương thức tearDown?",
+    "marks": 1,
+    "answerid": 104835,
+    "answers": [{
+        "id": 104833,
+        "text": "super.tearUp()"
+    }, {
+        "id": 104834,
+        "text": "super.settingUp()"
+    }, {
+        "id": 104835,
+        "text": "super.tearDown()"
+    }, {
+        "id": 104836,
+        "text": "super.setUp()"
+    }]
+}, {
+    "id": 25293,
+    "text": "Lớp nào cung cấp đối tượng giả lập Application?",
+    "marks": 1,
+    "answerid": 104840,
+    "answers": [{
+        "id": 104837,
+        "text": "ApplicationMock"
+    }, {
+        "id": 104838,
+        "text": "Application"
+    }, {
+        "id": 104839,
+        "text": "MockApplications"
+    }, {
+        "id": 104840,
+        "text": "MockApplication"
+    }]
+}, {
+    "id": 25294,
+    "text": "Khi kiểm thử Service, người phát triển nên lưu ý điều gì?",
+    "marks": 1,
+    "answerid": 104842,
+    "answers": [{
+        "id": 104841,
+        "text": "Không được kiểm thử các logic nghiệp vụ"
+    }, {
+        "id": 104842,
+        "text": "Nên kiểm thử lời gọi dừng Service"
+    }, {
+        "id": 104843,
+        "text": "Không được kiểm thử lời gọi dừng Service"
+    }, {
+        "id": 104844,
+        "text": "Không nên sử dụng MockApplication khi kiểm thử"
+    }]
+}, {
+    "id": 25295,
+    "text": "Khi kiểm thử IntentService, phải sử dụng phương thức nào để kích hoạt gọi phương thức onHandleIntent?",
+    "marks": 1,
+    "answerid": 104845,
+    "answers": [{
+        "id": 104845,
+        "text": "TimeUnit.Seconds.sleep"
+    }, {
+        "id": 104846,
+        "text": "TimeUnit.Seconds.waiting"
+    }, {
+        "id": 104847,
+        "text": "TimeUnit.Seconds.toHours"
+    }, {
+        "id": 104848,
+        "text": "TimeUnit.Seconds.valueOf"
+    }]
+}, {
+    "id": 25296,
+    "text": "Phương thức nào được sử dụng để truyền đối tượng giả lập MockContext vào Service",
+    "marks": 1,
+    "answerid": 104849,
+    "answers": [{
+        "id": 104849,
+        "text": "setContext"
+    }, {
+        "id": 104850,
+        "text": "setContextObjects"
+    }, {
+        "id": 104851,
+        "text": "setContextObject"
+    }, {
+        "id": 104852,
+        "text": "setContexts"
+    }]
+}, {
+    "id": 25297,
+    "text": "Lớp ProviderTestCase2 kế thừa lớp nào?",
+    "marks": 1,
+    "answerid": 104855,
+    "answers": [{
+        "id": 104853,
+        "text": "AndroidTestCase2"
+    }, {
+        "id": 104854,
+        "text": "AndroidTestCase3"
+    }, {
+        "id": 104855,
+        "text": "AndroidTestCase"
+    }, {
+        "id": 104856,
+        "text": "AndroidTestCase1"
+    }]
+}, {
+    "id": 25298,
+    "text": "Khởi tạo lớp kiểm thử được thực hiện trong hàm nào?",
+    "marks": 1,
+    "answerid": 104858,
+    "answers": [{
+        "id": 104857,
+        "text": "Hàm IsolatedContext của ProviderTestCase2"
+    }, {
+        "id": 104858,
+        "text": "Hàm tạo của ProviderTestCase2"
+    }, {
+        "id": 104859,
+        "text": "Hàm MockContentResolver của ProviderTestCase2"
+    }, {
+        "id": 104860,
+        "text": "Hàm MockContentResolver của ProviderTestCase2"
+    }]
+}, {
+    "id": 25299,
+    "text": "Phương thức ServiceTestCase.bindService() trả về đối tượng kiểu gì?",
+    "marks": 1,
+    "answerid": 104864,
+    "answers": [{
+        "id": 104861,
+        "text": "int"
+    }, {
+        "id": 104862,
+        "text": "String"
+    }, {
+        "id": 104863,
+        "text": "Boolean"
+    }, {
+        "id": 104864,
+        "text": "iBinder"
+    }]
+}, {
+    "id": 25300,
+    "text": "Lớp nào cung cấp các phương thức kiểm thử ContentProvider?",
+    "marks": 1,
+    "answerid": 104866,
+    "answers": [{
+        "id": 104865,
+        "text": "ContentProviderTestCase"
+    }, {
+        "id": 104866,
+        "text": "ProviderTestCase2"
+    }, {
+        "id": 104867,
+        "text": "ProviderTestCase"
+    }, {
+        "id": 104868,
+        "text": "ContentProviderTestCase2"
+    }]
+}, {
+    "id": 25301,
+    "text": "Điều gì nên làm khi kiểm thử ContentProvider?",
+    "marks": 1,
+    "answerid": 104871,
+    "answers": [{
+        "id": 104869,
+        "text": "Không nên kiểm thử URI không hợp lệ"
+    }, {
+        "id": 104870,
+        "text": "Không nên kiểm thử hằng số mà ContentProvider cung cấp"
+    }, {
+        "id": 104871,
+        "text": "Kiểm thử tất cả URI mà ContentProvider cung cấp"
+    }, {
+        "id": 104872,
+        "text": "Kiểm thử URI truy vấn và URI cập nhật"
+    }]
+}, {
+    "id": 25302,
+    "text": "Làm thế nào để gửi sự kiện click vào nút BACK?",
+    "marks": 1,
+    "answerid": 104875,
+    "answers": [{
+        "id": 104873,
+        "text": "Gọi phương thức goBackButton của lớp Solo2"
+    }, {
+        "id": 104874,
+        "text": "Gọi phương thức goBackButton của lớp Solo"
+    }, {
+        "id": 104875,
+        "text": "Gọi phương thức goBack của lớp Solo"
+    }, {
+        "id": 104876,
+        "text": "Gọi phương thức goBack của lớp Solo2"
+    }]
+}, {
+    "id": 25303,
+    "text": "Phương thức nào được sử dụng để tìm kiếm Fragment theo id?",
+    "marks": 1,
+    "answerid": 104880,
+    "answers": [{
+        "id": 104877,
+        "text": "getCurrentActivity().getFragment() .findFragmentByid"
+    }, {
+        "id": 104878,
+        "text": "getCurrentActivity().findFragmentByid"
+    }, {
+        "id": 104879,
+        "text": "getActivity().getFragmentManager() .findFragmentByid"
+    }, {
+        "id": 104880,
+        "text": "getCurrentActivity().getFragmentManager() .findFragmentByid"
+    }]
+}, {
+    "id": 25304,
+    "text": "Làm thế nào để sử dụng Robotium để kiểm thử ứng dụng Android?",
+    "marks": 1,
+    "answerid": 104881,
+    "answers": [{
+        "id": 104881,
+        "text": "Sử dụng file JAR robotium tải trên trang http://code.google.com/p/robotium/"
+    }, {
+        "id": 104882,
+        "text": "Sử dụng file JAR robotium tải trên trang android.google.com/robotium"
+    }, {
+        "id": 104883,
+        "text": "Chỉ cần sử dụng android testing framework"
+    }, {
+        "id": 104884,
+        "text": "Chỉ cần sử dụng KitKat SDK"
+    }]
+}, {
+    "id": 25305,
+    "text": "Làm thế nào để gửi sự kiện click vào nút MENU trên thiết bị?",
+    "marks": 1,
+    "answerid": 104888,
+    "answers": [{
+        "id": 104885,
+        "text": "Gọi hàm sendKeys(Solo.MENU)"
+    }, {
+        "id": 104886,
+        "text": "Gọi hàm sendMenus(Solo.MENU)"
+    }, {
+        "id": 104887,
+        "text": "Gọi hàm sendMenu(Solo.MENU)"
+    }, {
+        "id": 104888,
+        "text": "Gọi hàm sendKey(Solo.MENU)"
+    }]
+}, {
+    "id": 25306,
+    "text": "Làm thế nào để kiểm tra activity hiện tại có phải là Activity SecondActivity hay không?",
+    "marks": 1,
+    "answerid": 104890,
+    "answers": [{
+        "id": 104889,
+        "text": "Gọi phương thức assertCurrentActivity(\"wrong activity\", SecondActivity) của lớp Solo"
+    }, {
+        "id": 104890,
+        "text": "Gọi phương thức assertCurrentActivity(\"wrong activity\", SecondActivity.class) của lớp Solo"
+    }, {
+        "id": 104891,
+        "text": "Gọi phương thức assertActivity(\"wrong activity\", Activity.class) của lớp Solo"
+    }, {
+        "id": 104892,
+        "text": "Gọi phương thức assertCurrentActivity(\"wrong activity\", Activity.class) của lớp Solo"
+    }]
+}, {
+    "id": 25307,
+    "text": "Chọn chức năng nào của Robotium Recorder để ghi lại tọa độ màn hình khi kiểm thử?",
+    "marks": 1,
+    "answerid": 104896,
+    "answers": [{
+        "id": 104893,
+        "text": "Click and drag"
+    }, {
+        "id": 104894,
+        "text": "sleep"
+    }, {
+        "id": 104895,
+        "text": "identify class over string"
+    }, {
+        "id": 104896,
+        "text": "Click and drag coordinate"
+    }]
+}, {
+    "id": 25308,
+    "text": "Để kiểm tra xem checkbox có được click hay không, phải sử dụng phương thức gì của lớp Solo?",
+    "marks": 1,
+    "answerid": 104900,
+    "answers": [{
+        "id": 104897,
+        "text": "isCheckBoxesCheck"
+    }, {
+        "id": 104898,
+        "text": "isCheckBoxCheck"
+    }, {
+        "id": 104899,
+        "text": "isCheckBoxesChecked"
+    }, {
+        "id": 104900,
+        "text": "isCheckBoxChecked"
+    }]
+}, {
+    "id": 25309,
+    "text": "Lợi ích của Robotium là gì?",
+    "marks": 1,
+    "answerid": 104902,
+    "answers": [{
+        "id": 104901,
+        "text": "Kiểm thử các ứng dụng game trên Android"
+    }, {
+        "id": 104902,
+        "text": "Kiểm thử các ứng dụng Android với tốc độ kiểm thử cao"
+    }, {
+        "id": 104903,
+        "text": "Kiểm thử các ứng dụng Window Phone"
+    }, {
+        "id": 104904,
+        "text": "Kiểm thử các ứng dụng iOS"
+    }]
+}, {
+    "id": 25310,
+    "text": "Sử dụng lớp nào của Robotium để kiểm thử giao diện?",
+    "marks": 1,
+    "answerid": 104907,
+    "answers": [{
+        "id": 104905,
+        "text": "Solo2"
+    }, {
+        "id": 104906,
+        "text": "RobotiumTestCase"
+    }, {
+        "id": 104907,
+        "text": "Solo"
+    }, {
+        "id": 104908,
+        "text": "RobotiumTestCase2"
+    }]
+}, {
+    "id": 25311,
+    "text": "Để có thể ghi thông tin screenshot vào sdcard từ robotium, phải thêm quyền gì vào AndroidManifest?",
+    "marks": 1,
+    "answerid": 104912,
+    "answers": [{
+        "id": 104909,
+        "text": "android.permission.WRITE_GSERVICES"
+    }, {
+        "id": 104910,
+        "text": "android.permission.WRITE_SECURE_SETTINGS"
+    }, {
+        "id": 104911,
+        "text": "android.permission.WRITE_SMS"
+    }, {
+        "id": 104912,
+        "text": "android.permission.WRITE_EXTERNAL_STORAGE"
+    }]
+}, {
+    "id": 25312,
+    "text": "Giá trị nào không phải giá trị của robolectric.logging?",
+    "marks": 1,
+    "answerid": 104914,
+    "answers": [{
+        "id": 104913,
+        "text": "tên file"
+    }, {
+        "id": 104914,
+        "text": "stdin"
+    }, {
+        "id": 104915,
+        "text": "stdout"
+    }, {
+        "id": 104916,
+        "text": "stderr"
+    }]
+}, {
+    "id": 25313,
+    "text": "Trong các phương thức kiểm thử của Robolectric, phải sử dụng test annotation nào?",
+    "marks": 1,
+    "answerid": 104918,
+    "answers": [{
+        "id": 104917,
+        "text": "@RunWithRobolectric"
+    }, {
+        "id": 104918,
+        "text": "@RunWith"
+    }, {
+        "id": 104919,
+        "text": "@With"
+    }, {
+        "id": 104920,
+        "text": "@Run"
+    }]
+}, {
+    "id": 25314,
+    "text": "Phải sử dụng file jar nào khi kiểm thử bằng Robolectric?",
+    "marks": 1,
+    "answerid": 104923,
+    "answers": [{
+        "id": 104921,
+        "text": "androidjunit.jar"
+    }, {
+        "id": 104922,
+        "text": "junit2.jar"
+    }, {
+        "id": 104923,
+        "text": "android.jar"
+    }, {
+        "id": 104924,
+        "text": "junit1.jar"
+    }]
+}, {
+    "id": 25315,
+    "text": "Để thiết lập giá trị mặc định cho các item trong đối tượng Config, phải thiết lập trong file nào?",
+    "marks": 1,
+    "answerid": 104928,
+    "answers": [{
+        "id": 104925,
+        "text": "org.Config.properties"
+    }, {
+        "id": 104926,
+        "text": "robolectric.Config.properties"
+    }, {
+        "id": 104927,
+        "text": "org.robolectric.Config.property"
+    }, {
+        "id": 104928,
+        "text": "org.robolectric.Config.properties"
+    }]
+}, {
+    "id": 25316,
+    "text": "Câu nào là đúng khi nói về Robolectric?",
+    "marks": 1,
+    "answerid": 104930,
+    "answers": [{
+        "id": 104929,
+        "text": "Robolectric chỉ cho phép kiểm thử trên emulator"
+    }, {
+        "id": 104930,
+        "text": "Robolectric cho phép kiểm thử không cần thiết bị thật và emulator"
+    }, {
+        "id": 104931,
+        "text": "Robolectric chỉ cho phép kiểm thử trên thiết bị thật"
+    }, {
+        "id": 104932,
+        "text": "Robolectric cho phép kiểm thử thiết bị iOS"
+    }]
+}, {
+    "id": 25317,
+    "text": "Phải sử dụng test annotation nào trước phương thức kiểm thử để có thể sử dụng file AndroidManifest tùy biến tên là ModifiedAndroidManifest?",
+    "marks": 1,
+    "answerid": 104936,
+    "answers": [{
+        "id": 104933,
+        "text": "@Configs(manifest = \"ModifiedAndroidManifest.xml\")"
+    }, {
+        "id": 104934,
+        "text": "@Configuration(manifest = \"ModifiedAndroidManifest.xml\")"
+    }, {
+        "id": 104935,
+        "text": "@Config(manifest = \"ModifiedAndroidManifest\")"
+    }, {
+        "id": 104936,
+        "text": "@Config(manifest = \"ModifiedAndroidManifest.xml\")"
+    }]
+}, {
+    "id": 25318,
+    "text": "File project.properties phải nằm ở đâu trong project?",
+    "marks": 1,
+    "answerid": 104940,
+    "answers": [{
+        "id": 104937,
+        "text": "thư mục image"
+    }, {
+        "id": 104938,
+        "text": "thư mục lib"
+    }, {
+        "id": 104939,
+        "text": "thư mục test"
+    }, {
+        "id": 104940,
+        "text": "thư mục gốc"
+    }]
+}, {
+    "id": 25319,
+    "text": "Sử dụng đối tượng nào trong Robolectric để có thể truy xuất thông tin của ImageView?",
+    "marks": 1,
+    "answerid": 104944,
+    "answers": [{
+        "id": 104941,
+        "text": "ShadowImage"
+    }, {
+        "id": 104942,
+        "text": "ImageView"
+    }, {
+        "id": 104943,
+        "text": "Image"
+    }, {
+        "id": 104944,
+        "text": "ShadowImageView"
+    }]
+}, {
+    "id": 25320,
+    "text": "Robolectric sử dụng JUnit phiên bản nào?",
+    "marks": 1,
+    "answerid": 104945,
+    "answers": [{
+        "id": 104945,
+        "text": "JUnit4"
+    }, {
+        "id": 104946,
+        "text": "JUnit3"
+    }, {
+        "id": 104947,
+        "text": "JUnit2"
+    }, {
+        "id": 104948,
+        "text": "JUnit1"
+    }]
+}, {
+    "id": 25321,
+    "text": "Đối tượng nào trong Robolectric hoạt động tương tự như các đối tượng của Android SDK?",
+    "marks": 1,
+    "answerid": 104950,
+    "answers": [{
+        "id": 104949,
+        "text": "junit object"
+    }, {
+        "id": 104950,
+        "text": "Shadow object"
+    }, {
+        "id": 104951,
+        "text": "hidden object"
+    }, {
+        "id": 104952,
+        "text": "android object"
+    }]
+}, {
+    "id": 25322,
+    "text": "Lệnh nào dùng để tạo Activity MyActivity, sau đó khởi tạo Activty, cuối cùng sẽ trả lại một đối tượng Activity?",
+    "marks": 1,
+    "answerid": 104954,
+    "answers": [{
+        "id": 104953,
+        "text": "Robolectric.buildActivity(MyActivity.class).onCreate().start().get()"
+    }, {
+        "id": 104954,
+        "text": "Robolectric.buildActivity(MyActivity.class).create().start().get()"
+    }, {
+        "id": 104955,
+        "text": "Robolectric.createActivity(MyActivity.class).create().start().get()"
+    }, {
+        "id": 104956,
+        "text": "Robolectric.buildActivity(MyActivity).create().start().get()"
+    }]
+}, {
+    "id": 25323,
+    "text": "Trong roboguide, để khai báo một resource có id là app_desc, phải sử dụng lệnh nào?",
+    "marks": 1,
+    "answerid": 104957,
+    "answers": [{
+        "id": 104957,
+        "text": "@InjectResources(R.id.app_desc) String app_mota"
+    }, {
+        "id": 104958,
+        "text": "@InjectView(R.id.app_desc) String app_mota"
+    }, {
+        "id": 104959,
+        "text": "@InjectResource(R.id.edittext1) String app_mota"
+    }, {
+        "id": 104960,
+        "text": "@InjectView(app_desc) String app_mota"
+    }]
+}, {
+    "id": 25324,
+    "text": "RoboGuide có thể sử dụng với framework kiểm thử nào?",
+    "marks": 1,
+    "answerid": 104962,
+    "answers": [{
+        "id": 104961,
+        "text": "Mockito"
+    }, {
+        "id": 104962,
+        "text": "Robolectric"
+    }, {
+        "id": 104963,
+        "text": "Robotium"
+    }, {
+        "id": 104964,
+        "text": "Android testing framework"
+    }]
+}, {
+    "id": 25325,
+    "text": "Trong Robolectric từ version 2.2, lớp nào hỗ trợ quản lý vòng đời Activity giống với Android SDK?",
+    "marks": 1,
+    "answerid": 104965,
+    "answers": [{
+        "id": 104965,
+        "text": "Activities"
+    }, {
+        "id": 104966,
+        "text": "ActivityControlling"
+    }, {
+        "id": 104967,
+        "text": "ActivityController"
+    }, {
+        "id": 104968,
+        "text": "Actiivty"
+    }]
+}, {
+    "id": 25326,
+    "text": "Câu nào là đúng đối với việc quản lý tài nguyên trong Robolectric?",
+    "marks": 1,
+    "answerid": 104971,
+    "answers": [{
+        "id": 104969,
+        "text": "Chỉ cho phép thay đổi cách tài nguyên được nạp dựa trên yếu tố thiết bị"
+    }, {
+        "id": 104970,
+        "text": "Chỉ cho phép thay đổi cách tài nguyên được nạp dựa trên các yếu tố thiết bị, cỡ màn hình"
+    }, {
+        "id": 104971,
+        "text": "Cho phép thay đổi cách tài nguyên được nạp dựa trên các yếu tố thiết bị, cỡ màn hình,ngôn ngữ"
+    }, {
+        "id": 104972,
+        "text": "Không cho phép thay đổi tài nguyên"
+    }]
+}, {
+    "id": 25327,
+    "text": "Để xác định tài nguyên cho phương thức kiểm thử cụ thể, phải sử dụng từ khóa nào trước phương thức đó?",
+    "marks": 1,
+    "answerid": 104974,
+    "answers": [{
+        "id": 104973,
+        "text": "@Configurtor"
+    }, {
+        "id": 104974,
+        "text": "@Config"
+    }, {
+        "id": 104975,
+        "text": "@Configs"
+    }, {
+        "id": 104976,
+        "text": "@Configuration"
+    }]
+}, {
+    "id": 25328,
+    "text": "Để xác định tài nguyên cho cả phương thức cụ thể, phải dùng từ khóa @Config ở đâu?",
+    "marks": 1,
+    "answerid": 104978,
+    "answers": [{
+        "id": 104977,
+        "text": "Trong file resource"
+    }, {
+        "id": 104978,
+        "text": "Trong từng test case"
+    }, {
+        "id": 104979,
+        "text": "Trong file values.xml"
+    }, {
+        "id": 104980,
+        "text": "Trong file test"
+    }]
+}, {
+    "id": 25329,
+    "text": "Trong Robolectric từ version 2.2, phương thức nào được sử dụng để quản lý Activity?",
+    "marks": 1,
+    "answerid": 104982,
+    "answers": [{
+        "id": 104981,
+        "text": "Robolectric.onCreateAcitivity"
+    }, {
+        "id": 104982,
+        "text": "Robolectric.buildActivity"
+    }, {
+        "id": 104983,
+        "text": "Robolectric.startActivity"
+    }, {
+        "id": 104984,
+        "text": "Robolectric.createActivity"
+    }]
+}, {
+    "id": 25330,
+    "text": "Trong roboguide, để khai báo một Edittext có id là edittext1, phải sử dụng lệnh nào?",
+    "marks": 1,
+    "answerid": 104988,
+    "answers": [{
+        "id": 104985,
+        "text": "@InjectView(edittext1) Edittext name"
+    }, {
+        "id": 104986,
+        "text": "@InjectResource(R.id.edittext1) Edittext name"
+    }, {
+        "id": 104987,
+        "text": "@Inject(R.id.edittext1) Edittext name"
+    }, {
+        "id": 104988,
+        "text": "@InjectView(R.id.edittext1) Edittext name"
+    }]
+}, {
+    "id": 25331,
+    "text": "Roboguice không thể chạy trên idE nào?",
+    "marks": 1,
+    "answerid": 104989,
+    "answers": [{
+        "id": 104989,
+        "text": "Net Bean"
+    }, {
+        "id": 104990,
+        "text": "Android Studio"
+    }, {
+        "id": 104991,
+        "text": "IntelliJ"
+    }, {
+        "id": 104992,
+        "text": "Eclipse"
+    }]
+}, {
+    "id": 25332,
+    "text": "Thực thể key.store được lưu trữ ở đâu?",
+    "marks": 1,
+    "answerid": 104996,
+    "answers": [{
+        "id": 104993,
+        "text": "ant.prop"
+    }, {
+        "id": 104994,
+        "text": "apk.properties"
+    }, {
+        "id": 104995,
+        "text": "apk.prop"
+    }, {
+        "id": 104996,
+        "text": "ant.properties"
+    }]
+}, {
+    "id": 25333,
+    "text": "Khi kiểm tra và cập nhật file manifest trước khi phát hành, ta cần kiểm tra các thành phần nào?",
+    "marks": 1,
+    "answerid": 105000,
+    "answers": [{
+        "id": 104997,
+        "text": ", android:CodeLabel, android:versionName"
+    }, {
+        "id": 104998,
+        "text": ", android:versionCode, android:versionLabel"
+    }, {
+        "id": 104999,
+        "text": ", android:labelCode, android:versionName"
+    }, {
+        "id": 105000,
+        "text": ", android:versionCode, android:versionName"
+    }]
+}, {
+    "id": 25334,
+    "text": "Để xóa các tài nguyên không cần thiết khỏi ứng dụng, ta cần vào các thư mục nào?",
+    "marks": 1,
+    "answerid": 105001,
+    "answers": [{
+        "id": 105001,
+        "text": "jni/, lib/, và src/"
+    }, {
+        "id": 105002,
+        "text": "jni/, lib/, src/ và code/"
+    }, {
+        "id": 105003,
+        "text": "jni/, lib/, src/, code/ và img/"
+    }, {
+        "id": 105004,
+        "text": "code/ và img/"
+    }]
+}, {
+    "id": 25335,
+    "text": "Google Play là gì?",
+    "marks": 1,
+    "answerid": 105005,
+    "answers": [{
+        "id": 105005,
+        "text": "Chợ ứng dụng android"
+    }, {
+        "id": 105006,
+        "text": "Thư viện android"
+    }, {
+        "id": 105007,
+        "text": "Chợ phần cứng mobile"
+    }, {
+        "id": 105008,
+        "text": "Thư viện .net"
+    }]
+}, {
+    "id": 25336,
+    "text": "Để ứng dụng có thể phát hành, bạn cần làm gì?",
+    "marks": 1,
+    "answerid": 105010,
+    "answers": [{
+        "id": 105009,
+        "text": "Có một khóa riêng phù hợp; Biên dịch ứng dụng trong chế độ phát hành; Đăng ký ứng dụng với khóa riêng;Tạo gói jdk"
+    }, {
+        "id": 105010,
+        "text": "Có một khóa riêng phù hợp; Biên dịch ứng dụng trong chế độ phát hành; Đăng ký ứng dụng với khóa riêng;Tạo gói apk"
+    }, {
+        "id": 105011,
+        "text": "Có một khóa riêng phù hợp; Biên dịch ứng dụng trong chế độ phát hành; Đăng ký ứng dụng với khóa riêng;Tạo gói apk và gói jdk"
+    }, {
+        "id": 105012,
+        "text": "Có một khóa riêng phù hợp; Biên dịch ứng dụng trong chế độ phát hành; Đăng ký ứng dụng với khóa riêng;Tạo gói apk, gói jar và gói jdk"
+    }]
+}, {
+    "id": 25337,
+    "text": "Để xây dựng ứng dụng phát hành bằng dòng lệnh, ta dùng lệnh nào?",
+    "marks": 1,
+    "answerid": 105013,
+    "answers": [{
+        "id": 105013,
+        "text": "ant release"
+    }, {
+        "id": 105014,
+        "text": "ant debug"
+    }, {
+        "id": 105015,
+        "text": "apk debug"
+    }, {
+        "id": 105016,
+        "text": "apk release"
+    }]
+}, {
+    "id": 25338,
+    "text": "Lệnh adb dùng để làm gì?",
+    "marks": 1,
+    "answerid": 105018,
+    "answers": [{
+        "id": 105017,
+        "text": "Cài đặt file jdk"
+    }, {
+        "id": 105018,
+        "text": "Cài đặt file apk"
+    }, {
+        "id": 105019,
+        "text": "Ẩn file apk"
+    }, {
+        "id": 105020,
+        "text": "Ẩn file jdk"
+    }]
+}, {
+    "id": 25339,
+    "text": "Để chạy ứng dụng trên thiết bị thật, chúng ta cần làm gì?",
+    "marks": 1,
+    "answerid": 105021,
+    "answers": [{
+        "id": 105021,
+        "text": "Enable USB debugging"
+    }, {
+        "id": 105022,
+        "text": "Disable USB debugging"
+    }, {
+        "id": 105023,
+        "text": "Enable Apache debugging"
+    }, {
+        "id": 105024,
+        "text": "Enable USB debuger"
+    }]
+}, {
+    "id": 25340,
+    "text": "Lệnh jarsigner dùng để làm gì?",
+    "marks": 1,
+    "answerid": 105028,
+    "answers": [{
+        "id": 105025,
+        "text": "Xóa ứng dụng"
+    }, {
+        "id": 105026,
+        "text": "Đăng nhập ứng dụng"
+    }, {
+        "id": 105027,
+        "text": "Đăng xuất ứng dụng"
+    }, {
+        "id": 105028,
+        "text": "Đăng ký ứng dụng với khóa riêng"
+    }]
+}, {
+    "id": 25341,
+    "text": "Tham số validity của keytool có ý nghĩa gì?",
+    "marks": 1,
+    "answerid": 105029,
+    "answers": [{
+        "id": 105029,
+        "text": "Thời gian hiệu lực"
+    }, {
+        "id": 105030,
+        "text": "Thời gian upload ứng dụng"
+    }, {
+        "id": 105031,
+        "text": "Thuật toán mã hóa"
+    }, {
+        "id": 105032,
+        "text": "Bí danh ứng dụng"
+    }]
+}]

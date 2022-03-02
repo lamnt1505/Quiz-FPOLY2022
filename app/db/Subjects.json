@@ -1,0 +1,102 @@
+[
+    {
+        "id": "ADAV",
+        "name": "Lập trình Android nâng cao",
+        "logo": "ADAV.jpg"
+    },
+    {
+        "id": "ADBS",
+        "name": "Lập trình Android cơ bản",
+        "logo": "ADBS.jpg"
+    },
+    {
+        "id": "ADTE",
+        "name": "Kiểm thử và triển khai ứng dụng Android",
+        "logo": "ADTE.jpg"
+    },
+    {
+        "id": "ADUI",
+        "name": "Thiết kế giao diện trên Android",
+        "logo": "ADUI.jpg"
+    },
+    {
+        "id": "ASNE",
+        "name": "Lập trình ASP.NET",
+        "logo": "ASNE.png"
+    },
+    {
+        "id": "CLCO",
+        "name": "Điện toán đám mây",
+        "logo": "CLCO.jpg"
+    },
+    {
+        "id": "DBAV",
+        "name": "SQL Server",
+        "logo": "DBAV.png"
+    },
+    {
+        "id": "DBBS",
+        "name": "Cơ sở dữ liệu",
+        "logo": "DBBS.png"
+    },
+    {
+        "id": "GAME",
+        "name": "Lập trình game 2D",
+        "logo": "GAME.png"
+    },
+    {
+        "id": "HTCS",
+        "name": "HTML5 và CSS3",
+        "logo": "HTCS.jpg"
+    },
+    {
+        "id": "INMA",
+        "name": "Internet Marketing",
+        "logo": "INMA.jpg"
+    },
+    {
+        "id": "JAAV",
+        "name": "Lập trình Java nâng cao",
+        "logo": "JAAV.png"
+    },
+    {
+        "id": "JABS",
+        "name": "Lập trình hướng đối tượng với Java",
+        "logo": "JABS.png"
+    },
+    {
+        "id": "JSPR",
+        "name": "Lập trình JavaScript",
+        "logo": "JSPR.png"
+    },
+    {
+        "id": "LAYO",
+        "name": "Thiết kế layout",
+        "logo": "LAYO.jpg"
+    },
+    {
+        "id": "MOWE",
+        "name": "Thiết kế web cho điện thoại di động",
+        "logo": "MOWE.png"
+    },
+    {
+        "id": "PHPP",
+        "name": "Lập trình PHP",
+        "logo": "PHPP.png"
+    },
+    {
+        "id": "PMAG",
+        "name": "Quản lý dự án với Agile",
+        "logo": "PMAG.jpg"
+    },
+    {
+        "id": "VBPR",
+        "name": "Lập trình VB.NET",
+        "logo": "VBPR.png"
+    },
+    {
+        "id": "WEBU",
+        "name": "Xây dựng trang web",
+        "logo": "WEBU.jpg"
+    }
+]

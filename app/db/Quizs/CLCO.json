@@ -1,0 +1,901 @@
+[{
+    "id": 24661,
+    "text": "Dịch vụ Amazon Elastic Compute Cloud có chức năng chính là gì?",
+    "marks": 1,
+    "answerid": 102331,
+    "answers": [{
+        "id": 102331,
+        "text": "Hỗ trợ lưu trữ web"
+    }, {
+        "id": 102332,
+        "text": "Hỗ trợ cập nhật dữ liệu"
+    }, {
+        "id": 102333,
+        "text": "Hỗ trợ thay đổi kiến trúc mô hình cloud"
+    }, {
+        "id": 102334,
+        "text": "Hỗ trợ truy xuất dữ liệu"
+    }]
+}, {
+    "id": 24662,
+    "text": "Câu nào là đúng đối với UDDI?",
+    "marks": 1,
+    "answerid": 102337,
+    "answers": [{
+        "id": 102335,
+        "text": "UDDI là cách viết khác của WSDL"
+    }, {
+        "id": 102336,
+        "text": "UDDI tương tự như WSDL"
+    }, {
+        "id": 102337,
+        "text": "UDDI cho phép ghi thông tin về doanh nghiệp và chi tiết sử dụng dịch vụ web."
+    }, {
+        "id": 102338,
+        "text": "UDDI không cho phép ghi thông tin về doanh nghiệp và chi tiết sử dụng dịch vụ web, nó chỉ được thực hiện qua WSDL"
+    }]
+}, {
+    "id": 24663,
+    "text": "Câu nào là đúng đối với WSDL?",
+    "marks": 1,
+    "answerid": 102339,
+    "answers": [{
+        "id": 102339,
+        "text": "WSDL Cho phép các nhà phát triển ghi thông tin dịch vụ web"
+    }, {
+        "id": 102340,
+        "text": "WSDL kết nối trực tiếp với cơ sở dữ liệu SQLite và trả về kết quả cho người dùng"
+    }, {
+        "id": 102341,
+        "text": "WSDL là cầu nối giữa người sử dụng với Database"
+    }, {
+        "id": 102342,
+        "text": "WSDL không cho phép các nhà phát triển ghi thông tin dịch vụ web"
+    }]
+}, {
+    "id": 24664,
+    "text": "WSDL là viết tắt của cụm từ nào?",
+    "marks": 1,
+    "answerid": 102345,
+    "answers": [{
+        "id": 102343,
+        "text": "Width Server Description Language"
+    }, {
+        "id": 102344,
+        "text": "Width Services Description Language"
+    }, {
+        "id": 102345,
+        "text": "Web Services Description Language"
+    }, {
+        "id": 102346,
+        "text": "Web Server Description Language"
+    }]
+}, {
+    "id": 24665,
+    "text": "API là viết tắt của cụm từ nào?",
+    "marks": 1,
+    "answerid": 102349,
+    "answers": [{
+        "id": 102347,
+        "text": "Application Private Interface"
+    }, {
+        "id": 102348,
+        "text": "Application Programming Internet"
+    }, {
+        "id": 102349,
+        "text": "Application Programming Interface"
+    }, {
+        "id": 102350,
+        "text": "Application Public Interface"
+    }]
+}, {
+    "id": 24666,
+    "text": "Câu nào là đúng đối với API?",
+    "marks": 1,
+    "answerid": 102351,
+    "answers": [{
+        "id": 102351,
+        "text": "API cho phép các chương trình sử dụng có thể giao tiếp với nhau mà không cần sự tham gia của người dùng"
+    }, {
+        "id": 102352,
+        "text": "API bản chất là một webserver"
+    }, {
+        "id": 102353,
+        "text": "Để giao tiếp các chương trình sử dụng API nhất thiết phải có sự tham gia của người dùng"
+    }, {
+        "id": 102354,
+        "text": "API bản chất là một không gian lưu trữ web"
+    }]
+}, {
+    "id": 24667,
+    "text": "Câu nào là đúng đối với SOAP?",
+    "marks": 1,
+    "answerid": 102357,
+    "answers": [{
+        "id": 102355,
+        "text": "Sử dụng để mã hóa thông điệp HTML"
+    }, {
+        "id": 102356,
+        "text": "Sử dụng để duy trì kết nối internet"
+    }, {
+        "id": 102357,
+        "text": "Sử dụng để mã hóa thông điệp XML"
+    }, {
+        "id": 102358,
+        "text": "Sử dụng để mã hóa CSS"
+    }]
+}, {
+    "id": 24668,
+    "text": "Câu nào là đúng đối với API?",
+    "marks": 1,
+    "answerid": 102362,
+    "answers": [{
+        "id": 102359,
+        "text": "API là một file thư viện dạng dll"
+    }, {
+        "id": 102360,
+        "text": "API là một file thực thi dạng exe"
+    }, {
+        "id": 102361,
+        "text": "API không cho phép các nhà phát triển khác sử dụng để phát triển sản phẩm của riêng họ"
+    }, {
+        "id": 102362,
+        "text": "API cho phép các nhà phát triển khác sử dụng để phát triển sản phẩm của riêng họ"
+    }]
+}, {
+    "id": 24669,
+    "text": "AJAX sử dụng công nghệ nào?",
+    "marks": 1,
+    "answerid": 102364,
+    "answers": [{
+        "id": 102363,
+        "text": "Sử dụng các công nghệ GSM, CDMA, CSS"
+    }, {
+        "id": 102364,
+        "text": "Sử dụng các công nghệ XHTML, CSS, JSON"
+    }, {
+        "id": 102365,
+        "text": "Chỉ sử dụng duy nhất công nghệ CDMA"
+    }, {
+        "id": 102366,
+        "text": "Sử dụng các công nghẹ XHTML, CMS, CRM, HTML, CSS"
+    }]
+}, {
+    "id": 24670,
+    "text": "Bất lợi của AJAX là gì?",
+    "marks": 1,
+    "answerid": 102370,
+    "answers": [{
+        "id": 102367,
+        "text": "Có thể hiển thị lịch sử truy cập nhưng tối đa hiển thị là 10 bản ghi"
+    }, {
+        "id": 102368,
+        "text": "Phải sử dụng nhiều đoạn kịch bản PHP"
+    }, {
+        "id": 102369,
+        "text": "Phải sử dụng nhiều doạn kịch bản JavaScript"
+    }, {
+        "id": 102370,
+        "text": "Không hiển thị lịch sử truy cập"
+    }]
+}, {
+    "id": 24671,
+    "text": "Dịch vụ nào được MobileMe cung cấp?",
+    "marks": 1,
+    "answerid": 102372,
+    "answers": [{
+        "id": 102371,
+        "text": "post"
+    }, {
+        "id": 102372,
+        "text": "push"
+    }, {
+        "id": 102373,
+        "text": "move"
+    }, {
+        "id": 102374,
+        "text": "Get"
+    }]
+}, {
+    "id": 24672,
+    "text": "MobileMe là giải pháp của công ty nào?",
+    "marks": 1,
+    "answerid": 102378,
+    "answers": [{
+        "id": 102375,
+        "text": "Microsoft"
+    }, {
+        "id": 102376,
+        "text": "Google"
+    }, {
+        "id": 102377,
+        "text": "IBM"
+    }, {
+        "id": 102378,
+        "text": "Apple"
+    }]
+}, {
+    "id": 24673,
+    "text": "Dịch vụ Live Mesh là của công ty nào?",
+    "marks": 1,
+    "answerid": 102380,
+    "answers": [{
+        "id": 102379,
+        "text": "Yahoo"
+    }, {
+        "id": 102380,
+        "text": "Microsoft"
+    }, {
+        "id": 102381,
+        "text": "IBM"
+    }, {
+        "id": 102382,
+        "text": "Apple"
+    }]
+}, {
+    "id": 24674,
+    "text": "Điều nào sau đây đúng về Live Framework?",
+    "marks": 1,
+    "answerid": 102384,
+    "answers": [{
+        "id": 102383,
+        "text": "Live Framework là một thư mục chia sẻ, tương tác với các thành phần trong hệ điều hành"
+    }, {
+        "id": 102384,
+        "text": "Live Framework là một API cho phép truy cập các dịch vụ Live Mesh trên HTTP"
+    }, {
+        "id": 102385,
+        "text": "Live Framework là một file"
+    }, {
+        "id": 102386,
+        "text": "Live Framework là một hệ điều hành"
+    }]
+}, {
+    "id": 24675,
+    "text": "SDN là viết tắt của cụm từ nào?",
+    "marks": 1,
+    "answerid": 102390,
+    "answers": [{
+        "id": 102387,
+        "text": "Storage Develop Network"
+    }, {
+        "id": 102388,
+        "text": "Small Delivery Network"
+    }, {
+        "id": 102389,
+        "text": "Small Delivery Networking"
+    }, {
+        "id": 102390,
+        "text": "Storage Delivery Network"
+    }]
+}, {
+    "id": 24676,
+    "text": "Live Mesh có sẵn trong hệ điều hành nào?",
+    "marks": 1,
+    "answerid": 102391,
+    "answers": [{
+        "id": 102391,
+        "text": "Có trong windows XP, windows Vista"
+    }, {
+        "id": 102392,
+        "text": "Có trong MS-DOS"
+    }, {
+        "id": 102393,
+        "text": "Có trong fedora"
+    }, {
+        "id": 102394,
+        "text": "Có trong Ubuntu"
+    }]
+}, {
+    "id": 24677,
+    "text": "Điều nào sau đây đúng về dịch vụ S3?",
+    "marks": 1,
+    "answerid": 102396,
+    "answers": [{
+        "id": 102395,
+        "text": "Là dịch vụ hỗ trợ truy xuất dữ liệu trên cloud nhưng không hỗ trợ lưu trữ"
+    }, {
+        "id": 102396,
+        "text": "Là dịch vụ lưu trữ trên cloud"
+    }, {
+        "id": 102397,
+        "text": "Là dịch vụ hủy dữ liệu từ cloud"
+    }, {
+        "id": 102398,
+        "text": "Là dịch vụ copy dữ liệu giữa 2 máy client"
+    }]
+}, {
+    "id": 24678,
+    "text": "MobileMe idisk dùng để quản lý điều gì?",
+    "marks": 1,
+    "answerid": 102402,
+    "answers": [{
+        "id": 102399,
+        "text": "Quản lý thiết bị hỗ trợ bảo mật vân tay"
+    }, {
+        "id": 102400,
+        "text": "Quản lý ổ đĩa cứng"
+    }, {
+        "id": 102401,
+        "text": "Quản lý các ứng dụng"
+    }, {
+        "id": 102402,
+        "text": "Quản lý tập tin hỗ trợ kéo thả"
+    }]
+}, {
+    "id": 24679,
+    "text": "Dịch vụ S3 cung cấp cho khách hàng sử dụng giao thức nào?",
+    "marks": 1,
+    "answerid": 102406,
+    "answers": [{
+        "id": 102403,
+        "text": "TCP"
+    }, {
+        "id": 102404,
+        "text": "UDP"
+    }, {
+        "id": 102405,
+        "text": "UDP, TCP, REST, SOAP"
+    }, {
+        "id": 102406,
+        "text": "REST và SOAP"
+    }]
+}, {
+    "id": 24680,
+    "text": "Hãy cho biết đâu là tính năng chính của dịch vụ S3?",
+    "marks": 1,
+    "answerid": 102410,
+    "answers": [{
+        "id": 102407,
+        "text": "Ghi đọc xóa dữ liệu trên máy client"
+    }, {
+        "id": 102408,
+        "text": "Chỉ hỗ trợ tính năng Xóa dữ liệu"
+    }, {
+        "id": 102409,
+        "text": "Di chuyển dữ liệu"
+    }, {
+        "id": 102410,
+        "text": "Ghi dữ liệu, đọc, xóa dữ liệu"
+    }]
+}, {
+    "id": 24681,
+    "text": "Dịch vụ Office Live Small Business phù hợp với doanh nghiệp nào?",
+    "marks": 1,
+    "answerid": 102411,
+    "answers": [{
+        "id": 102411,
+        "text": "Vừa và nhỏ"
+    }, {
+        "id": 102412,
+        "text": "Vừa"
+    }, {
+        "id": 102413,
+        "text": "Nhỏ"
+    }, {
+        "id": 102414,
+        "text": "Lớn"
+    }]
+}, {
+    "id": 24682,
+    "text": "SaaS bao gồm các loại dịch vụ nào?",
+    "marks": 1,
+    "answerid": 102418,
+    "answers": [{
+        "id": 102415,
+        "text": "Business services và Customer-oriented services và soft services"
+    }, {
+        "id": 102416,
+        "text": "Business service"
+    }, {
+        "id": 102417,
+        "text": "Business services, Customer-oriented services, school services"
+    }, {
+        "id": 102418,
+        "text": "Business services và Customer-oriented services"
+    }]
+}, {
+    "id": 24683,
+    "text": "Đây không phải là một lợi thế của mô hình SaaS",
+    "marks": 1,
+    "answerid": 102420,
+    "answers": [{
+        "id": 102419,
+        "text": "Dịch vụ SaaS cần ít chi phí nhất"
+    }, {
+        "id": 102420,
+        "text": "Saas hoàn toàn có thể sử dụng mà không cần dùng Internet"
+    }, {
+        "id": 102421,
+        "text": "SaaS hỗ trợ kiểm soát an toàn dữ liệu tốt"
+    }, {
+        "id": 102422,
+        "text": "SaaS có khả năng áp dụng các chuẩn mực về CNTT cho tất cả các khách hàng sử dụng, do đó tính đồng nhất cao"
+    }]
+}, {
+    "id": 24684,
+    "text": "Dịch vụ nào thuộc SaaS?",
+    "marks": 1,
+    "answerid": 102425,
+    "answers": [{
+        "id": 102423,
+        "text": "Chỉ có Hotmail"
+    }, {
+        "id": 102424,
+        "text": "Chỉ có Gmail"
+    }, {
+        "id": 102425,
+        "text": "Gmail, Hotmail, Yahoo Mail"
+    }, {
+        "id": 102426,
+        "text": "Gmail, Hotmail, Yahoo Mail, Book Mail"
+    }]
+}, {
+    "id": 24685,
+    "text": "Lợi ích của ảo hóa là gì?",
+    "marks": 1,
+    "answerid": 102427,
+    "answers": [{
+        "id": 102427,
+        "text": "Ảo hóa giúp bạn dễ dàng di chuyển đến một hệ thống SaaS"
+    }, {
+        "id": 102428,
+        "text": "Ảo hóa giúp bạn dễ dàng sử dụng phần mềm mà không cần SaaS"
+    }, {
+        "id": 102429,
+        "text": "Để ảo hóa sẽ cần 10 Server thật"
+    }, {
+        "id": 102430,
+        "text": "Ảo hóa giúp bạn kết nối với SaaS mà không cần internet"
+    }]
+}, {
+    "id": 24686,
+    "text": "Điều nào sau đây đúng về SaaS?",
+    "marks": 1,
+    "answerid": 102432,
+    "answers": [{
+        "id": 102431,
+        "text": "Cần thiết phải quản lý cơ sở hạ tầng và nền tảng nó đang chạy"
+    }, {
+        "id": 102432,
+        "text": "Không cần quản lý cơ sở hạ tầng và nền tảng nó đang chạy"
+    }, {
+        "id": 102433,
+        "text": "Chỉ càn quản lý phần mềm đang chạy, không cần quản lý cơ sở hạ tầng"
+    }, {
+        "id": 102434,
+        "text": "Chỉ cần quản lý có sở hạ tầng, không cần quản lý phần mềm đang chạy"
+    }]
+}, {
+    "id": 24687,
+    "text": "Google Calendar thuộc nhóm dịch vụ nào?",
+    "marks": 1,
+    "answerid": 102438,
+    "answers": [{
+        "id": 102435,
+        "text": "Google Apps Calendar Edition"
+    }, {
+        "id": 102436,
+        "text": "Google Apps Premier Edition"
+    }, {
+        "id": 102437,
+        "text": "Google Apps Premier Calendar"
+    }, {
+        "id": 102438,
+        "text": "Google Apps"
+    }]
+}, {
+    "id": 24688,
+    "text": "Google Apps Premier Edition hỗ trợ cho mỗi user miễn phí bao nhiêu GB?",
+    "marks": 1,
+    "answerid": 102439,
+    "answers": [{
+        "id": 102439,
+        "text": "10GB"
+    }, {
+        "id": 102440,
+        "text": "5GB"
+    }, {
+        "id": 102441,
+        "text": "20GB"
+    }, {
+        "id": 102442,
+        "text": "100GB"
+    }]
+}, {
+    "id": 24689,
+    "text": "SaaS là gì?",
+    "marks": 1,
+    "answerid": 102445,
+    "answers": [{
+        "id": 102443,
+        "text": "Là một ứng dụng trên Linux client"
+    }, {
+        "id": 102444,
+        "text": "Là một dịch vụ lưu trữ trên một máy client"
+    }, {
+        "id": 102445,
+        "text": "Là một ứng dụng lưu trữ trên một máy chủ từ xa và truy cập thông qua Internet"
+    }, {
+        "id": 102446,
+        "text": "Là một ứng dụng được lưu trữ trên Server Localhost"
+    }]
+}, {
+    "id": 24690,
+    "text": "Đâu là dịch vụ SaaS của Google?",
+    "marks": 1,
+    "answerid": 102450,
+    "answers": [{
+        "id": 102447,
+        "text": "Google Apps Google Apps Premier Edition, Google List, Google Collection"
+    }, {
+        "id": 102448,
+        "text": "Google Apps Google Apps Premier Edition và Google List"
+    }, {
+        "id": 102449,
+        "text": "Google Apps và Google Apps Mobile Collection"
+    }, {
+        "id": 102450,
+        "text": "Google Apps và Google Apps Premier Edition"
+    }]
+}, {
+    "id": 24691,
+    "text": "Nhược điểm của Google App Engine?",
+    "marks": 1,
+    "answerid": 102452,
+    "answers": [{
+        "id": 102451,
+        "text": "Không hỗ trợ Python"
+    }, {
+        "id": 102452,
+        "text": "Không hỗ trợ tốt về AJAX"
+    }, {
+        "id": 102453,
+        "text": "Không hỗ trợ tốt về HTML"
+    }, {
+        "id": 102454,
+        "text": "Không hỗ trợ tốt về XML"
+    }]
+}, {
+    "id": 24692,
+    "text": "Google Gears làm việc với trình duyệt nào?",
+    "marks": 1,
+    "answerid": 102456,
+    "answers": [{
+        "id": 102455,
+        "text": "Safari"
+    }, {
+        "id": 102456,
+        "text": "Chrome, firefox, safari"
+    }, {
+        "id": 102457,
+        "text": "Chrome"
+    }, {
+        "id": 102458,
+        "text": "Firefox"
+    }]
+}, {
+    "id": 24693,
+    "text": "Live Services là dịch vụ của thành phần nào sau đây?",
+    "marks": 1,
+    "answerid": 102460,
+    "answers": [{
+        "id": 102459,
+        "text": "Google Platform"
+    }, {
+        "id": 102460,
+        "text": "Azure Platform"
+    }, {
+        "id": 102461,
+        "text": "Window Plathform"
+    }, {
+        "id": 102462,
+        "text": "Apple Plathform"
+    }]
+}, {
+    "id": 24694,
+    "text": "Điều nào sau đây đúng về Bungee Connect?",
+    "marks": 1,
+    "answerid": 102465,
+    "answers": [{
+        "id": 102463,
+        "text": "Tích hợp tự động các ứng dụng truyền thống chạy trên máy client"
+    }, {
+        "id": 102464,
+        "text": "Tích hợp tự động các dịch vụ web (SOAP / REST) ​​và cơ sở dữ liệu (Oracle, ASP.NET)"
+    }, {
+        "id": 102465,
+        "text": "Tích hợp tự động các dịch vụ web (SOAP / REST) ​​và cơ sở dữ liệu (MySQL / PostgreSQL)"
+    }, {
+        "id": 102466,
+        "text": "Không tích hợp dịch vụ nào"
+    }]
+}, {
+    "id": 24695,
+    "text": "Azure cho phép các nhà phát triển sử dụng framework nào?",
+    "marks": 1,
+    "answerid": 102467,
+    "answers": [{
+        "id": 102467,
+        "text": ".NET framework"
+    }, {
+        "id": 102468,
+        "text": "Google Framework"
+    }, {
+        "id": 102469,
+        "text": "Java Framework"
+    }, {
+        "id": 102470,
+        "text": "IBM framework"
+    }]
+}, {
+    "id": 24696,
+    "text": "Google Gears hỗ trợ tạo các ứng dụng loại nào?",
+    "marks": 1,
+    "answerid": 102474,
+    "answers": [{
+        "id": 102471,
+        "text": "web online"
+    }, {
+        "id": 102472,
+        "text": "linux application"
+    }, {
+        "id": 102473,
+        "text": "window application"
+    }, {
+        "id": 102474,
+        "text": "web offline"
+    }]
+}, {
+    "id": 24697,
+    "text": "Điều nào sau đây đúng về Microsoft SQL Services?",
+    "marks": 1,
+    "answerid": 102475,
+    "answers": [{
+        "id": 102475,
+        "text": "Có thể lưu trữ và lấy dữ liệu có cấu trúc và không có cấu trúc"
+    }, {
+        "id": 102476,
+        "text": "Có thể lưu trữ và lấy dữ liệu có cấu trúc"
+    }, {
+        "id": 102477,
+        "text": "Có thể lưu trữ và lấy dữ liệu không có cấu trúc"
+    }, {
+        "id": 102478,
+        "text": "Không thể lưu trữ dữ liệu"
+    }]
+}, {
+    "id": 24698,
+    "text": "Công cụ nào của Google cho phép tạo ứng dụng trên Cloud?",
+    "marks": 1,
+    "answerid": 102482,
+    "answers": [{
+        "id": 102479,
+        "text": "Google Application Engine"
+    }, {
+        "id": 102480,
+        "text": "Google Calendar"
+    }, {
+        "id": 102481,
+        "text": "Gmail"
+    }, {
+        "id": 102482,
+        "text": "Google App Engine"
+    }]
+}, {
+    "id": 24699,
+    "text": "Điều nào sau đây đúng cho Intuit QuickBase ?",
+    "marks": 1,
+    "answerid": 102485,
+    "answers": [{
+        "id": 102483,
+        "text": "Cho phép các thành viên sử dụng chuyên môn để tạo ra các ứng dụng phục vụ cho những người có chuyên môn kỹ thuật"
+    }, {
+        "id": 102484,
+        "text": "Cho phép các thành viên có chuyên môn tạo nên ứng dụng để phục vụ chính họ"
+    }, {
+        "id": 102485,
+        "text": "Cho phép các thành viên để tạo ra các ứng dụng phục vụ cho những người không có chuyên môn kỹ thuật"
+    }, {
+        "id": 102486,
+        "text": "Cho phép các thành viên không có chuyên môn tạo nên ứng dụng"
+    }]
+}, {
+    "id": 24700,
+    "text": "Ngôn ngữ lập trình phổ biến trên đám mây của google là?",
+    "marks": 1,
+    "answerid": 102487,
+    "answers": [{
+        "id": 102487,
+        "text": "Java"
+    }, {
+        "id": 102488,
+        "text": "ASP"
+    }, {
+        "id": 102489,
+        "text": "C#"
+    }, {
+        "id": 102490,
+        "text": "VB.NET"
+    }]
+}, {
+    "id": 24701,
+    "text": "Điều nào sau đây đúng về Ảo hóa?",
+    "marks": 1,
+    "answerid": 102494,
+    "answers": [{
+        "id": 102491,
+        "text": "Chia máy chủ vật lý thành 1 máy chủ ảo"
+    }, {
+        "id": 102492,
+        "text": "Chia máy chủ ảo thành nhiều máy chủ vật lý"
+    }, {
+        "id": 102493,
+        "text": "Chia máy chủ áo thành 1 máy chủ vật lý"
+    }, {
+        "id": 102494,
+        "text": "Chia máy chủ vật lý thành nhiều máy chủ ảo"
+    }]
+}, {
+    "id": 24702,
+    "text": "BlueMix là gì?",
+    "marks": 1,
+    "answerid": 102495,
+    "answers": [{
+        "id": 102495,
+        "text": "Một nền tảng để chạy bất cứ ứng dụng nào trong các đám mây mà không cần phải lo lắng về phần cứng, phần mềm và mạng"
+    }, {
+        "id": 102496,
+        "text": "Là một thành phần của Microsoft Azure, cho phép tải các ứng dụng lên đám mây của Microsoft"
+    }, {
+        "id": 102497,
+        "text": "Do Amazon phát triển"
+    }, {
+        "id": 102498,
+        "text": "Do google phát triển"
+    }]
+}, {
+    "id": 24703,
+    "text": "Đâu là đặc điểm của ảo hóa?",
+    "marks": 1,
+    "answerid": 102500,
+    "answers": [{
+        "id": 102499,
+        "text": "Tốn thời gian hơn việc cài đặt trên máy chủ vật lý"
+    }, {
+        "id": 102500,
+        "text": "Triển khai nhanh"
+    }, {
+        "id": 102501,
+        "text": "Tốn chi phí"
+    }, {
+        "id": 102502,
+        "text": "Triển khai chậm"
+    }]
+}, {
+    "id": 24704,
+    "text": "Điều nào sau đây đúng về máy ảo?",
+    "marks": 1,
+    "answerid": 102506,
+    "answers": [{
+        "id": 102503,
+        "text": "Là ổ đĩa DVD-CD"
+    }, {
+        "id": 102504,
+        "text": "Là một hệ điều hành trên ổ đĩa"
+    }, {
+        "id": 102505,
+        "text": "Là ổ đĩa cứng"
+    }, {
+        "id": 102506,
+        "text": "Là một tập tin trên ổ đĩa"
+    }]
+}, {
+    "id": 24705,
+    "text": "BlueMix thuộc loại nào trong các loại sau?",
+    "marks": 1,
+    "answerid": 102509,
+    "answers": [{
+        "id": 102507,
+        "text": "SaaS"
+    }, {
+        "id": 102508,
+        "text": "RaaS"
+    }, {
+        "id": 102509,
+        "text": "PaaS"
+    }, {
+        "id": 102510,
+        "text": "DaaS"
+    }]
+}, {
+    "id": 24706,
+    "text": "Điểm khác biệt giữa Cloud VPS và VPS truyền thống ?",
+    "marks": 1,
+    "answerid": 102513,
+    "answers": [{
+        "id": 102511,
+        "text": "Ảo hóa VPS trên một server thay vì một cụm server duy nhất"
+    }, {
+        "id": 102512,
+        "text": "Ảo hóa VPS chỉ thực hiện trên 1 server"
+    }, {
+        "id": 102513,
+        "text": "Ảo hóa VPS trên một cụm server thay vì một server duy nhất"
+    }, {
+        "id": 102514,
+        "text": "Ảo hóa VPS chỉ thực hiện trên nhiều máy client"
+    }]
+}, {
+    "id": 24707,
+    "text": "Meetup ảo là khái niệm của thành phần nào trong các thành phần sau?",
+    "marks": 1,
+    "answerid": 102515,
+    "answers": [{
+        "id": 102515,
+        "text": "Bluemix"
+    }, {
+        "id": 102516,
+        "text": "Azure"
+    }, {
+        "id": 102517,
+        "text": "Bluemix, Azure"
+    }, {
+        "id": 102518,
+        "text": "Google Site"
+    }]
+}, {
+    "id": 24708,
+    "text": "Có thể tạo loại ứng dụng nào trên BlueMix?",
+    "marks": 1,
+    "answerid": 102522,
+    "answers": [{
+        "id": 102519,
+        "text": "Ứng dụng web"
+    }, {
+        "id": 102520,
+        "text": "Không cho phép tạo ứng dụng của riêng bạn mà chỉ cho phép bạn sử dụng"
+    }, {
+        "id": 102521,
+        "text": "ứng dụng mobile"
+    }, {
+        "id": 102522,
+        "text": "Cả ứng dụng web, mobile"
+    }]
+}, {
+    "id": 24709,
+    "text": "DevOps Services là dịch vụ của thành phần nào trong các thành phần sau?",
+    "marks": 1,
+    "answerid": 102525,
+    "answers": [{
+        "id": 102523,
+        "text": "Apple site"
+    }, {
+        "id": 102524,
+        "text": "Google Site"
+    }, {
+        "id": 102525,
+        "text": "Bluemix"
+    }, {
+        "id": 102526,
+        "text": "Microsoft Azure"
+    }]
+}, {
+    "id": 24710,
+    "text": "Hệ thống nào sau đây không tương đồng với hệ thống BlueMix",
+    "marks": 1,
+    "answerid": 102530,
+    "answers": [{
+        "id": 102527,
+        "text": "Heroku"
+    }, {
+        "id": 102528,
+        "text": "OpenShift"
+    }, {
+        "id": 102529,
+        "text": "Google Cloud Environment"
+    }, {
+        "id": 102530,
+        "text": "Microsoft Dynamics CRM"
+    }]
+}]

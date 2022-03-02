@@ -1,0 +1,721 @@
+[{
+    "id": 24916,
+    "text": "Phát biểu nào dưới đây là đúng về quản lý dữ liệu?",
+    "marks": 1,
+    "answerid": 103344,
+    "answers": [{
+        "id": 103343,
+        "text": "Thực hiện thao tác dữ liệu và truy vấn dữ liệu"
+    }, {
+        "id": 103344,
+        "text": "Quản lý lưu trữ dữ liệu, thao tác dữ liệu và truy vấn dữ liệu"
+    }, {
+        "id": 103345,
+        "text": "Quản lý lưu trữ dữ liệu, thêm, sửa, xóa dữ liệu"
+    }, {
+        "id": 103346,
+        "text": "Cho phép lưu trữ dữ liệu và truy vấn dữ liệu"
+    }]
+}, {
+    "id": 24917,
+    "text": "Hệ quản trị cơ sở dữ liệu không mang lại các lợi ích nào sau đây?",
+    "marks": 1,
+    "answerid": 103349,
+    "answers": [{
+        "id": 103347,
+        "text": "Hỗ trợ các ngôn ngữ giao tiếp"
+    }, {
+        "id": 103348,
+        "text": "Quản trị các cơ sở dữ liệu"
+    }, {
+        "id": 103349,
+        "text": "Cung cấp các truy cập đến tổ chức dữ liệu vật lý"
+    }, {
+        "id": 103350,
+        "text": "Có cơ chế an toàn, bảo mật cao"
+    }]
+}, {
+    "id": 24918,
+    "text": "Phát biểu nào là đúng cho mô hình dữ liệu phân cấp?",
+    "marks": 1,
+    "answerid": 103354,
+    "answers": [{
+        "id": 103351,
+        "text": "Liên hệ dữ liệu theo kiểu cha-con, mỗi cha có một con và mỗi con có một cha"
+    }, {
+        "id": 103352,
+        "text": "Liên hệ dữ liệu có thể thừa kế giữa cha và con"
+    }, {
+        "id": 103353,
+        "text": "Kiểu quan hệ là 1-N và N-N"
+    }, {
+        "id": 103354,
+        "text": "Mỗi nút biểu diễn một thực thể dữ liệu và được tổ chức theo hình cây"
+    }]
+}, {
+    "id": 24919,
+    "text": "Hệ quản trị cơ sở dữ liệu được hiểu là gì?",
+    "marks": 1,
+    "answerid": 103355,
+    "answers": [{
+        "id": 103355,
+        "text": "Phần mềm giúp tạo cơ sở dữ liệu, cung cấp cơ chế lưu trữ, thao tác và truy cập cơ sở dữ liệu theo các mô hình cơ sở dữ liệu"
+    }, {
+        "id": 103356,
+        "text": "Công cụ giúp lưu trữ, thao tác và truy cập cơ sở dữ liệu quan hệ"
+    }, {
+        "id": 103357,
+        "text": "Phần mềm cung cấp cách thức tổ chức, thao tác dữ liệu theo các mô hình cơ sở dữ liệu"
+    }, {
+        "id": 103358,
+        "text": "Công cụ giúp lưu trữ, thao tác và truy cập mô hình cơ sở dữ liệu"
+    }]
+}, {
+    "id": 24920,
+    "text": "Dữ liệu (data) được mô tả dưới dạng nào dưới đây:",
+    "marks": 1,
+    "answerid": 103361,
+    "answers": [{
+        "id": 103359,
+        "text": "Các ký tự, ký số"
+    }, {
+        "id": 103360,
+        "text": "Hình ảnh, âm thanh"
+    }, {
+        "id": 103361,
+        "text": "Các phương án đều đúng"
+    }, {
+        "id": 103362,
+        "text": "Ký hiệu"
+    }]
+}, {
+    "id": 24921,
+    "text": "Bảng hiệu quảng cáo là dữ liệu gì?",
+    "marks": 1,
+    "answerid": 103366,
+    "answers": [{
+        "id": 103363,
+        "text": "Dữ liệu dạng âm thanh"
+    }, {
+        "id": 103364,
+        "text": "Dữ liệu dạng ký hiệu"
+    }, {
+        "id": 103365,
+        "text": "Dữ liệu dạng ký số"
+    }, {
+        "id": 103366,
+        "text": "Dữ liệu dạng hình ảnh"
+    }]
+}, {
+    "id": 24922,
+    "text": "Phát biểu nào sau đây là không đúng với mô hình cơ sở dữ liệu hướng đối tượng?",
+    "marks": 1,
+    "answerid": 103369,
+    "answers": [{
+        "id": 103367,
+        "text": "Các đối tượng trao đổi thông qua các phương thức"
+    }, {
+        "id": 103368,
+        "text": "Một đối tượng gồm các thuộc tính, các phương thức"
+    }, {
+        "id": 103369,
+        "text": "Các đối tượng không thể được lưu trữ trong cơ sở dữ liệu"
+    }, {
+        "id": 103370,
+        "text": "Các đối tượng có thể được sinh ra từ việc thừa kế"
+    }]
+}, {
+    "id": 24923,
+    "text": "Hệ quản trị cơ sở dữ liệu phổ biến nhất hiện nay là gì?",
+    "marks": 1,
+    "answerid": 103372,
+    "answers": [{
+        "id": 103371,
+        "text": "Hệ quản trị cơ sở dữ liệu phân cấp"
+    }, {
+        "id": 103372,
+        "text": "Hệ quản trị cơ sở dữ liệu quan hệ"
+    }, {
+        "id": 103373,
+        "text": "Hệ quản trị cơ sở dữ liệu mạng"
+    }, {
+        "id": 103374,
+        "text": "Hệ quản trị cơ sở dữ liệu hướng đối tượng"
+    }]
+}, {
+    "id": 24924,
+    "text": "Phát biểu nào dưới đây là đúng với hệ quản trị cơ sở dữ liệu MySQL?",
+    "marks": 1,
+    "answerid": 103378,
+    "answers": [{
+        "id": 103375,
+        "text": "Một hệ quản trị dữ liệu dạng file, không thể cho nhiều người cùng truy xuất"
+    }, {
+        "id": 103376,
+        "text": "Một hệ quản trị cơ sở dữ liệu cỡ nhỏ, chủ yếu dùng cho mục đích cá nhân"
+    }, {
+        "id": 103377,
+        "text": "Một hệ quản trị cơ sở dữ liệu của hãng Microsoft"
+    }, {
+        "id": 103378,
+        "text": "Một hệ quản trị cơ sở liệu mã nguồn mở rất được ưa chuộng"
+    }]
+}, {
+    "id": 24925,
+    "text": "Những thông tin được nhập từ bàn phím là dữ liệu gì?",
+    "marks": 1,
+    "answerid": 103382,
+    "answers": [{
+        "id": 103379,
+        "text": "Dữ liệu dạng âm thanh"
+    }, {
+        "id": 103380,
+        "text": "Dữ liệu dạng hình ảnh"
+    }, {
+        "id": 103381,
+        "text": "Dữ liệu dạng ký hiệu"
+    }, {
+        "id": 103382,
+        "text": "Dữ liệu dạng ký tự, ký số"
+    }]
+}, {
+    "id": 24926,
+    "text": "Quan hệ N-N là gì?",
+    "marks": 1,
+    "answerid": 103386,
+    "answers": [{
+        "id": 103383,
+        "text": "Một thực thể của tập này có thể liên kết nhiều tập thực thể khác, và ngược lại"
+    }, {
+        "id": 103384,
+        "text": "Nhiều thực thể của tập này có thể liên kết với nhiều tập kia, và ngược lại"
+    }, {
+        "id": 103385,
+        "text": "Một thực thể của tập này có thể liên kết 0, 1 hoặc nhiều tập thực thể khác, và ngược lại"
+    }, {
+        "id": 103386,
+        "text": "Một thực thể của tập này có thể liên kết 0, 1 hoặc nhiều thực thể của tập kia, và ngược lại"
+    }]
+}, {
+    "id": 24927,
+    "text": "Thứ tự thiết kế cơ sở dữ liệu quan hệ nào dưới đây là đúng?",
+    "marks": 1,
+    "answerid": 103389,
+    "answers": [{
+        "id": 103387,
+        "text": "Thiết kế mức khái niệm, thiết kế mức vật lý, thiết kế mức logic"
+    }, {
+        "id": 103388,
+        "text": "Thiết kế mức vật lý, thiết kế mức logic, thiết kế mức khái niệm"
+    }, {
+        "id": 103389,
+        "text": "Thiết kế mức khái niệm, thiết kế mức logic, thiết kế mức vật lý"
+    }, {
+        "id": 103390,
+        "text": "Thiết kế mức vật lý, thiết kế mức khái niệm, thiết kế mức logic"
+    }]
+}, {
+    "id": 24928,
+    "text": "Quan hệ 1-1 là gì?",
+    "marks": 1,
+    "answerid": 103391,
+    "answers": [{
+        "id": 103391,
+        "text": "Một thực thể của tập này chỉ liên kết với một thực thể của tập kia, và ngược lại"
+    }, {
+        "id": 103392,
+        "text": "Một thực thể của tập thực thể này liên kết với nhiều thực thể của tập thực thể kia, và ngược lại"
+    }, {
+        "id": 103393,
+        "text": "Một tập thực thể này liên kết với một tập thực thể kia, và ngược lại"
+    }, {
+        "id": 103394,
+        "text": "Một thực thể bất kỳ có thể liên kết với một thực thể trong tập thực thể đó, và ngược lại"
+    }]
+}, {
+    "id": 24929,
+    "text": "Một thực thể được biểu diễn trong cơ sở dữ liệu mức vật lý thành đối tượng gì?",
+    "marks": 1,
+    "answerid": 103398,
+    "answers": [{
+        "id": 103395,
+        "text": "Hàng"
+    }, {
+        "id": 103396,
+        "text": "Khóa"
+    }, {
+        "id": 103397,
+        "text": "Cột"
+    }, {
+        "id": 103398,
+        "text": "Bảng"
+    }]
+}, {
+    "id": 24930,
+    "text": "Mối quan hệ giữa các thực thể bao gồm:",
+    "marks": 1,
+    "answerid": 103400,
+    "answers": [{
+        "id": 103399,
+        "text": "Quan hệ 0-0, 1-1, n-n"
+    }, {
+        "id": 103400,
+        "text": "Quan hệ 1-1, 1-n, n-n"
+    }, {
+        "id": 103401,
+        "text": "Quan hệ 0-1, 1-1, n-n"
+    }, {
+        "id": 103402,
+        "text": "Quan hệ 1-n, n-n, n-1"
+    }]
+}, {
+    "id": 24931,
+    "text": "Ràng buộc nhằm nhấn mạnh sự chính xác của dữ liệu nhập vào là ràng buộc nào dưới đây?",
+    "marks": 1,
+    "answerid": 103404,
+    "answers": [{
+        "id": 103403,
+        "text": "Ràng buộc quy tắc"
+    }, {
+        "id": 103404,
+        "text": "Ràng buộc toàn vẹn"
+    }, {
+        "id": 103405,
+        "text": "Ràng buộc sự kiện"
+    }, {
+        "id": 103406,
+        "text": "Ràng buộc chính xác"
+    }]
+}, {
+    "id": 24932,
+    "text": "Các thủ tục, nguyên tắc cần phải tuân theo và thể hiện trong cơ sở dữ liệu như là các ràng buộc được gọi là gì?",
+    "marks": 1,
+    "answerid": 103409,
+    "answers": [{
+        "id": 103407,
+        "text": "Thủ tục công ty"
+    }, {
+        "id": 103408,
+        "text": "Quy trình công việc"
+    }, {
+        "id": 103409,
+        "text": "Quy tắc nghiệp vụ"
+    }, {
+        "id": 103410,
+        "text": "Quy định công việc"
+    }]
+}, {
+    "id": 24933,
+    "text": "Danh từ nào sau đây có thể là thực thể?",
+    "marks": 1,
+    "answerid": 103412,
+    "answers": [{
+        "id": 103411,
+        "text": "Company Name"
+    }, {
+        "id": 103412,
+        "text": "Customer"
+    }, {
+        "id": 103413,
+        "text": "Customer id"
+    }, {
+        "id": 103414,
+        "text": "Address"
+    }]
+}, {
+    "id": 24934,
+    "text": "Thuộc tính để xác định duy nhất một bộ dữ liệu trong một quan hệ gọi là gì?",
+    "marks": 1,
+    "answerid": 103418,
+    "answers": [{
+        "id": 103415,
+        "text": "Thuộc tính chính"
+    }, {
+        "id": 103416,
+        "text": "Khóa ngoại"
+    }, {
+        "id": 103417,
+        "text": "Thuộc tính xác định"
+    }, {
+        "id": 103418,
+        "text": "Khóa chính"
+    }]
+}, {
+    "id": 24935,
+    "text": "Trong Access, các bước thiết kế truy vấn dựa trên bảng điều khiển nào dưới đây là hợp lý?",
+    "marks": 1,
+    "answerid": 103421,
+    "answers": [{
+        "id": 103419,
+        "text": "Mô tả tiêu chuẩn, lựa chọn sắp xếp, chọn bảng, chọn cột"
+    }, {
+        "id": 103420,
+        "text": "Chọn bảng, mô tả tiêu chuẩn, lựa chọn sắp xếp, chọn trường"
+    }, {
+        "id": 103421,
+        "text": "Chọn bảng, chọn cột, mô tả tiêu chuẩn, lựa chọn sắp xếp"
+    }, {
+        "id": 103422,
+        "text": "Mô tả tiêu chuẩn, chọn bảng, chọn trường, lựa chọn sắp xếp"
+    }]
+}, {
+    "id": 24936,
+    "text": "Truy vấn nào dưới đây lựa chọn tất cả các cột của bảng EMPLOYEES?",
+    "marks": 1,
+    "answerid": 103424,
+    "answers": [{
+        "id": 103423,
+        "text": "SELECT ALL FROM EMPLOYEES"
+    }, {
+        "id": 103424,
+        "text": "SELECT * FROM EMPLOYEES"
+    }, {
+        "id": 103425,
+        "text": "SELECT * WHERE EMPLOYEES"
+    }, {
+        "id": 103426,
+        "text": "SELECT ALL WHERE EMPLOYEES"
+    }]
+}, {
+    "id": 24937,
+    "text": "Truy vấn nào dưới đây hiển thị thông tin nhân viên có lương lớn hơn 10000 và sắp xếp theo tên, họ ?",
+    "marks": 1,
+    "answerid": 103429,
+    "answers": [{
+        "id": 103427,
+        "text": "SELECT * FROM EMPLOYEES WHERE SALARY \u003e 10000 ORDER WITH LAST_NAME, FIRST_NAME"
+    }, {
+        "id": 103428,
+        "text": "SELECT * FROM EMPLOYEES WHERE SALARY \u003e 10000 SORT BY LAST_NAME, FIRST_NAME"
+    }, {
+        "id": 103429,
+        "text": "SELECT * FROM EMPLOYEES WHERE SALARY \u003e 10000 ORDER BY FIRST_NAME, LAST_NAME"
+    }, {
+        "id": 103430,
+        "text": "SELECT * FROM EMPLOYEES WHERE SALARY \u003e 10000 ORDER LAST_NAME, FIRST_NAME"
+    }]
+}, {
+    "id": 24938,
+    "text": "Bốn nhóm lệnh SQL nào dưới đây là đúng?",
+    "marks": 1,
+    "answerid": 103433,
+    "answers": [{
+        "id": 103431,
+        "text": "Nhóm lựa chọn dữ liệu, nhóm định nghĩa dữ liệu, nhóm thao tác dữ liệu, nhóm nhập dữ liệu"
+    }, {
+        "id": 103432,
+        "text": "Nhóm truy vấn dữ liệu, nhóm thay đổi dữ liệu, nhóm thao tác dữ liệu, nhóm điều khiển dữ liệu"
+    }, {
+        "id": 103433,
+        "text": "Nhóm truy vấn dữ liệu, nhóm định nghĩa dữ liệu, nhóm thao tác dữ liệu, nhóm điều khiển dữ liệu"
+    }, {
+        "id": 103434,
+        "text": "Nhóm lựa chọn dữ liệu, nhóm định nghĩa dữ liệu, nhóm thao tác dữ liệu, nhóm điều khiển dữ liệu"
+    }]
+}, {
+    "id": 24939,
+    "text": "Truy vấn nào dưới đây hiển thị thông tin nhân viên có tên họ bắt đầu bằng Pete ?",
+    "marks": 1,
+    "answerid": 103435,
+    "answers": [{
+        "id": 103435,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME LIKE \u0027Pete%\u0027"
+    }, {
+        "id": 103436,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME LIKE \u0027%Pete%\u0027"
+    }, {
+        "id": 103437,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME LIKE \u0027Pete\u0027"
+    }, {
+        "id": 103438,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME LIKE \u0027%Pete\u0027"
+    }]
+}, {
+    "id": 24940,
+    "text": "Truy vấn nào dưới đây trả về thông tin nhân viên được sắp xếp thứ tự giảm dần theo tên nhân viên ?",
+    "marks": 1,
+    "answerid": 103440,
+    "answers": [{
+        "id": 103439,
+        "text": "SELECT * FROM EMPLOYEES ORDER First_Name DESC"
+    }, {
+        "id": 103440,
+        "text": "SELECT * FROM EMPLOYEES ORDER BY First_Name DESC"
+    }, {
+        "id": 103441,
+        "text": "SELECT * FROM EMPLOYEES SORT \u0027First_Name\u0027 DESC"
+    }, {
+        "id": 103442,
+        "text": "SELECT * FROM EMPLOYEES SORT BY \u0027First_Name\u0027 DESC"
+    }]
+}, {
+    "id": 24941,
+    "text": "Truy vấn nào dưới đây hiển thị thông tin nhân viên có tên là Peter và họ là Jackson ?",
+    "marks": 1,
+    "answerid": 103445,
+    "answers": [{
+        "id": 103443,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME \u003c\u003e\u0027Peter\u0027 AND LAST_NAME\u003c\u003e\u0027Jackson\u0027"
+    }, {
+        "id": 103444,
+        "text": "SELECT FIRST_NAME=\u0027Peter\u0027 AND LAST_NAME=\u0027Jackson\u0027 FROM EMPLOYEES WHERE FIRST_NAME =\u0027Peter\u0027 AND LAST_NAME=\u0027Jackson\u0027"
+    }, {
+        "id": 103445,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME =\u0027Peter\u0027 AND LAST_NAME=\u0027Jackson\u0027"
+    }, {
+        "id": 103446,
+        "text": "SELECT FIRST_NAME=\u0027Peter\u0027 AND LAST_NAME=\u0027Jackson\u0027 FROM EMPLOYEES"
+    }]
+}, {
+    "id": 24942,
+    "text": "Từ khóa nào dưới đây của SQL được sử dụng để sắp xếp tập kết quả truy vấn?",
+    "marks": 1,
+    "answerid": 103449,
+    "answers": [{
+        "id": 103447,
+        "text": "SORT BY"
+    }, {
+        "id": 103448,
+        "text": "SORT"
+    }, {
+        "id": 103449,
+        "text": "ORDER BY"
+    }, {
+        "id": 103450,
+        "text": "ORDER"
+    }]
+}, {
+    "id": 24943,
+    "text": "Truy vấn nào dưới đây hiển thị thông tin nhân viên có tên họ dài bất kỳ, với chữ đầu là A hoặc B hoặc C ?",
+    "marks": 1,
+    "answerid": 103453,
+    "answers": [{
+        "id": 103451,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME LIKE \u0027[^ABC]%\u0027"
+    }, {
+        "id": 103452,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME LIKE \u0027[ABC]_\u0027"
+    }, {
+        "id": 103453,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME LIKE \u0027[ABC]%\u0027"
+    }, {
+        "id": 103454,
+        "text": "SELECT * FROM EMPLOYEES WHERE FIRST_NAME LIKE \u0027[ABC]*\u0027"
+    }]
+}, {
+    "id": 24944,
+    "text": "Nhóm lệnh định nghĩa dữ liệu của ngôn ngữ SQL là gì?",
+    "marks": 1,
+    "answerid": 103458,
+    "answers": [{
+        "id": 103455,
+        "text": "Insert, Update, Delete"
+    }, {
+        "id": 103456,
+        "text": "Grant, Revoke"
+    }, {
+        "id": 103457,
+        "text": "Select"
+    }, {
+        "id": 103458,
+        "text": "Create, Drop, Alter"
+    }]
+}, {
+    "id": 24945,
+    "text": "Truy vấn nào dưới đây hiển thị thông tin nhân viên có lương từ 10000 đến 11000 ?",
+    "marks": 1,
+    "answerid": 103459,
+    "answers": [{
+        "id": 103459,
+        "text": "SELECT * FROM EMPLOYEES WHERE SALARY BETWEEN 10000 AND 11000"
+    }, {
+        "id": 103460,
+        "text": "SELECT * FROM EMPLOYEES WHERE SALARY = 10000 AND 11000"
+    }, {
+        "id": 103461,
+        "text": "SELECT * FROM EMPLOYEES WHERE SALARY 10000 AND 11000"
+    }, {
+        "id": 103462,
+        "text": "SELECT * FROM EMPLOYEES WHERE SALARY =\u003e 10000 AND \u003c= 11000"
+    }]
+}, {
+    "id": 24946,
+    "text": "Câu lệnh SQL nào dưới đây thêm dữ liệu mới vào bảng Employees?",
+    "marks": 1,
+    "answerid": 103466,
+    "answers": [{
+        "id": 103463,
+        "text": "INSERT Employees(Employee_id, First_Name, Last_Name) INTO (213, \u0027Abraham\u0027, \u0027Lincoln\u0027)"
+    }, {
+        "id": 103464,
+        "text": "INSERT (213, \u0027Abraham\u0027, \u0027Lincoln\u0027) INTO Employees(Employee_id, First_Name, Last_Name)"
+    }, {
+        "id": 103465,
+        "text": "INSERT VALUES (213, \u0027Abraham\u0027, \u0027Lincoln\u0027) INTO Employees(Employee_id, First_Name, Last_Name)"
+    }, {
+        "id": 103466,
+        "text": "INSERT INTO Employees(Employee_id, First_Name, Last_Name) VALUES (213, \u0027Abraham\u0027, \u0027Lincoln\u0027)"
+    }]
+}, {
+    "id": 24947,
+    "text": "Câu lệnh SQL nào dưới đây để tạo bảng KHACH_HANG ?",
+    "marks": 1,
+    "answerid": 103467,
+    "answers": [{
+        "id": 103467,
+        "text": "CREATE TABLE Khach_Hang (MaKH NUMBER(6) NOT NULL, Hoten VARCHAR(30) NOT NULL, Diachi VARCHAR(50) NOT NULL, Dienthoai VARCHAR(15) NOT NULL);"
+    }, {
+        "id": 103468,
+        "text": "ALTER TABLE Khach_Hang (MaKH NUMBER(6) NOT NULL, Hoten VARCHAR(30) NOT NULL, Diachi VARCHAR(50) NOT NULL, Dienthoai VARCHAR(15) NOT NULL);"
+    }, {
+        "id": 103469,
+        "text": "CREATE TABLE Khach_Hang (MaKH, Hoten, Diachi, Dienthoai);"
+    }, {
+        "id": 103470,
+        "text": "NEW TABLE Khach_Hang ( MaKH NUMBER(6) NOT NULL, Hoten VARCHAR(30) NOT NULL, Diachi VARCHAR(50) NOT NULL, Dienthoai VARCHAR(15) NOT NULL);"
+    }]
+}, {
+    "id": 24948,
+    "text": "Câu lệnh SQL nào dưới đây để xóa dữ liệu của nhân viên có mã số 213 ?",
+    "marks": 1,
+    "answerid": 103474,
+    "answers": [{
+        "id": 103471,
+        "text": "DELETE * FROM Employees WHERE Employee_id = 213"
+    }, {
+        "id": 103472,
+        "text": "DELETE Employees WHERE Employee_id = 213"
+    }, {
+        "id": 103473,
+        "text": "DELETE Employees.Employee_id = 213"
+    }, {
+        "id": 103474,
+        "text": "DELETE FROM Employees WHERE Employee_id = 213"
+    }]
+}, {
+    "id": 24949,
+    "text": "Truy vấn nào dưới đây tìm mức lương nhỏ nhất của các nhân viên theo từng bộ phận?",
+    "marks": 1,
+    "answerid": 103475,
+    "answers": [{
+        "id": 103475,
+        "text": "SELECT Department_id, MIN(Salary) FROM Employees GROUP BY Department_id"
+    }, {
+        "id": 103476,
+        "text": "SELECT Department_id, MIN(Salary) FROM Employees GROUP Department_id"
+    }, {
+        "id": 103477,
+        "text": "SELECT Department_id, MIN(Salary) FROM Employees WHERE MIN(Salary)"
+    }, {
+        "id": 103478,
+        "text": "SELECT Department_id, MIN(Salary) FROM Employees.Department_id"
+    }]
+}, {
+    "id": 24950,
+    "text": "Truy vấn nào dưới đây tìm mức lương nhỏ nhất của các nhân viên?",
+    "marks": 1,
+    "answerid": 103481,
+    "answers": [{
+        "id": 103479,
+        "text": "SELECT SMALLEST(Salary) FROM Employees"
+    }, {
+        "id": 103480,
+        "text": "SELECT MIN Salary FROM Employees"
+    }, {
+        "id": 103481,
+        "text": "SELECT MIN(Salary) FROM Employees"
+    }, {
+        "id": 103482,
+        "text": "SELECT SMALLEST Salary FROM Employees"
+    }]
+}, {
+    "id": 24951,
+    "text": "Câu lệnh SQL nào dưới đây thu hồi quyền UPDATE cho người dùng cơ sở dữ liệu HR ?",
+    "marks": 1,
+    "answerid": 103486,
+    "answers": [{
+        "id": 103483,
+        "text": "REVOKE UPDATE ON HR"
+    }, {
+        "id": 103484,
+        "text": "REVOKE UPDATE TO HR"
+    }, {
+        "id": 103485,
+        "text": "REVOKE UPDATE INTO HR"
+    }, {
+        "id": 103486,
+        "text": "REVOKE UPDATE FROM HR"
+    }]
+}, {
+    "id": 24952,
+    "text": "Câu lệnh SQL nào dưới đây để xóa bảng Khach_Hang khỏi cơ sở dữ liệu?",
+    "marks": 1,
+    "answerid": 103488,
+    "answers": [{
+        "id": 103487,
+        "text": "TRUNCATE TABLE Khach_Hang IGNORE CONSTRAINTS;"
+    }, {
+        "id": 103488,
+        "text": "DROP TABLE Khach_Hang CASCADE CONSTRAINTS;"
+    }, {
+        "id": 103489,
+        "text": "DROP TABLE Khach_Hang IGNORE CONSTRAINTS;"
+    }, {
+        "id": 103490,
+        "text": "ERASE TABLE Khach_Hang CASCADE CONSTRAINTS;"
+    }]
+}, {
+    "id": 24953,
+    "text": "Trong mệnh đề SELECT, hàm tìm giá trị lớn nhất trong cột là gì?",
+    "marks": 1,
+    "answerid": 103493,
+    "answers": [{
+        "id": 103491,
+        "text": "LARGE"
+    }, {
+        "id": 103492,
+        "text": "BEST"
+    }, {
+        "id": 103493,
+        "text": "MAX"
+    }, {
+        "id": 103494,
+        "text": "BIG"
+    }]
+}, {
+    "id": 24954,
+    "text": "Câu lệnh SQL nào dưới đây để thêm một ràng buộc trong đó cột MaKH là duy nhất?",
+    "marks": 1,
+    "answerid": 103495,
+    "answers": [{
+        "id": 103495,
+        "text": "ALTER TABLE Khach_Hang ADD CONSTRAINT Khach_Hang_UNQ_MaKH UNIQUE (MaKH);"
+    }, {
+        "id": 103496,
+        "text": "ALTER TABLE Khach_Hang NEW CONSTRAINT Khach_Hang_UNQ_MaKH UNIQUE (MaKH);"
+    }, {
+        "id": 103497,
+        "text": "ALTER TABLE Khach_Hang INSERT CONSTRAINT Khach_Hang_UNQ_MaKH UNIQUE (MaKH);"
+    }, {
+        "id": 103498,
+        "text": "ALTER TABLE Khach_Hang UNIQUE (MaKH);"
+    }]
+}, {
+    "id": 24955,
+    "text": "Câu lệnh nào dưới đây được sử dụng để thay đổi cấu trúc của một bảng trong cơ sở dữ liệu?",
+    "marks": 1,
+    "answerid": 103502,
+    "answers": [{
+        "id": 103499,
+        "text": "REPAIR TABLE …"
+    }, {
+        "id": 103500,
+        "text": "CHANGE TABLE …"
+    }, {
+        "id": 103501,
+        "text": "REDO TABLE …"
+    }, {
+        "id": 103502,
+        "text": "ALTER TABLE …"
+    }]
+}]

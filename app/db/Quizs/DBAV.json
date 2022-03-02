@@ -1,0 +1,1261 @@
+[{
+    "id": 24956,
+    "text": "Chọn phát biểu đúng về SQL Server A. Là hệ quản trị nội dung cho phép đồng thời một lúc có nhiều người dùng truy xuất đến dữ liệu. B. SQL Server sử dụng điển hình trong các hệ thống nhỏ đến trung bình chạy trên một hoặc nhiều máy chủ Windows C. Là hệ quản",
+    "marks": 1,
+    "answerid": 103506,
+    "answers": [{
+        "id": 103503,
+        "Text": "B,D Đúng"
+    }, {
+        "id": 103504,
+        "Text": "D Đúng"
+    }, {
+        "id": 103505,
+        "Text": "A,B Đúng"
+    }, {
+        "id": 103506,
+        "Text": "C, B Đúng"
+    }]
+}, {
+    "id": 24957,
+    "Text": "SQL sử dụng ngôn ngữ nào sau đây để truy vấn CSDL: A. SQL B. PL-SQL C. Transact-SQL",
+    "marks": 1,
+    "answerid": 103508,
+    "answers": [{
+        "id": 103507,
+        "Text": "B Đúng"
+    }, {
+        "id": 103508,
+        "Text": "C Đúng"
+    }, {
+        "id": 103509,
+        "Text": "Cả A, B, C đều sai"
+    }, {
+        "id": 103510,
+        "Text": "A Đúng"
+    }]
+}, {
+    "id": 24958,
+    "Text": "Câu lệnh nào sau đây là câu lệnh điều khiển dữ liệu (DCL) A DENY B CREATE C GRANT D REVOKE",
+    "marks": 1,
+    "answerid": 103511,
+    "answers": [{
+        "id": 103511,
+        "Text": "A, C, D đúng"
+    }, {
+        "id": 103512,
+        "Text": "B, C , D đúng"
+    }, {
+        "id": 103513,
+        "Text": "A, B , Dđúng"
+    }, {
+        "id": 103514,
+        "Text": "A, B, C đúng"
+    }]
+}, {
+    "id": 24959,
+    "Text": "Để khởi động và dừng SQL Server sử dụng công cụ nào dưới đây:",
+    "marks": 1,
+    "answerid": 103518,
+    "answers": [{
+        "id": 103515,
+        "Text": "SQL Server Start/Stop Manager"
+    }, {
+        "id": 103516,
+        "Text": "SQL Server Configuration Management"
+    }, {
+        "id": 103517,
+        "Text": "SQL Server Management Studio"
+    }, {
+        "id": 103518,
+        "Text": "SQL Server Configuration Manager"
+    }]
+}, {
+    "id": 24960,
+    "Text": "Các ứng dụng nào sau đây có thể truy cập tới hệ quản trị CSDL SQL Server",
+    "marks": 1,
+    "answerid": 103520,
+    "answers": [{
+        "id": 103519,
+        "Text": "Ứng dụng .NET"
+    }, {
+        "id": 103520,
+        "Text": "Tất cả đáp án đều đúng"
+    }, {
+        "id": 103521,
+        "Text": "Ứng dụng Java"
+    }, {
+        "id": 103522,
+        "Text": "Ứng dụng Visual Basic 6"
+    }]
+}, {
+    "id": 24961,
+    "Text": "Phát biểu nào sau đây ĐÚNG về T-SQL?",
+    "marks": 1,
+    "answerid": 103524,
+    "answers": [{
+        "id": 103523,
+        "Text": "Có thể sử dụng T-SQL để thao tác trên mọi hệ quản trị CSDL quan hệ"
+    }, {
+        "id": 103524,
+        "Text": "T-SQL là ngôn ngữ mở rộng của SQL chuẩn, cung cấp thêm các tính năng lập trình"
+    }, {
+        "id": 103525,
+        "Text": "T-SQL là tên gọi khác của ngôn ngữ SQL"
+    }, {
+        "id": 103526,
+        "Text": "Tất cả các đáp án đều sai"
+    }]
+}, {
+    "id": 24962,
+    "Text": "Nếu quá trình thực thi một câu lệnh SQL xảy ra lỗi cú pháp. SQL Server sẽ thông báo lỗi đó bằng cách",
+    "marks": 1,
+    "answerid": 103529,
+    "answers": [{
+        "id": 103527,
+        "Text": "Hiển thị đường màu xanh lượn sóng gạch chân phần câu lệnh nhập sai và hiển thị một thông báo lỗi trong Tab Message"
+    }, {
+        "id": 103528,
+        "Text": "Hiển thị đường màu xanh lượn sóng gạch chân phần câu lệnh nhập sai và hiển thị một thông báo lỗi trong Tab Systax Error"
+    }, {
+        "id": 103529,
+        "Text": "Hiển thị đường màu đỏ lượn sóng gạch chân phần câu lệnh nhập sai và hiển thị một thông báo lỗi trong Tab Message"
+    }, {
+        "id": 103530,
+        "Text": "Hiển thị đường màu đỏ lượn sóng gạch chân phần câu lệnh nhập sai và hiển thị một thông báo lỗi trong Tab Systax Error"
+    }]
+}, {
+    "id": 24963,
+    "Text": "Các lỗi cú pháp nào sau đây thường gặp khi thực thi câu lệnh SQL A. Quên hoặc lựa chọn sai CSDL B. Viết sai tên bảng hoặc tên cột C. Viết sai từ khóa D. Bỏ sót dấu đóng ngoặc với một chuỗi ký tự.",
+    "marks": 1,
+    "answerid": 103532,
+    "answers": [{
+        "id": 103531,
+        "Text": "B, C , D Đúng"
+    }, {
+        "id": 103532,
+        "Text": "Cả A, B, C, D đều đúng"
+    }, {
+        "id": 103533,
+        "Text": "A, D Đúng"
+    }, {
+        "id": 103534,
+        "Text": "A, B, C Đúng"
+    }]
+}, {
+    "id": 24964,
+    "Text": "Thao tác nào sau đây có thể thực hiện trên lược đồ CSDL?",
+    "marks": 1,
+    "answerid": 103537,
+    "answers": [{
+        "id": 103535,
+        "Text": "Định nghĩa độ rộng của cột"
+    }, {
+        "id": 103536,
+        "Text": "Tất cả đáp án đều đúng"
+    }, {
+        "id": 103537,
+        "Text": "Thêm cột"
+    }, {
+        "id": 103538,
+        "Text": "Thêm dữ liệu cho một bảng CSDL"
+    }]
+}, {
+    "id": 24965,
+    "Text": "Khi kết nối tới CSDL SQL Server, tại hộp thoại Connect to Server của SQL Management Studio, chế độ xác thực nào sau đây người dùng phải nhập User Name và Password",
+    "marks": 1,
+    "answerid": 103540,
+    "answers": [{
+        "id": 103539,
+        "Text": "Windows Authentication"
+    }, {
+        "id": 103540,
+        "Text": "SQL Server Authentication"
+    }, {
+        "id": 103541,
+        "Text": "Windows Authentication và SQL Server Authentication"
+    }, {
+        "id": 103542,
+        "Text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 24966,
+    "Text": "Nên sử dụng kiểu dữ liệu nào sau đây để lưu chuỗi với độ dài cố định hỗ trợ UNICODE",
+    "marks": 1,
+    "answerid": 103545,
+    "answers": [{
+        "id": 103543,
+        "Text": "Varchar"
+    }, {
+        "id": 103544,
+        "Text": "Char"
+    }, {
+        "id": 103545,
+        "Text": "Nchar"
+    }, {
+        "id": 103546,
+        "Text": "Nvarchar"
+    }]
+}, {
+    "id": 24967,
+    "Text": "Đâu là chú thích sử dụng trong T-SQL",
+    "marks": 1,
+    "answerid": 103548,
+    "answers": [{
+        "id": 103547,
+        "Text": "*/ Chú thích dung */"
+    }, {
+        "id": 103548,
+        "Text": "--Chú thích đúng"
+    }, {
+        "id": 103549,
+        "Text": "/* Chú thích đúng /*"
+    }, {
+        "id": 103550,
+        "Text": "//Chú thích đúng"
+    }]
+}, {
+    "id": 24968,
+    "Text": "Lựa chọn nào sau đây không phải là kiểu dữ liệu của SQL Server:",
+    "marks": 1,
+    "answerid": 103554,
+    "answers": [{
+        "id": 103551,
+        "Text": "datetime2"
+    }, {
+        "id": 103552,
+        "Text": "datetime"
+    }, {
+        "id": 103553,
+        "Text": "numeric"
+    }, {
+        "id": 103554,
+        "Text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 24969,
+    "Text": "Có đoạn mã sau đây. DECLARE @a int, @b nchar(50) Đâu là câu lệnh gán giá trị cho @a và @b không gây lỗi định dạng dữ liệu",
+    "marks": 1,
+    "answerid": 103557,
+    "answers": [{
+        "id": 103555,
+        "Text": "SELECT @a = 1, @b = \u0027kí tự Unicode\u0027"
+    }, {
+        "id": 103556,
+        "Text": "SET @a = 1, @b = \u0027kí tự Unicode\u0027"
+    }, {
+        "id": 103557,
+        "Text": "SET @a = 1, @b = N\u0027kí tự Unicode\u0027"
+    }, {
+        "id": 103558,
+        "Text": "SELECT @a = 1, @b = N\u0027kí tự Unicode\u0027"
+    }]
+}, {
+    "id": 24970,
+    "Text": "Để chỉnh sửa thuộc tính của các cột trong bảng sử dụng Management Studio, Click chuột phải vào tên bảng và chọn _______",
+    "marks": 1,
+    "answerid": 103561,
+    "answers": [{
+        "id": 103559,
+        "Text": "Column Modify"
+    }, {
+        "id": 103560,
+        "Text": "Column Designer"
+    }, {
+        "id": 103561,
+        "Text": "Design"
+    }, {
+        "id": 103562,
+        "Text": "Table Design"
+    }]
+}, {
+    "id": 24971,
+    "Text": "Khi làm việc với hệ thống đa ngôn ngữ, kiểu dữ liệu nào sau đây thường được dùng để lưu trữ chuỗi",
+    "marks": 1,
+    "answerid": 103564,
+    "answers": [{
+        "id": 103563,
+        "Text": "Char hoặc Varchar"
+    }, {
+        "id": 103564,
+        "Text": "Nchar hoặc Nvarchar"
+    }, {
+        "id": 103565,
+        "Text": "Varchar hoặc Nvarchar"
+    }, {
+        "id": 103566,
+        "Text": "Char hoặc Nchar"
+    }]
+}, {
+    "id": 24972,
+    "Text": "Phát biểu nào sau đây đúng về biến bảng",
+    "marks": 1,
+    "answerid": 103567,
+    "answers": [{
+        "id": 103567,
+        "Text": "Có thể sử dụng câu lệnh UPDATE với biến bảng"
+    }, {
+        "id": 103568,
+        "Text": "Không thể sử dụng câu lệnh UPDATE và INSERT với biến bảng"
+    }, {
+        "id": 103569,
+        "Text": "Có thể sử dụng câu lệnh mọi câu lệnh INSERT, UPDATE, DELETE… với biến bảng"
+    }, {
+        "id": 103570,
+        "Text": "Có thể sử dụng câu lệnh SELECT INTO với biến bảng"
+    }]
+}, {
+    "id": 24973,
+    "Text": "SQL Server cung cấp bao nhiêu kiểu dữ liệu đơn",
+    "marks": 1,
+    "answerid": 103572,
+    "answers": [{
+        "id": 103571,
+        "Text": "25"
+    }, {
+        "id": 103572,
+        "Text": "26"
+    }, {
+        "id": 103573,
+        "Text": "30"
+    }, {
+        "id": 103574,
+        "Text": "20"
+    }]
+}, {
+    "id": 24974,
+    "Text": "Để gán giá trị cho một biến bảng. Sử dụng câu lệnh nào sau đây",
+    "marks": 1,
+    "answerid": 103576,
+    "answers": [{
+        "id": 103575,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103576,
+        "Text": "INSERT"
+    }, {
+        "id": 103577,
+        "Text": "SET"
+    }, {
+        "id": 103578,
+        "Text": "SELECT INTO"
+    }]
+}, {
+    "id": 24975,
+    "Text": "T- SQL hỗ trợ các loại biến nào sau đây:",
+    "marks": 1,
+    "answerid": 103582,
+    "answers": [{
+        "id": 103579,
+        "Text": "Biến vô hướng"
+    }, {
+        "id": 103580,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103581,
+        "Text": "Biến bảng"
+    }, {
+        "id": 103582,
+        "Text": "Biến vô hướng và biến bảng"
+    }]
+}, {
+    "id": 24976,
+    "Text": "Giả sử biến @String được khai báo như sau DECLARE @String varchar.Mã kịch bản sau trả về kết quả là SET @String = \u0027SQL Server 2008\u0027 SELECT LEN(@String)",
+    "marks": 1,
+    "answerid": 103586,
+    "answers": [{
+        "id": 103583,
+        "Text": "15"
+    }, {
+        "id": 103584,
+        "Text": "13"
+    }, {
+        "id": 103585,
+        "Text": "Lỗi"
+    }, {
+        "id": 103586,
+        "Text": "1"
+    }]
+}, {
+    "id": 24977,
+    "Text": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd-mm-yyyy. Vậy a có giá trị là bao nhiêu?",
+    "marks": 1,
+    "answerid": 103590,
+    "answers": [{
+        "id": 103587,
+        "Text": "107"
+    }, {
+        "id": 103588,
+        "Text": "101"
+    }, {
+        "id": 103589,
+        "Text": "103"
+    }, {
+        "id": 103590,
+        "Text": "105"
+    }]
+}, {
+    "id": 24978,
+    "Text": "Biểu thức sau đây thực hiện phép nhân giữa dữ liệu lưu trong cột InvoiceTotal của bảng Invoices: InvoiceTotal * .0775. Nếu cột InvoiceTotal có kiểu money thì SQL sẽ thực hiện phép chuyển đổi ngầm nào sau đây:",
+    "marks": 1,
+    "answerid": 103593,
+    "answers": [{
+        "id": 103591,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103592,
+        "Text": "Không thực hiện chuyển đổi ngầm"
+    }, {
+        "id": 103593,
+        "Text": "InvoiceTotal kiểu money bị chuyển thành kiểu Decimal"
+    }, {
+        "id": 103594,
+        "Text": "Giá trị .0775 kiểu Decimal bị chuyển thành kiểu money"
+    }]
+}, {
+    "id": 24979,
+    "Text": "Lệnh gán giá trị cho cột PaymentDate có kiểu SmallDatetime sau đây có thực hiện phép chuyển đổi ngầm không PaymentDate = \u00272008-08-05\u0027",
+    "marks": 1,
+    "answerid": 103597,
+    "answers": [{
+        "id": 103595,
+        "Text": "Không thực hiện chuyển đổi ngầm"
+    }, {
+        "id": 103596,
+        "Text": "Thực hiện phép chuyển đổi ngầm, giá trị chuỗi 2008-08-05 sẽ bị chuyển thành kiểu Datetime"
+    }, {
+        "id": 103597,
+        "Text": "Thực hiện phép chuyển đổi ngầm, giá trị chuỗi 2008-08-05 sẽ bị chuyển thành kiểu SmallDatetime"
+    }, {
+        "id": 103598,
+        "Text": "Thực hiện phép chuyển đổi ngầm, PaymentDate sẽ bị chuyển thành kiểu varchar"
+    }]
+}, {
+    "id": 24980,
+    "Text": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, 1) trả lại kết quả cột InvoiceDate có định dạng nào sau đây.",
+    "marks": 1,
+    "answerid": 103601,
+    "answers": [{
+        "id": 103599,
+        "Text": "dd/mm/yyyy"
+    }, {
+        "id": 103600,
+        "Text": "yy/dd/mm"
+    }, {
+        "id": 103601,
+        "Text": "mm/dd/yy"
+    }, {
+        "id": 103602,
+        "Text": "mm/dd/yyyy"
+    }]
+}, {
+    "id": 24981,
+    "Text": "Đoạn mã kịch bản nào sau đây thực hiện khai báo một biến và gán giá trị cho biến đó bằng 1 A. DECLARE @a int = 1 B. DECLARE @a int SET @a = 1 C. DECLARE @a int SELECT @a = 1 D. DECLARE a int SET a = 1",
+    "marks": 1,
+    "answerid": 103603,
+    "answers": [{
+        "id": 103603,
+        "Text": "Chỉ A, B, C đúng"
+    }, {
+        "id": 103604,
+        "Text": "Chỉ B đúng"
+    }, {
+        "id": 103605,
+        "Text": "Cả A, B, C , D đều đúng"
+    }, {
+        "id": 103606,
+        "Text": "Chỉ D đúng"
+    }]
+}, {
+    "id": 24982,
+    "Text": "Câu lệnh SELECT DATEDIFF(month, \u00272008-09-30\u0027, \u00272007-12-01\u0027) sau đây trả về kết quả là:",
+    "marks": 1,
+    "answerid": 103609,
+    "answers": [{
+        "id": 103607,
+        "Text": "9"
+    }, {
+        "id": 103608,
+        "Text": "304"
+    }, {
+        "id": 103609,
+        "Text": "-9"
+    }, {
+        "id": 103610,
+        "Text": "-304"
+    }]
+}, {
+    "id": 24983,
+    "Text": "Cột StartDate của bảng DateSample có kiểu dữ liệu datetime. Câu lệnh SELECT nào sau đây trả về tất cả các cột của bảng DateSample có StartDate là ngày 28-02-2012 A. SELECT * FROM DateSample WHERE StartDate = \u00272012-02-28\u0027 B. SELECT * FROM DateSample WHERE ",
+    "marks": 1,
+    "answerid": 103612,
+    "answers": [{
+        "id": 103611,
+        "Text": "B, C đúng"
+    }, {
+        "id": 103612,
+        "Text": "B, C, D đúng"
+    }, {
+        "id": 103613,
+        "Text": "B đúng"
+    }, {
+        "id": 103614,
+        "Text": "Cả A, B, C, D đều đúng"
+    }]
+}, {
+    "id": 24984,
+    "Text": "Cột InvoiceDate có kiểu dữ liệu SmallDatetime. Hàm CONVERT(varchar, InvoiceDate, a) trả lại kết quả cột InvoiceDate có định dạng dd/mm/yy. Vậy a có giá trị là bao nhiêu?",
+    "marks": 1,
+    "answerid": 103617,
+    "answers": [{
+        "id": 103615,
+        "Text": "101"
+    }, {
+        "id": 103616,
+        "Text": "2"
+    }, {
+        "id": 103617,
+        "Text": "3"
+    }, {
+        "id": 103618,
+        "Text": "7"
+    }]
+}, {
+    "id": 24985,
+    "Text": "Câu lệnh SELECT CHARINDEX(\u0027SQL\u0027, \u0027HELLO SQL Server\u0027) trả về kết quả là",
+    "marks": 1,
+    "answerid": 103622,
+    "answers": [{
+        "id": 103619,
+        "Text": "6"
+    }, {
+        "id": 103620,
+        "Text": "TRUE"
+    }, {
+        "id": 103621,
+        "Text": "3"
+    }, {
+        "id": 103622,
+        "Text": "7"
+    }]
+}, {
+    "id": 24986,
+    "Text": "Để câu lệnh ROLLBACK TRAN quay lui giao dịch đến điểm lưu trữ xác định, thực hiện như sau",
+    "marks": 1,
+    "answerid": 103623,
+    "answers": [{
+        "id": 103623,
+        "Text": "Viết câu lệnh ROLLBACK TRAN kèm theo tên điểm lưu trữ"
+    }, {
+        "id": 103624,
+        "Text": "Tạo điểm lưu trữ sử dụng câu lệnh SAVE AS"
+    }, {
+        "id": 103625,
+        "Text": "Tạo điểm lưu trữ sử dụng câu lệnh SAVE"
+    }, {
+        "id": 103626,
+        "Text": "Viết câu lệnh ROLL TRAN kèm theo tên điểm lưu trữ"
+    }]
+}, {
+    "id": 24987,
+    "Text": "Chọn đáp án ĐÚNG điền vào chỗ trống Khi không khai báo điểm bắt đầu cho một giao dịch, SQL Server coi ________ và tự động COMMIT câu lệnh lên Server. Nếu câu lệnh gây lỗi sẽ tự động ROLLBACK ĐÚNG hay SAI?",
+    "marks": 1,
+    "answerid": 103627,
+    "answers": [{
+        "id": 103627,
+        "Text": "Từng câu lệnh riêng lẻ là một giao dịch"
+    }, {
+        "id": 103628,
+        "Text": "Toàn bộ mã kịch bản là một giao dịch"
+    }, {
+        "id": 103629,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103630,
+        "Text": "Một nhóm câu lệnh là một giao dịch"
+    }]
+}, {
+    "id": 24988,
+    "Text": "Truyền giá trị tham số cho một Stored Procedure bằng cách nào sau đây?",
+    "marks": 1,
+    "answerid": 103633,
+    "answers": [{
+        "id": 103631,
+        "Text": "Cả hai đáp án đều sai"
+    }, {
+        "id": 103632,
+        "Text": "Truyền theo tên"
+    }, {
+        "id": 103633,
+        "Text": "Cả hai đáp án đều đúng"
+    }, {
+        "id": 103634,
+        "Text": "Truyền theo vị trí"
+    }]
+}, {
+    "id": 24989,
+    "Text": "Các trường hợp nào sau đây nên sử dụng giao dịch",
+    "marks": 1,
+    "answerid": 103636,
+    "answers": [{
+        "id": 103635,
+        "Text": "Bất cứ mã kịch bản nào cũng nên sử dụng Transaction"
+    }, {
+        "id": 103636,
+        "Text": "Khi sự thất bại của tập câu lệnh SQL nào đó sẽ vi phạm tính toàn vẹn dữ liệu"
+    }, {
+        "id": 103637,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103638,
+        "Text": "Một mã kịch bản sử dụng nhiều câu lệnh SELECT"
+    }]
+}, {
+    "id": 24990,
+    "Text": "Phát biểu nào sau đây ĐÚNG về hàm @@TRANCOUNT",
+    "marks": 1,
+    "answerid": 103641,
+    "answers": [{
+        "id": 103639,
+        "Text": "Khi thực thi câu lệnh COMMIT TRAN, nếu @@TRANCOUNT = 0, mọi thay đổi đã được thực hiện trên CSDL trong suốt giao dịch sẽ được commit."
+    }, {
+        "id": 103640,
+        "Text": "Khi thực thi câu lệnh COMMIT TRAN, nếu @@TRANCOUNT \u003e 1, mọi thay đổi đã được thực hiện trên CSDL trong suốt giao dịch sẽ được commit."
+    }, {
+        "id": 103641,
+        "Text": "Khi thực thi câu lệnh COMMIT TRAN, nếu @@TRANCOUNT \u003e 1, các thay đổi sẽ không được commit. Thay vào đó @@TRANCOUNT giảm đi 1."
+    }, {
+        "id": 103642,
+        "Text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 24991,
+    "Text": "Nên sử dụng giao dịch trong trường hợp nào sau đây?",
+    "marks": 1,
+    "answerid": 103644,
+    "answers": [{
+        "id": 103643,
+        "Text": "Khi viết mã hai hay nhiều trigger"
+    }, {
+        "id": 103644,
+        "Text": "Khi cập nhật tham chiếu khóa ngoại"
+    }, {
+        "id": 103645,
+        "Text": "Khi chuyển hàng từ cột này sang cột khác"
+    }, {
+        "id": 103646,
+        "Text": "Khi sự thất bại của tập câu lệnh SQL nào đó sẽ vi phạm function"
+    }]
+}, {
+    "id": 24992,
+    "Text": "Phát biểu nào sau đây đúng về Stored Procedure sau: CREATE PROC spParameters @a int = 0, @b int OUT, @String Nvarchar(50) = \u0027%\u0027 AS",
+    "marks": 1,
+    "answerid": 103650,
+    "answers": [{
+        "id": 103647,
+        "Text": "Giá trị của tham số @a và @String luôn luôn là 0 và %"
+    }, {
+        "id": 103648,
+        "Text": "Lời gọi Stored Procedure này không cần truyền giá trị cho các tham số @a, @String, @b"
+    }, {
+        "id": 103649,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103650,
+        "Text": "@a và @String là tham số đầu vào tùy chọn, @b là tham số đầu ra"
+    }]
+}, {
+    "id": 24993,
+    "Text": "Chọn phát biểu ĐÚNG?",
+    "marks": 1,
+    "answerid": 103651,
+    "answers": [{
+        "id": 103651,
+        "Text": "Để khai báo điểm bắt đầu của một giao dịch có thể sử dụng từ khóa BEGIN TRAN hoặc BEGIN TRANSACTION"
+    }, {
+        "id": 103652,
+        "Text": "Bắt buộc phải viết từ khóa TRAN khi viết câu lệnh BEGIN, COMMIT hoặc ROLLBACK."
+    }, {
+        "id": 103653,
+        "Text": "Câu lệnh ROLLBACK chỉ sử dụng để quay lui về thời điểm bắt đầu giao dịch"
+    }, {
+        "id": 103654,
+        "Text": "Tất cả phát biểu đều sai"
+    }]
+}, {
+    "id": 24994,
+    "Text": "Đâu là phát biểu đúng về Stored Procedure",
+    "marks": 1,
+    "answerid": 103658,
+    "answers": [{
+        "id": 103655,
+        "Text": "Một Stored Procedure không có tham số đầu ra"
+    }, {
+        "id": 103656,
+        "Text": "Một Stored Procedure có thể chứ nhiều nhóm câu lệnh (Batch)"
+    }, {
+        "id": 103657,
+        "Text": "Một Stored Procedure không có tham số đầu vào"
+    }, {
+        "id": 103658,
+        "Text": "Stored Procedure là một tập các câu lệnh T-SQL thực hiện một nhiệm vụ cụ thể, được đặt tên và lưu trữ trong CSDL dưới dạng đã biên dịch."
+    }]
+}, {
+    "id": 24995,
+    "Text": "Mã kịch bản sau sẽ làm gì khi được thực thi IF OBJECT_id(\u0027spCopyInvoices\u0027) IS NOT NULL DROP PROC spCopyInvoices CREATE PROC spCopyInvoices AS SELECT * INTO InvoiceCopy FROM Invoices",
+    "marks": 1,
+    "answerid": 103660,
+    "answers": [{
+        "id": 103659,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103660,
+        "Text": "Xóa spCopyInvoices nếu Stored Procedure này đã tồn tại và tạo spCopyInvoices mới"
+    }, {
+        "id": 103661,
+        "Text": "Xóa spCopyInvoices nếu Stored Procedure này đã tồn tại nhưng không tạo spCopyInvoices mới"
+    }, {
+        "id": 103662,
+        "Text": "Lỗi cú pháp"
+    }]
+}, {
+    "id": 24996,
+    "Text": "Phát biều nào sau đây đúng về tên cột của một VIEW A. Trong mọi trường hợp, có thể không đặt tên các cột của VIEW trong câu lệnh CRETE VIEW. B. Cột chứa giá trị được tính toán từ nhiều cột khác phải được đặt tên. C. Nếu cột không được đặt tên, tên cột sẽ ",
+    "marks": 1,
+    "answerid": 103663,
+    "answers": [{
+        "id": 103663,
+        "Text": "B, C Đúng"
+    }, {
+        "id": 103664,
+        "Text": "C, D Đúng"
+    }, {
+        "id": 103665,
+        "Text": "D, A Đúng"
+    }, {
+        "id": 103666,
+        "Text": "A, B Đúng"
+    }]
+}, {
+    "id": 24997,
+    "Text": "Câu lệnh nào sau đây thực hiện xóa View Vendors_SW",
+    "marks": 1,
+    "answerid": 103668,
+    "answers": [{
+        "id": 103667,
+        "Text": "DROP \u0027Vendors_SW\u0027"
+    }, {
+        "id": 103668,
+        "Text": "DROP VIEW Vendors_SW"
+    }, {
+        "id": 103669,
+        "Text": "DROP VIEW \u0027Vendors_SW\u0027"
+    }, {
+        "id": 103670,
+        "Text": "DROP Vendors_SW"
+    }]
+}, {
+    "id": 24998,
+    "Text": "Mã kịch bản nào sau đây khai báo thành công một hàm tính tổng hai số",
+    "marks": 1,
+    "answerid": 103671,
+    "answers": [{
+        "id": 103671,
+        "Text": "CREATE FUNCTION fnTonghaiso( @a int = 0, @b int = 0) RETURNS int BEGIN RETURN (@a+@b)END"
+    }, {
+        "id": 103672,
+        "Text": "CREATE FUNCTION fnTonghaiso( @a int = 0, @b int = 0) RETURN int BEGIN RETURN (@a+@b)END"
+    }, {
+        "id": 103673,
+        "Text": "CREATE FUNCTION fnTonghaiso @a int = 0, @b int = 0 RETURN int BEGIN RETURN (@a+@b)END"
+    }, {
+        "id": 103674,
+        "Text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 24999,
+    "Text": "Để chỉnh sửa một VIEW sử dụng chế độ đồ họa View Designer của Management Studio, Click chuột phải vào tên View trong cửa sổ Objects Explorer chọn ___________",
+    "marks": 1,
+    "answerid": 103676,
+    "answers": [{
+        "id": 103675,
+        "Text": "View Modifier"
+    }, {
+        "id": 103676,
+        "Text": "Design"
+    }, {
+        "id": 103677,
+        "Text": "View Designer"
+    }, {
+        "id": 103678,
+        "Text": "Modify"
+    }]
+}, {
+    "id": 25000,
+    "Text": "Có mấy loại hàm người dùng định nghĩa",
+    "marks": 1,
+    "answerid": 103681,
+    "answers": [{
+        "id": 103679,
+        "Text": "2"
+    }, {
+        "id": 103680,
+        "Text": "1"
+    }, {
+        "id": 103681,
+        "Text": "3"
+    }, {
+        "id": 103682,
+        "Text": "4"
+    }]
+}, {
+    "id": 25001,
+    "Text": "Phát biểu nào ĐÚNG về đoạn mã sau: CREATE VIEW VendorsDESC AS SELECT Vendorid, VendorName FROM vendors ORDER BY VendorName DESC",
+    "marks": 1,
+    "answerid": 103683,
+    "answers": [{
+        "id": 103683,
+        "Text": "Xảy ra lỗi khi thực thi đoạn mã này"
+    }, {
+        "id": 103684,
+        "Text": "View được tạo ra bởi đoạn mã này là View có thể cập nhật"
+    }, {
+        "id": 103685,
+        "Text": "View được tạo ra bởi đoạn mã này là View chỉ đọc"
+    }, {
+        "id": 103686,
+        "Text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 25002,
+    "Text": "Phát biểu nào ĐÚNG về đoạn mã dưới đây? CREATE VIEW OutstandingInvoices AS SELECT InvoiceNumber, InvoiceDate, InvoiceTotal, InvoiceTotal - PaymentTotal – CreditTotal AS BalanceDue FROM Invoices WHERE InvoiceTotal - PaymentTotal - CreditTotal \u003e 0",
+    "marks": 1,
+    "answerid": 103689,
+    "answers": [{
+        "id": 103687,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103688,
+        "Text": "View tạo ra bởi đoạn mã này là View có thể cập nhật"
+    }, {
+        "id": 103689,
+        "Text": "View tạo ra bởi đoạn mã này là View chỉ đọc"
+    }, {
+        "id": 103690,
+        "Text": "Xảy ra lỗi cú pháp khi thực thi đoạn mã"
+    }]
+}, {
+    "id": 25003,
+    "Text": "Phát biểu nào sau đây đúng về VIEW?",
+    "marks": 1,
+    "answerid": 103694,
+    "answers": [{
+        "id": 103691,
+        "Text": "Một View chỉ có thể truy xuất dữ liệu từ một bảng trong CSDL"
+    }, {
+        "id": 103692,
+        "Text": "Có thể tạo một View trùng tên với tên một bảng đã tồn tại"
+    }, {
+        "id": 103693,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103694,
+        "Text": "Sử dụng View có thể che dấu và bảo mật dữ liệu"
+    }]
+}, {
+    "id": 25004,
+    "Text": "Một hàm người dùng định nghĩa có thể trả về giá trị nào sau đây",
+    "marks": 1,
+    "answerid": 103696,
+    "answers": [{
+        "id": 103695,
+        "Text": "Một bảng dữ liệu"
+    }, {
+        "id": 103696,
+        "Text": "Tất cả đáp án đều đúng"
+    }, {
+        "id": 103697,
+        "Text": "Giá trị kiểu int"
+    }, {
+        "id": 103698,
+        "Text": "Giá trị kiểu char"
+    }]
+}, {
+    "id": 25005,
+    "Text": "Để trả về giá trị cho một hàm người dùng định nghĩa, có thể sử dụng cách nào sau đây?",
+    "marks": 1,
+    "answerid": 103699,
+    "answers": [{
+        "id": 103699,
+        "Text": "Sử dụng câu lệnh RETURN"
+    }, {
+        "id": 103700,
+        "Text": "Sử dụng tham số đầu ra"
+    }, {
+        "id": 103701,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103702,
+        "Text": "Sử dụng tham số đầu ra hoặc câu lệnh RETURN"
+    }]
+}, {
+    "id": 25006,
+    "Text": "Phát biểu nào sau đây ĐÚNG:",
+    "marks": 1,
+    "answerid": 103705,
+    "answers": [{
+        "id": 103703,
+        "Text": "Câu lệnh tạo Login id sử dụng tùy chọn DEFAULT_DATABASE để thiết lập CSDL mặc định cho Login id phải được thực thi trong ngữ cảnh CSDL mặc định đó"
+    }, {
+        "id": 103704,
+        "Text": "Mỗi CSDL duy trì một danh sách Login id của riêng CSDL đó."
+    }, {
+        "id": 103705,
+        "Text": "Để tạo database user cho một CSDL cụ thể, câu lệnh CREATE USER phải được thực thi trong ngữ cảnh CSDL đó"
+    }, {
+        "id": 103706,
+        "Text": "Mỗi Login id chỉ tạo được một database User"
+    }]
+}, {
+    "id": 25007,
+    "Text": "Lựa chọn nào sau đây là vai trò CSDL mặc định",
+    "marks": 1,
+    "answerid": 103710,
+    "answers": [{
+        "id": 103707,
+        "Text": "dbcreator"
+    }, {
+        "id": 103708,
+        "Text": "DbDatawriter"
+    }, {
+        "id": 103709,
+        "Text": "DbOwner"
+    }, {
+        "id": 103710,
+        "Text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 25008,
+    "Text": "Chế độ xác thực nào sau đây phải nhập UserName và Password khi đăng nhập SQL Server",
+    "marks": 1,
+    "answerid": 103711,
+    "answers": [{
+        "id": 103711,
+        "Text": "SQL Server Authentication"
+    }, {
+        "id": 103712,
+        "Text": "Windows Authenticaion"
+    }, {
+        "id": 103713,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103714,
+        "Text": "Mixed Mode"
+    }]
+}, {
+    "id": 25009,
+    "Text": "Sau khi tạo một Database User cho một CSDL thì người dùng có thể thực hiện các quyền nào sau đây?",
+    "marks": 1,
+    "answerid": 103716,
+    "answers": [{
+        "id": 103715,
+        "Text": "Thêm một bảng vào CSDL"
+    }, {
+        "id": 103716,
+        "Text": "Chọn CSDL trên combo box chọn ngữ cảnh CSDL"
+    }, {
+        "id": 103717,
+        "Text": "Xóa một bảng trong CSDL"
+    }, {
+        "id": 103718,
+        "Text": "Truy vấn một bảng trong một CSDL trên Server"
+    }]
+}, {
+    "id": 25010,
+    "Text": "Quyền SELECT có thể tác động lên các đối tượng nào dưới đây:",
+    "marks": 1,
+    "answerid": 103719,
+    "answers": [{
+        "id": 103719,
+        "Text": "Tất cả đáp án đều đúng"
+    }, {
+        "id": 103720,
+        "Text": "View"
+    }, {
+        "id": 103721,
+        "Text": "Hàm giá trị bảng"
+    }, {
+        "id": 103722,
+        "Text": "Bảng"
+    }]
+}, {
+    "id": 25011,
+    "Text": "Đoạn mã kịch bản nào sau đây thực thi thành công:",
+    "marks": 1,
+    "answerid": 103723,
+    "answers": [{
+        "id": 103723,
+        "Text": "CREATE LOGIN JohnDoe WITH PASSWORD = \u0027pt8806FG$B\u0027, DEFAULT_DATABASE = AP USE APCREATE USER JohnDoe FOR LOGIN JohnDoe"
+    }, {
+        "id": 103724,
+        "Text": "CREATE LOGIN id JohnDoe WITH PASSWORD = \u0027pt8806FG$B\u0027, DEFAULT_DATABASE = AP USE APCREATE USER JohnDoe"
+    }, {
+        "id": 103725,
+        "Text": "CREATE LOGIN id JohnDoe WITH PASSWORD = \u0027pt8806FG$B\u0027, DEFAULT_DATABASE = AP USE APCREATE USER JohnDoe FOR LOGIN id JohnDoe"
+    }, {
+        "id": 103726,
+        "Text": "CREATE LOGIN JohnDoe WITH PASSWORD = \u0027pt8806FG$B\u0027, DEFAULT_DATABASE = AP USE APCREATE DATABASE USER JohnDoe FOR LOGIN JohnDoe"
+    }]
+}, {
+    "id": 25012,
+    "Text": "Quyền EXECUTE có thể tác động lên các đối tượng nào sau đây:",
+    "marks": 1,
+    "answerid": 103727,
+    "answers": [{
+        "id": 103727,
+        "Text": "Stored Procedure"
+    }, {
+        "id": 103728,
+        "Text": "Bảng"
+    }, {
+        "id": 103729,
+        "Text": "Tất cả các đối tượng CSDL"
+    }, {
+        "id": 103730,
+        "Text": "View"
+    }]
+}, {
+    "id": 25013,
+    "Text": "Vai trò dbcreator có thể thực hiện các thao tác nào sau đây?",
+    "marks": 1,
+    "answerid": 103733,
+    "answers": [{
+        "id": 103731,
+        "Text": "Phục hồi một CSDL"
+    }, {
+        "id": 103732,
+        "Text": "Truy vấn các bảng trong một CSDL do người dùng tạo trên server"
+    }, {
+        "id": 103733,
+        "Text": "Tạo một bảng mới trên một CSDL, do người dùng tạo trên server"
+    }, {
+        "id": 103734,
+        "Text": "Tất cả đáp án đều đúng"
+    }]
+}, {
+    "id": 25014,
+    "Text": "Password của một SQL Login id phải thỏa mãn điều kiện nào sau đây để có tính bảo mật cao?",
+    "marks": 1,
+    "answerid": 103735,
+    "answers": [{
+        "id": 103735,
+        "Text": "Tất cả đáp án đều đúng"
+    }, {
+        "id": 103736,
+        "Text": "Không sử dụng các giá trị \"sysadmin\", \"sa\", \"administrator\""
+    }, {
+        "id": 103737,
+        "Text": "Không sử dụng tên máy hoặc tên người dùng hiện thời"
+    }, {
+        "id": 103738,
+        "Text": "Phải chứa ít nhất ba trong số các kí tự sau: chữ cái viết hoa, chữ cái viết thường, kí tự số, các kí tự đặc biệt (#, %, $...)"
+    }]
+}, {
+    "id": 25015,
+    "Text": "Lựa chọn đáp án đúng? SQL Server dựa vào _________cấp cho người dùng/nhóm người dùng để xác định các đối tượng, câu lệnh SQL… người đùng được phép tác động trên CSDL",
+    "marks": 1,
+    "answerid": 103742,
+    "answers": [{
+        "id": 103739,
+        "Text": "Quyền"
+    }, {
+        "id": 103740,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103741,
+        "Text": "Vai trò"
+    }, {
+        "id": 103742,
+        "Text": "Quyền và vai trò"
+    }]
+}, {
+    "id": 25016,
+    "Text": "Invoices là tên một bảng trong CSDL. Câu lệnh sp_Help \u0027Invoices\u0027 trả về___________",
+    "marks": 1,
+    "answerid": 103743,
+    "answers": [{
+        "id": 103743,
+        "Text": "Câu lệnh tạo bảng Invoices"
+    }, {
+        "id": 103744,
+        "Text": "Tất cả các thông tin liên quan đến bảng Invoices bao gồm thông tin các cột của bảng, indexes, ràng buộc, khóa ngoại."
+    }, {
+        "id": 103745,
+        "Text": "Cả A, B, C đều sai"
+    }, {
+        "id": 103746,
+        "Text": "Tất cả các thông tin liên quan đến bảng Invoices bao gồm thông tin các cột của bảng, indexes, ràng buộc, khóa ngoại, các Stored Procedure, View, Trigger tham chiếu đến bảng."
+    }]
+}, {
+    "id": 25017,
+    "Text": "System Stored Procedure nào sau đây đùng để xem danh sách các Stored Procedure, View mà tham chiếu đến bảng Invoices trong CSDL?",
+    "marks": 1,
+    "answerid": 103750,
+    "answers": [{
+        "id": 103747,
+        "Text": "sp_help Invoices"
+    }, {
+        "id": 103748,
+        "Text": "sp_relationship Invoices"
+    }, {
+        "id": 103749,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103750,
+        "Text": "sp_depends Invoices"
+    }]
+}, {
+    "id": 25018,
+    "Text": "Người dùng phải đăng nhạp bằng Login id có vai trò nào sau đây, để có thể tạo lịch sao lưu tự động cho một CSDL?",
+    "marks": 1,
+    "answerid": 103751,
+    "answers": [{
+        "id": 103751,
+        "Text": "sysadmin"
+    }, {
+        "id": 103752,
+        "Text": "db_owner"
+    }, {
+        "id": 103753,
+        "Text": "admin"
+    }, {
+        "id": 103754,
+        "Text": "dbcreator"
+    }]
+}, {
+    "id": 25019,
+    "Text": "Tùy chọn chế độ sao lưu nào sau đây có thể tạo ra nhiều bản sao CSDL, được lưu trong cùng một File .bak?",
+    "marks": 1,
+    "answerid": 103758,
+    "answers": [{
+        "id": 103755,
+        "Text": "Duplicate"
+    }, {
+        "id": 103756,
+        "Text": "Overwrite all existing backup sets"
+    }, {
+        "id": 103757,
+        "Text": "Multiple copies"
+    }, {
+        "id": 103758,
+        "Text": "Append to the existing backup set"
+    }]
+}, {
+    "id": 25020,
+    "Text": "Để tạo lịch sao lưu CSDL tự động trong SQL Server 2008, nhấn chuột phải vào Maintenance Plans trong thư mục Management trên cửa sổ Solution Explorer, chọn ________",
+    "marks": 1,
+    "answerid": 103759,
+    "answers": [{
+        "id": 103759,
+        "Text": "New Maintenance Plan"
+    }, {
+        "id": 103760,
+        "Text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 103761,
+        "Text": "New backup Schedule"
+    }, {
+        "id": 103762,
+        "Text": "New backup plan"
+    }]
+}, {
+    "id": 25021,
+    "Text": "Phát biểu nào sau đây ĐÚNG?",
+    "marks": 1,
+    "answerid": 103764,
+    "answers": [{
+        "id": 103763,
+        "Text": "Kiểu sao lưu Full backup tốn ít dung lượng bộ nhớ hơn kiểu sao lưu Differential backup"
+    }, {
+        "id": 103764,
+        "Text": "Kiểu sao lưu Differential backup chỉ sao lưu các dữ liệu mới được cập nhật (thay đổi) kể từ lần full backup trước đó"
+    }, {
+        "id": 103765,
+        "Text": "Kiểu sao lưu Differential backup sao lưu toàn bộ dữ liệu trong CSDL cùng với bản ghi transaction log ghi nhận các thao tác được thực hiện từ lần sao lưu Full backup gần nhất"
+    }, {
+        "id": 103766,
+        "Text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 25022,
+    "Text": "Để thực hiện phục hồi CSDL từ một bản sao Full backup và sau đó tiếp tục phục hồi CSDL sử dụng bản sao Differential backup, ở mục recovery state của trang option trong hộp thoại Restore database của lần phục hồi từ bản sao Full backup phải chọn radio butt",
+    "marks": 1,
+    "answerid": 103769,
+    "answers": [{
+        "id": 103767,
+        "Text": "radio button thứ ba"
+    }, {
+        "id": 103768,
+        "Text": "radio button thứ nhất"
+    }, {
+        "id": 103769,
+        "Text": "radio button thứ hai"
+    }, {
+        "id": 103770,
+        "Text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 25023,
+    "Text": "Các cấu hình thường phải thực hiện cho một Back Up Database Task trong hộp thoại Back Up Database Task là:A. Ấn định thời gian thực hiện sao lưu CSDLB. Chọn kiểu sao lưu CSDL trong mục Database(s)C. Chọn đường dẫn lưu bản sao CSDL",
+    "marks": 1,
+    "answerid": 103773,
+    "answers": [{
+        "id": 103771,
+        "Text": "A, B đúng"
+    }, {
+        "id": 103772,
+        "Text": "Tất cả đáp án đều đúng"
+    }, {
+        "id": 103773,
+        "Text": "A, C đúng"
+    }, {
+        "id": 103774,
+        "Text": "B, C đúng"
+    }]
+}, {
+    "id": 25024,
+    "Text": "Lựa chọn nào sau đây là một system stored procedure?",
+    "marks": 1,
+    "answerid": 103777,
+    "answers": [{
+        "id": 103775,
+        "Text": "sp_who"
+    }, {
+        "id": 103776,
+        "Text": "sp_column"
+    }, {
+        "id": 103777,
+        "Text": "sp_table"
+    }, {
+        "id": 103778,
+        "Text": "sp_relationship"
+    }]
+}, {
+    "id": 25025,
+    "Text": "File sử dụng để phục hồi cơ sở dữ liệu có phần mở rộng làA. MdfB. bakC. LdfD. Sử dụng cả ba loại file trên",
+    "marks": 1,
+    "answerid": 103779,
+    "answers": [{
+        "id": 103779,
+        "Text": "B Đúng"
+    }, {
+        "id": 103780,
+        "Text": "A Đúng"
+    }, {
+        "id": 103781,
+        "Text": "D Đúng"
+    }, {
+        "id": 103782,
+        "Text": "C Đúng"
+    }]
+}]

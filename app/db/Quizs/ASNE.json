@@ -1,0 +1,1441 @@
+[{
+    "id": 25970,
+    "text": "Lập trình viên thường gán giá trị mặc định cho các điều khiển trong phương thức xử lý sự kiện ........... của trang",
+    "marks": 1,
+    "answerid": 107573,
+    "answers": [{
+        "id": 107571,
+        "text": "Prerender"
+    }, {
+        "id": 107572,
+        "text": "Init"
+    }, {
+        "id": 107573,
+        "text": "Load"
+    }, {
+        "id": 107574,
+        "text": "Unload"
+    }]
+}, {
+    "id": 25971,
+    "text": "Bạn hãy cho biết định nghĩa nào sau đây là nói về ứng dụng web?",
+    "marks": 1,
+    "answerid": 107575,
+    "answers": [{
+        "id": 107575,
+        "text": "Là một ứng dụng client/server được truy cập thông qua trình duyệt Web trên mạng Internet hoặc intranet"
+    }, {
+        "id": 107576,
+        "text": "Các phương án đều đúng"
+    }, {
+        "id": 107577,
+        "text": "Là ứng dụng chỉ chạy trên một máy tính đơn"
+    }, {
+        "id": 107578,
+        "text": "Là ứng dụng chỉ chạy trên môi trường mobile"
+    }]
+}, {
+    "id": 25972,
+    "text": "Để hiển thị dòng \"Hello World\" trên trang web, trong ASP.Net cần dùng lệnh nào?",
+    "marks": 1,
+    "answerid": 107582,
+    "answers": [{
+        "id": 107579,
+        "text": "Document.Write(\"Hello World\");"
+    }, {
+        "id": 107580,
+        "text": "\"Hello World\""
+    }, {
+        "id": 107581,
+        "text": "Request.Write((\"Hello World\");"
+    }, {
+        "id": 107582,
+        "text": "Response.Write(\"Hello World\");"
+    }]
+}, {
+    "id": 25973,
+    "text": "Phát biểu nào sau đây đúng về ASP.NET?",
+    "marks": 1,
+    "answerid": 107584,
+    "answers": [{
+        "id": 107583,
+        "text": "ASP.NET là mô hình lập trình hướng cấu trúc"
+    }, {
+        "id": 107584,
+        "text": "ASP.NET là mô hình lập trình hướng sự kiện"
+    }, {
+        "id": 107585,
+        "text": "ASP.NET là mô hình lập trình hướng thành phần"
+    }, {
+        "id": 107586,
+        "text": "ASP.NET là mô hình lập trình hướng đối tượng"
+    }]
+}, {
+    "id": 25974,
+    "text": "Khi chạy một ứng dụng ASP.NET, nếu ngoại lệ xảy ra nhưng không được bắt và xử lý, ứng dụng sẽ chuyển sang chế độ ngắt và hộp thoại ............ sẽ hiển thị.",
+    "marks": 1,
+    "answerid": 107587,
+    "answers": [{
+        "id": 107587,
+        "text": "Exception Assistant"
+    }, {
+        "id": 107588,
+        "text": "Exception Help"
+    }, {
+        "id": 107589,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107590,
+        "text": "Exception"
+    }]
+}, {
+    "id": 25975,
+    "text": "Theo bạn, câu nào sau đây là sai khi nói về web động?",
+    "marks": 1,
+    "answerid": 107591,
+    "answers": [{
+        "id": 107591,
+        "text": "Viết hoàn toàn bằng ngôn ngữ HTML"
+    }, {
+        "id": 107592,
+        "text": "Có tương tác với người dùng, nội dung của trang hiển thị khác nhau đáp ứng các sự kiện."
+    }, {
+        "id": 107593,
+        "text": "Có thể dùng để hiển thị và cung cấp thông tin"
+    }, {
+        "id": 107594,
+        "text": "Lưu dữ liệu trong cơ sở dữ liệu"
+    }]
+}, {
+    "id": 25976,
+    "text": "Vòng đời của một trang Web bao gồm các các sự kiện:1. PreRender2. Load3. UnLoad4. InitTheo bạn, các sự kiện xảy ra theo thứ tự nào sau đây là đúng?",
+    "marks": 1,
+    "answerid": 107595,
+    "answers": [{
+        "id": 107595,
+        "text": "4 - 2 – 3 – 1"
+    }, {
+        "id": 107596,
+        "text": "4 - 3 – 2 – 1"
+    }, {
+        "id": 107597,
+        "text": "2 - 3 – 4 – 1"
+    }, {
+        "id": 107598,
+        "text": "1 - 2 - 3 – 4"
+    }]
+}, {
+    "id": 25977,
+    "text": "Phím tắt nào sau đây dùng để bắt đầu chạy ứng dụng dưới chế độ gỡ lỗi?",
+    "marks": 1,
+    "answerid": 107599,
+    "answers": [{
+        "id": 107599,
+        "text": "F9"
+    }, {
+        "id": 107600,
+        "text": "F10"
+    }, {
+        "id": 107601,
+        "text": "F5"
+    }, {
+        "id": 107602,
+        "text": "F11"
+    }]
+}, {
+    "id": 25978,
+    "text": "Lớp nào sau đây được ASP.NET cung cấp để duy trì các thông tin trao đổi giữa Client và Server?",
+    "marks": 1,
+    "answerid": 107603,
+    "answers": [{
+        "id": 107603,
+        "text": "HttpResponse"
+    }, {
+        "id": 107604,
+        "text": "Các phươn án đều đúng"
+    }, {
+        "id": 107605,
+        "text": "HttpServerUtility"
+    }, {
+        "id": 107606,
+        "text": "HttpRequest"
+    }]
+}, {
+    "id": 25979,
+    "text": "Theo bạn, sự kiện nào sau đây được xem là sự kiện tự động kích hoạt?",
+    "marks": 1,
+    "answerid": 107607,
+    "answers": [{
+        "id": 107607,
+        "text": "Tải trang (Page_load)"
+    }, {
+        "id": 107608,
+        "text": "Thay đổi giá trị ở textBox (changetext)"
+    }, {
+        "id": 107609,
+        "text": "Nhấn chuột vào một nút (button_click)"
+    }, {
+        "id": 107610,
+        "text": "Đóng cửa sổ trình duyệt (close window)"
+    }]
+}, {
+    "id": 25980,
+    "text": "Các lớp tạo ra các điều khiển Web server nằm trong namespace nào?",
+    "marks": 1,
+    "answerid": 107611,
+    "answers": [{
+        "id": 107611,
+        "text": "System.Web.UI.WebControls"
+    }, {
+        "id": 107612,
+        "text": "System.Windows.Page. WebControls"
+    }, {
+        "id": 107613,
+        "text": "System.Web.UI.Controls"
+    }, {
+        "id": 107614,
+        "text": "System.web.UI.Page"
+    }]
+}, {
+    "id": 25981,
+    "text": "Những điều khiển nào sau đây thuộc về loại List Control?",
+    "marks": 1,
+    "answerid": 107615,
+    "answers": [{
+        "id": 107615,
+        "text": "DropDownList, ListBox, RadioButtonList, CheckBoxList, BulletedList"
+    }, {
+        "id": 107616,
+        "text": "ComboboxList, ListBox, HyperLinkList, CheckBoxList, BulletedList"
+    }, {
+        "id": 107617,
+        "text": "ComboboxList, ListBox, RadioButtonList, CheckBoxList, BulletedList"
+    }, {
+        "id": 107618,
+        "text": "DropdownList, ButtonList , RadioButtonList, CheckBoxList, ListBox"
+    }]
+}, {
+    "id": 25982,
+    "text": "Để che dấu các kí tự nhập vào một text box bạn gán giá trị cho thuộc tính textMode bằng giá trị nào dưới đây?",
+    "marks": 1,
+    "answerid": 107619,
+    "answers": [{
+        "id": 107619,
+        "text": "Password"
+    }, {
+        "id": 107620,
+        "text": "Hidden"
+    }, {
+        "id": 107621,
+        "text": "Mask"
+    }, {
+        "id": 107622,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 25983,
+    "text": "Chọn phương án đúng về điều khiển FileUpLoad:",
+    "marks": 1,
+    "answerid": 107623,
+    "answers": [{
+        "id": 107623,
+        "text": "Sử dụng phương thức SaveAs(String) để lưu file được upload tới một đường dẫn được chỉ định trong tham số String"
+    }, {
+        "id": 107624,
+        "text": "Hỗ trợ một button cho phép người dùng gửi yêu cầu upload File được chọn lên Server"
+    }, {
+        "id": 107625,
+        "text": "Sử dụng phương thức Save(String) để lưu file được upload tới một đường dẫn được chỉ định trong tham số String"
+    }, {
+        "id": 107626,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 25984,
+    "text": "Để một Check Box hiển thị trên trình duyệt với một dấu tích chọn , bạn gán giá trị True cho thuộc tính nào dưới đây?",
+    "marks": 1,
+    "answerid": 107629,
+    "answers": [{
+        "id": 107627,
+        "text": "Selected"
+    }, {
+        "id": 107628,
+        "text": "Chosen"
+    }, {
+        "id": 107629,
+        "text": "Checked"
+    }, {
+        "id": 107630,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 25985,
+    "text": "Mã lệnh nào sau đây cho phép tạo ra điều khiển Hyperlink trong ASP.Net liên kết đến trang index.aspx của website, có đoạn văn bản hiển thị trên điều khiển là “Trang chủ” và hình ảnh được hiển thị là icon “home.gif”?",
+    "marks": 1,
+    "answerid": 107631,
+    "answers": [{
+        "id": 107631,
+        "text": "\u003casp:HyperLink id=\"HyperLink1\" runat=\"server\" ImageUrl=\"home.gif\" NavigateUrl=\"index.apsx\"\u003eTrang chủ\u003c/asp:HyperLink\u003e"
+    }, {
+        "id": 107632,
+        "text": "\u003casp:HyperLink id=\"HyperLink1\" runat=\"server\" ImageUrl=\"home.gif\" href=\"index.apsx\" text= “Trang chủ”\u003e\u003c/asp:HyperLink\u003e"
+    }, {
+        "id": 107633,
+        "text": "\u003casp:HyperLink id=\"HyperLink1\" runat=\"server\" Image=\"home.gif\" href =\"index.apsx\"\u003eTrang chủ\u003c/asp:HyperLink\u003e"
+    }, {
+        "id": 107634,
+        "text": "\u003casp:HyperLink id=\"HyperLink1\" runat=\"server\" Image=\"home.gif\" NavigateUrl=\"index.apsx\" text= “Trang chủ”\u003e\u003c/asp:HyperLink\u003e"
+    }]
+}, {
+    "id": 25986,
+    "text": "Thuộc tính GroupName là thuộc tính của điều khiển nào sau đây?",
+    "marks": 1,
+    "answerid": 107638,
+    "answers": [{
+        "id": 107635,
+        "text": "Check box"
+    }, {
+        "id": 107636,
+        "text": "Các phương án đều đúng"
+    }, {
+        "id": 107637,
+        "text": "Radio button List"
+    }, {
+        "id": 107638,
+        "text": "Radio button"
+    }]
+}, {
+    "id": 25987,
+    "text": "Để một điều khiển HTML được nhận diện như là một điều khiển trên Server, bạn  phải:A. Gán giá trị cho thuộc tính Runat của điều khiển bằng \"Server\"B. Gán giá trị cho thuộc tính Server của điều khiển bằng \"Runat\"",
+    "marks": 1,
+    "answerid": 107639,
+    "answers": [{
+        "id": 107639,
+        "text": "Cả A, B đều đúng"
+    }, {
+        "id": 107640,
+        "text": "B đúng"
+    }, {
+        "id": 107641,
+        "text": "Cả A, B đều sai"
+    }, {
+        "id": 107642,
+        "text": "A đúng"
+    }]
+}, {
+    "id": 25988,
+    "text": "ddlDay là một drop-down list. Câu lệnh nào sau đây thực hiện thêm một phần tử vào drop-down list",
+    "marks": 1,
+    "answerid": 107646,
+    "answers": [{
+        "id": 107643,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107644,
+        "text": "ddlDay.Add(new ListItem (\"Sunday\", \"1\"));"
+    }, {
+        "id": 107645,
+        "text": "ddlDay.ListItems.Add(new ListItem(\"Sunday\", \"1\"));"
+    }, {
+        "id": 107646,
+        "text": "ddlDay.Items.Add(new ListItem(\"Sunday\", \"1\"));"
+    }]
+}, {
+    "id": 25989,
+    "text": "Sự kiện Click là sự kiện của điều khiển nào sau đây?A. ImageMapB. ButtonC. text box",
+    "marks": 1,
+    "answerid": 107649,
+    "answers": [{
+        "id": 107647,
+        "text": "A đúng"
+    }, {
+        "id": 107648,
+        "text": "B đúng"
+    }, {
+        "id": 107649,
+        "text": "A, B đúng"
+    }, {
+        "id": 107650,
+        "text": "Cả A, B, C đều đúng"
+    }]
+}, {
+    "id": 25990,
+    "text": "Điều khiển nào dùng để hiển thị tổng hợp tất cả lỗi của các Validator trên trang?",
+    "marks": 1,
+    "answerid": 107653,
+    "answers": [{
+        "id": 107651,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107652,
+        "text": "SummaryValidator"
+    }, {
+        "id": 107653,
+        "text": "ValidationSummary"
+    }, {
+        "id": 107654,
+        "text": "CustomValidator"
+    }]
+}, {
+    "id": 25991,
+    "text": "Chọn phương án đúng khi nói về CompareValidator:",
+    "marks": 1,
+    "answerid": 107657,
+    "answers": [{
+        "id": 107655,
+        "text": "Kiểm tra kiểu dữ liệu nhập vào điều khiển nhập liệu"
+    }, {
+        "id": 107656,
+        "text": "So sánh giá trị điều khiển nhập liệu với hằng số"
+    }, {
+        "id": 107657,
+        "text": "Các phương án đều đúng"
+    }, {
+        "id": 107658,
+        "text": "So sánh giá trị của điều khiển nhập liệu với giá trị của một điều khiển khác"
+    }]
+}, {
+    "id": 25992,
+    "text": "ASP.NET cung cấp mấy loại điều khiển Validation?",
+    "marks": 1,
+    "answerid": 107661,
+    "answers": [{
+        "id": 107659,
+        "text": "4"
+    }, {
+        "id": 107660,
+        "text": "3"
+    }, {
+        "id": 107661,
+        "text": "6"
+    }, {
+        "id": 107662,
+        "text": "5"
+    }]
+}, {
+    "id": 25993,
+    "text": "Phát biểu về Cookie nào sau đây là đúng?",
+    "marks": 1,
+    "answerid": 107663,
+    "answers": [{
+        "id": 107663,
+        "text": "Ứng dụng gửi một Cookie tới trình duyệt thông qua hồi đáp HTTP (HTTP Response)"
+    }, {
+        "id": 107664,
+        "text": "Lập trình viên không thể sử dụng cookie để lưu trữ dữ liệu của riêng mình"
+    }, {
+        "id": 107665,
+        "text": "Session Cookie được lưu trữ vĩnh viễn trên ổ đĩa máy Client"
+    }, {
+        "id": 107666,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 25994,
+    "text": "Để bắt buộc người dùng phải thay đổi giá trị hiển thị mặc định trên một text box, lập trình viên sử dụng điều khiển nào sau đây:",
+    "marks": 1,
+    "answerid": 107667,
+    "answers": [{
+        "id": 107667,
+        "text": "RangeValidator"
+    }, {
+        "id": 107668,
+        "text": "RequiredFieldValidator"
+    }, {
+        "id": 107669,
+        "text": "CompareValidator"
+    }, {
+        "id": 107670,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 25995,
+    "text": "ASP.NET cung cấp các phương pháp nào để duy trì trạng thái?",
+    "marks": 1,
+    "answerid": 107671,
+    "answers": [{
+        "id": 107671,
+        "text": "Cả 3 phương án đã nêu"
+    }, {
+        "id": 107672,
+        "text": "Trạng thái phiên làm việc"
+    }, {
+        "id": 107673,
+        "text": "Trạng thái hiển thị"
+    }, {
+        "id": 107674,
+        "text": "Trạng thái ứng dụng"
+    }]
+}, {
+    "id": 25996,
+    "text": "Để kiểm tra tính hợp lệ cho kiểu dữ liệu người dùng nhập lên một điều khiển nhập liệu, cần phải:",
+    "marks": 1,
+    "answerid": 107678,
+    "answers": [{
+        "id": 107675,
+        "text": "Gán giá trị cho thuộc tính Operator bằng kiểu dữ liệu cần kiểm tra"
+    }, {
+        "id": 107676,
+        "text": "Gán giá trị cho thuộc tính Type bằng kiểu dữ liệu cần kiểm tra"
+    }, {
+        "id": 107677,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107678,
+        "text": "Gán giá trị cho thuộc tính Operator bằng DataCheckType và giá trị cho thuộc tính Type bằng kiểu dữ liệu cần kiểm tra"
+    }]
+}, {
+    "id": 25997,
+    "text": "Phát biểu nào sau đây là đúng khi nói đến điều khiển Validation Summary?",
+    "marks": 1,
+    "answerid": 107682,
+    "answers": [{
+        "id": 107679,
+        "text": "Thuộc tính ShowMessageBox của điều khiển Validation Summary có giá trị mặc định là “True”"
+    }, {
+        "id": 107680,
+        "text": "Được sử dụng để kiểm tra tính hợp lệ của điều khiển nhập liệu có phép tính tổng"
+    }, {
+        "id": 107681,
+        "text": "Hiển thị lỗi trong một tập tin xml"
+    }, {
+        "id": 107682,
+        "text": "Được sử dụng để hiển thị toàn bộ thông tin lỗi của các validator trên trang"
+    }]
+}, {
+    "id": 25998,
+    "text": "Để kiểm tra tính hợp lệ cho một trường bắt buộc người dùng nhập liệu, lập trình viên có thể sử dụng điều khiển ________",
+    "marks": 1,
+    "answerid": 107685,
+    "answers": [{
+        "id": 107683,
+        "text": "RequiredValidator"
+    }, {
+        "id": 107684,
+        "text": "RequiredFieldValidation"
+    }, {
+        "id": 107685,
+        "text": "RequiredFieldValidator"
+    }, {
+        "id": 107686,
+        "text": "RequiredFields"
+    }]
+}, {
+    "id": 25999,
+    "text": "Nhóm điều khiển nào sau đây trên Toolbox, sử dụng để kiểm tra tính hợp lệ của dữ liệu nhập vào một web form?",
+    "marks": 1,
+    "answerid": 107689,
+    "answers": [{
+        "id": 107687,
+        "text": "Navigation"
+    }, {
+        "id": 107688,
+        "text": "Data"
+    }, {
+        "id": 107689,
+        "text": "Validation"
+    }, {
+        "id": 107690,
+        "text": "Standard"
+    }]
+}, {
+    "id": 26000,
+    "text": "Để áp dụng theme tùy chỉnh cho toàn bộ các trang của một ứng dụng, bạn phải làm gì?",
+    "marks": 1,
+    "answerid": 107694,
+    "answers": [{
+        "id": 107691,
+        "text": "Thêm phần tử Theme vào file web.config. Chỉ định giá trị thuộc tính fileName bằng tên Theme         \u003csystem.web\u003e                   \u003ctheme fileName=\"ThemeName\" /\u003e         \u003c/system.web\u003e"
+    }, {
+        "id": 107692,
+        "text": "Thêm thuộc tính Theme vào chỉ dẫn Page     \u003c%@ Page=\"\" Language=\"C#\" Theme=\" ThemeName\" %\u003e"
+    }, {
+        "id": 107693,
+        "text": "Thêm thuộc tính Skin vào chỉ dẫn Page     \u003c%@ Page=\"\" Language=\"C#\" Skin=\" ThemeName\" %\u003e"
+    }, {
+        "id": 107694,
+        "text": "Thêm phần tử Pages vào file web.config. Chỉ định giá trị thuộc tính Theme bằng tên Theme         \u003csystem.web\u003e                   \u003cpages theme=\"ThemeName\" /\u003e         \u003c/system.web\u003e"
+    }]
+}, {
+    "id": 26001,
+    "text": "Phát biểu nào sau đây ĐÚNG?",
+    "marks": 1,
+    "answerid": 107697,
+    "answers": [{
+        "id": 107695,
+        "text": "Sự kiện của các điều khiển trên trang nội dung sẽ được xử lý sau trang master"
+    }, {
+        "id": 107696,
+        "text": "Sự kiện Load của trang nội dung xảy ra sau sự kiện Load của trang master"
+    }, {
+        "id": 107697,
+        "text": "Sự kiện Load của trang nội dung xảy ra trước sự kiện Load của trang master"
+    }, {
+        "id": 107698,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 26002,
+    "text": "Để hủy Theme tùy chỉnh cho một trang web, sử dụng phương pháp nào sau đây?",
+    "marks": 1,
+    "answerid": 107701,
+    "answers": [{
+        "id": 107699,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107700,
+        "text": "Thiết lập thuộc tính Theme của chỉ dẫn Page bằng False"
+    }, {
+        "id": 107701,
+        "text": "Thiết lập thuộc tính Theme của chỉ dẫn Page bằng xâu rỗng"
+    }, {
+        "id": 107702,
+        "text": "Thiết lập thuộc tính Theme của chỉ dẫn Page bằng True"
+    }]
+}, {
+    "id": 26003,
+    "text": "Để áp dụng skin cho một điều khiển tại thời gian chạy, bạn cần gán giá trị cho thuộc tính Skinid của điều khiển trong phương thức xử lý sự kiện nào sau đây?",
+    "marks": 1,
+    "answerid": 107703,
+    "answers": [{
+        "id": 107703,
+        "text": "PreInit"
+    }, {
+        "id": 107704,
+        "text": "PreRender"
+    }, {
+        "id": 107705,
+        "text": "Unload"
+    }, {
+        "id": 107706,
+        "text": "Load"
+    }]
+}, {
+    "id": 26004,
+    "text": "ASP.NET hỗ trợ cách định dạng hiển thị nào cho các thành phần trên trang web?",
+    "marks": 1,
+    "answerid": 107707,
+    "answers": [{
+        "id": 107707,
+        "text": "Các phương án đều đúng"
+    }, {
+        "id": 107708,
+        "text": "Sử dụng thuộc tính của các điều khiển"
+    }, {
+        "id": 107709,
+        "text": "Sử dụng external style (File CSS)"
+    }, {
+        "id": 107710,
+        "text": "Sử dụng internal style Sử dụng internal style"
+    }]
+}, {
+    "id": 26005,
+    "text": "Phát biểu nào sau đây ĐÚNG ?",
+    "marks": 1,
+    "answerid": 107711,
+    "answers": [{
+        "id": 107711,
+        "text": "Hai thành phần cơ bản của Theme là File Skin và File CSS"
+    }, {
+        "id": 107712,
+        "text": "Theme chỉ sử dụng để định dạng hiển thị cho các phần tử HTML trên trang"
+    }, {
+        "id": 107713,
+        "text": "Theme chỉ sử dụng để định dạng hiển thị cho các điều khiển web server"
+    }, {
+        "id": 107714,
+        "text": "Chỉ được áp dụng một Theme cho một trang aspx"
+    }]
+}, {
+    "id": 26006,
+    "text": "Điều khiển Navigation nào sau đây hiển thị dãy các liên kết từ trang chủ đến trang hiện tại?",
+    "marks": 1,
+    "answerid": 107718,
+    "answers": [{
+        "id": 107715,
+        "text": "Menu"
+    }, {
+        "id": 107716,
+        "text": "TreeView"
+    }, {
+        "id": 107717,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107718,
+        "text": "SiteMapPath"
+    }]
+}, {
+    "id": 26007,
+    "text": "Điều khiển nào sau đây không cần phải buộc với một điều khiển SiteMapDatasource, để hiển thị cấu trúc phân cấp điều hướng được định nghĩa trong file web.sitemap?",
+    "marks": 1,
+    "answerid": 107720,
+    "answers": [{
+        "id": 107719,
+        "text": "TreeView"
+    }, {
+        "id": 107720,
+        "text": "SiteMapPath"
+    }, {
+        "id": 107721,
+        "text": "Menu"
+    }, {
+        "id": 107722,
+        "text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 26008,
+    "text": "Các style của ............ được áp dụng sau external, internal, inline style và các thuộc tính của điều khiển",
+    "marks": 1,
+    "answerid": 107724,
+    "answers": [{
+        "id": 107723,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107724,
+        "text": "Theme tùy chỉnh"
+    }, {
+        "id": 107725,
+        "text": "Theme tùy chỉnh và Theme StyleSheet"
+    }, {
+        "id": 107726,
+        "text": "Theme StyleSheet"
+    }]
+}, {
+    "id": 26009,
+    "text": "Sử dụng phương pháp nào sau đây để áp dụng Theme tùy chỉnh cho một trang web?",
+    "marks": 1,
+    "answerid": 107727,
+    "answers": [{
+        "id": 107727,
+        "text": "Cả hai phương án đều đúng"
+    }, {
+        "id": 107728,
+        "text": "Cả hai phương án đều sai"
+    }, {
+        "id": 107729,
+        "text": "Thêm thuộc tính Theme vào chỉ dẫn Page của trang và gán tên của theme cho thuộc tính này."
+    }, {
+        "id": 107730,
+        "text": "Gán giá trị cho thuộc tính Theme của lớp Page trong phương thức xử lý sự kiện Page_PreInit"
+    }]
+}, {
+    "id": 26010,
+    "text": "Phát biểu nào sau đây Đúng về điều khiển data source?",
+    "marks": 1,
+    "answerid": 107731,
+    "answers": [{
+        "id": 107731,
+        "text": "Điều khiển data source quản lý các tác vụ kết nối đến CSDL, đọc và ghi dữ liệu."
+    }, {
+        "id": 107732,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107733,
+        "text": "Mỗi điều khiển data source chỉ được buộc vào một điều khiển hiển thị dữ liệu"
+    }, {
+        "id": 107734,
+        "text": "Điều khiển data source dùng để hiển thị dữ liệu cho người dùng"
+    }]
+}, {
+    "id": 26011,
+    "text": "Giả sử bạn đã thiết lập một chuỗi kết nối trong file web.config với tên “demoConnectionString” trong thẻ \"\u003cconnectionStrings\u003e\" Câu lệnh nào trong lớp code-behind để lấy thông tin chuỗi kết nối?",
+    "marks": 1,
+    "answerid": 107738,
+    "answers": [{
+        "id": 107735,
+        "text": "ConnectionStrings[\"demoConnectionString\"].ConnectionString"
+    }, {
+        "id": 107736,
+        "text": "WebConfigurationManager.ConnectionStrings[\"demoConnectionString\"]"
+    }, {
+        "id": 107737,
+        "text": "ConnectionStrings[\"demoConnectionString\"]"
+    }, {
+        "id": 107738,
+        "text": "WebConfigurationManager.ConnectionStrings[\"demoConnectionString\"].ConnectionString"
+    }]
+}, {
+    "id": 26012,
+    "text": "Đối tượng nào sau đây sử dụng để lấy dữ liệu từ CSDL lưu vào dataset?",
+    "marks": 1,
+    "answerid": 107742,
+    "answers": [{
+        "id": 107739,
+        "text": "DataReader"
+    }, {
+        "id": 107740,
+        "text": "Các phương án đều đúng"
+    }, {
+        "id": 107741,
+        "text": "Dataset"
+    }, {
+        "id": 107742,
+        "text": "DataAdapter"
+    }]
+}, {
+    "id": 26013,
+    "text": "Phát biểu nào sau đây là sai về ADO.Net?",
+    "marks": 1,
+    "answerid": 107745,
+    "answers": [{
+        "id": 107743,
+        "text": "Các lớp của ADO.net được định nghĩa trong namespace System.Data"
+    }, {
+        "id": 107744,
+        "text": "ADO.Net hỗ trợ các ứng dụng kết nối đến các cơ sở dữ liệu"
+    }, {
+        "id": 107745,
+        "text": "ADO.Net không hỗ trợ kiến trúc không kết nối"
+    }, {
+        "id": 107746,
+        "text": "Tất cả các phương án đã nêu"
+    }]
+}, {
+    "id": 26014,
+    "text": "Phương thức nào sau đây của đối tượng Command sử dụng để xóa/cập nhật dữ liệu trong CSDL sử dụng kiến trúc kết nối?",
+    "marks": 1,
+    "answerid": 107747,
+    "answers": [{
+        "id": 107747,
+        "text": "ExecuteNonQuery()"
+    }, {
+        "id": 107748,
+        "text": "ExecuteReader()"
+    }, {
+        "id": 107749,
+        "text": "ExecuteScalar()"
+    }, {
+        "id": 107750,
+        "text": "Execute()"
+    }]
+}, {
+    "id": 26015,
+    "text": "Phương thức nào sau đây không thuộc về lớp SqlDataAdapter?",
+    "marks": 1,
+    "answerid": 107751,
+    "answers": [{
+        "id": 107751,
+        "text": "ReadData"
+    }, {
+        "id": 107752,
+        "text": "FillSchema"
+    }, {
+        "id": 107753,
+        "text": "Fill"
+    }, {
+        "id": 107754,
+        "text": "Update"
+    }]
+}, {
+    "id": 26016,
+    "text": "Lựa chọn đáp án đúng.Để liên kết điều khiển DataList với một SqlDataSouce, bạn chọn ............ trên menu thông minh",
+    "marks": 1,
+    "answerid": 107756,
+    "answers": [{
+        "id": 107755,
+        "text": "Data Binding"
+    }, {
+        "id": 107756,
+        "text": "Chose Data Source"
+    }, {
+        "id": 107757,
+        "text": "Binding DataSource"
+    }, {
+        "id": 107758,
+        "text": "Configure Data Source"
+    }]
+}, {
+    "id": 26017,
+    "text": "Điều khiển data source nào sau đây hỗ trợ phát triển ứng dụng Web theo kiến trúc ba tầng?",
+    "marks": 1,
+    "answerid": 107759,
+    "answers": [{
+        "id": 107759,
+        "text": "ObjectDataSource"
+    }, {
+        "id": 107760,
+        "text": "AccessDataSource"
+    }, {
+        "id": 107761,
+        "text": "SQLDataSource"
+    }, {
+        "id": 107762,
+        "text": "Các phương án đều đúng"
+    }]
+}, {
+    "id": 26018,
+    "text": "Thành phần nào của Data provider dùng để thực thi các lệnh sql lấy dữ liệu từ CSDL hoặc thay đổi dữ liệu trong CSDL?",
+    "marks": 1,
+    "answerid": 107764,
+    "answers": [{
+        "id": 107763,
+        "text": "DataAdapter"
+    }, {
+        "id": 107764,
+        "text": "SqlCommand"
+    }, {
+        "id": 107765,
+        "text": "Connection"
+    }, {
+        "id": 107766,
+        "text": "DataReader"
+    }]
+}, {
+    "id": 26019,
+    "text": "Đối tượng nào sau đây tham gia trong quá trình truy cập CSDL sử dụng kiến trúc kết nối?A. DataReaderB. DataAdapter",
+    "marks": 1,
+    "answerid": 107767,
+    "answers": [{
+        "id": 107767,
+        "text": "Cả A, B đều sai"
+    }, {
+        "id": 107768,
+        "text": "A đúng"
+    }, {
+        "id": 107769,
+        "text": "Cả A, B đều đúng"
+    }, {
+        "id": 107770,
+        "text": "B đúng"
+    }]
+}, {
+    "id": 26020,
+    "text": "Để kích hoạt tính năng sắp xếp của điều khiển GridView, bạn cần thực hiện các công việc gì?",
+    "marks": 1,
+    "answerid": 107772,
+    "answers": [{
+        "id": 107771,
+        "text": "Thiết lập thuộc tính AllowSorting là “True”, sau đó thêm thuộc tính SortExpression vào mỗi cột muốn sắp xếp và thiết lập thuộc tính DataSourceMode của nguồn dữ liệu đặt ở chế độ DataSet"
+    }, {
+        "id": 107772,
+        "text": "Các phương án đều đúng"
+    }, {
+        "id": 107773,
+        "text": "Trong bảng Smart tag menu của GridView, kích chọn hộp kiểm “Enable Sorting”"
+    }, {
+        "id": 107774,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 26021,
+    "text": "Các điều khiển nào sau đây cho phép hiển thị một hàng dữ liệu đơn từ datasource?",
+    "marks": 1,
+    "answerid": 107778,
+    "answers": [{
+        "id": 107775,
+        "text": "DetailsView, GridView"
+    }, {
+        "id": 107776,
+        "text": "GridView, ListView"
+    }, {
+        "id": 107777,
+        "text": "DataList, ListView"
+    }, {
+        "id": 107778,
+        "text": "DetailsView, FormView"
+    }]
+}, {
+    "id": 26022,
+    "text": "Theo bạn, sự khác nhau của điều khiển GridView và ListView là gì?",
+    "marks": 1,
+    "answerid": 107779,
+    "answers": [{
+        "id": 107779,
+        "text": "GridView trình bày dữ liệu dưới dạng bảng theo cột và hàng giống bảng trong CSDL còn ListView trình bày dữ liệu dưới dạng danh sách theo một template có sẵn"
+    }, {
+        "id": 107780,
+        "text": "GridView có hỗ trợ phân trang còn ListView thì không"
+    }, {
+        "id": 107781,
+        "text": "GridView hỗ trợ tính năng cập nhật CSDL, không hỗ trợ tính năng chèn mới dữ liệu còn ListView thì ngược lại, cho phép chèn dữ liệu nhưng không cho phép cập nhật dữ liệu."
+    }, {
+        "id": 107782,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 26023,
+    "text": "Điều khiển nào sau đây bắt buộc phải dùng Template và biểu thức buộc dữ liệu để hiển thị các trường dữ liệu?",
+    "marks": 1,
+    "answerid": 107784,
+    "answers": [{
+        "id": 107783,
+        "text": "GridView"
+    }, {
+        "id": 107784,
+        "text": "FormView"
+    }, {
+        "id": 107785,
+        "text": "DataList"
+    }, {
+        "id": 107786,
+        "text": "DetailsView"
+    }]
+}, {
+    "id": 26024,
+    "text": "Hãy chọn một phần tử của GridView",
+    "marks": 1,
+    "answerid": 107787,
+    "answers": [{
+        "id": 107787,
+        "text": "Các phương án đều đúng"
+    }, {
+        "id": 107788,
+        "text": "Asp:ImageField"
+    }, {
+        "id": 107789,
+        "text": "Asp:HyperlinkField"
+    }, {
+        "id": 107790,
+        "text": "Asp:CommandField"
+    }]
+}, {
+    "id": 26025,
+    "text": "Thuộc tính nào của điều khiển GridView thiết lập số lượng hàng trong một trang ?",
+    "marks": 1,
+    "answerid": 107791,
+    "answers": [{
+        "id": 107791,
+        "text": "PageSize"
+    }, {
+        "id": 107792,
+        "text": "PageRows"
+    }, {
+        "id": 107793,
+        "text": "PageRecords"
+    }, {
+        "id": 107794,
+        "text": "PageField"
+    }]
+}, {
+    "id": 26026,
+    "text": "Để thêm một trường mới cho một điều khiển GridView, bạn sử dụng phương pháp nào sau đây?A. Sử dụng hộp thoại FieldsB. Sử dụng hộp thoại Add FieldsC. Sử dụng hộp thoại Add Field",
+    "marks": 1,
+    "answerid": 107795,
+    "answers": [{
+        "id": 107795,
+        "text": "B, C đúng"
+    }, {
+        "id": 107796,
+        "text": "A, B đúng"
+    }, {
+        "id": 107797,
+        "text": "A, C đúng"
+    }, {
+        "id": 107798,
+        "text": "Tất cả đáp án đều sai"
+    }]
+}, {
+    "id": 26027,
+    "text": "Phát biểu nào sau đây ĐÚNG về FormView?",
+    "marks": 1,
+    "answerid": 107802,
+    "answers": [{
+        "id": 107799,
+        "text": "Hiển thị dữ liệu dưới dạng danh sách các mẫu tin"
+    }, {
+        "id": 107800,
+        "text": "Tất cả đáp án đều sai"
+    }, {
+        "id": 107801,
+        "text": "Không hỗ trợ thao tác thêm dữ liệu vào CSDL"
+    }, {
+        "id": 107802,
+        "text": "Hỗ trợ sử dụng CSS để định dạng hiển thị dữ liệu"
+    }]
+}, {
+    "id": 26028,
+    "text": "Thuộc tính nào sau đây của phần tử Asp:BoundField chỉ định chuỗi định dạng hiển thị dữ liệu cho một trường dữ liệu của GridView?",
+    "marks": 1,
+    "answerid": 107806,
+    "answers": [{
+        "id": 107803,
+        "text": "FieldFormatString"
+    }, {
+        "id": 107804,
+        "text": "ColumnFormatString"
+    }, {
+        "id": 107805,
+        "text": "FieldFormat"
+    }, {
+        "id": 107806,
+        "text": "DataFormatString"
+    }]
+}, {
+    "id": 26029,
+    "text": "Lựa chọn phương án ĐÚNG.Sau khi liên kết một SqlDataSource với GridView, mặc định các trường tạo ra là ............",
+    "marks": 1,
+    "answerid": 107809,
+    "answers": [{
+        "id": 107807,
+        "text": "Trường TemplateField"
+    }, {
+        "id": 107808,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107809,
+        "text": "Trường BoundField"
+    }, {
+        "id": 107810,
+        "text": "Trường BoundField hoặc trường TemplateField tùy theo kiểu dữ liệu của cột trong bảng CSDL"
+    }]
+}, {
+    "id": 26030,
+    "text": "Lựa phương án án ĐÚNGĐể một điều khiển DetailsView hiển thị chế độ mặc định là chế độ Insert trên trình duyệt, lập trình viên phải ............",
+    "marks": 1,
+    "answerid": 107812,
+    "answers": [{
+        "id": 107811,
+        "text": "Không phải thực hiện bất cứ một thao tác nào, DetailsView được hiển thị mặc định ở chế độ Insert"
+    }, {
+        "id": 107812,
+        "text": "Gán giá trị cho thuộc tính DefaultMode bằng Insert"
+    }, {
+        "id": 107813,
+        "text": "Gán giá trị cho thuộc tính Mode bằng Insert"
+    }, {
+        "id": 107814,
+        "text": "Gán giá trị cho thuộc tính InsertMode bằng True"
+    }]
+}, {
+    "id": 26031,
+    "text": "Phương pháp triển khai ứng dụng web nào sau đây không được hỗ trợ bởi phiên bản Visual Studio Express?",
+    "marks": 1,
+    "answerid": 107817,
+    "answers": [{
+        "id": 107815,
+        "text": "Xcopy"
+    }, {
+        "id": 107816,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107817,
+        "text": "Tạo Web Setup Project"
+    }, {
+        "id": 107818,
+        "text": "Tiền biên dịch"
+    }]
+}, {
+    "id": 26032,
+    "text": "Phát biểu nào sau đây là đúng khi đề cập đến ObjectDataSource?",
+    "marks": 1,
+    "answerid": 107819,
+    "answers": [{
+        "id": 107819,
+        "text": "ObjectDataSource truy cập cơ sở dữ liệu trực tiếp mà không thông qua lớp truy cập dữ liệu."
+    }, {
+        "id": 107820,
+        "text": "Trong các ứng dụng lớn, nên thiết kế theo kiến trúc ba tầng. Do đó, không nên sử dụng ObjectDataSource"
+    }, {
+        "id": 107821,
+        "text": "Trong các ứng dụng nhỏ, sử dụng ObjectDataSource mang lại nhiều lợi ích, không phải viết code C#."
+    }, {
+        "id": 107822,
+        "text": "ObjectDataSource cho phép bạn sử dụng phương pháp buộc dữ liệu cùng với kiến trúc 3 tầng trong ứng dụng cơ sở dữ liệu"
+    }]
+}, {
+    "id": 26033,
+    "text": "Để Client có thể truy cập đến một website không nằm trong thư mục gốc (C:\\inetpub\\wwwroot) của web server, ta phải tạo và cấu hình ............ trong IISA. Một Web siteB. Một thư mục ảo",
+    "marks": 1,
+    "answerid": 107823,
+    "answers": [{
+        "id": 107823,
+        "text": "B đúng"
+    }, {
+        "id": 107824,
+        "text": "Cả A, B đều đúng"
+    }, {
+        "id": 107825,
+        "text": "A đúng"
+    }, {
+        "id": 107826,
+        "text": "Cả A, B đều sai"
+    }]
+}, {
+    "id": 26034,
+    "text": "Điều khiển Object Data Source có thể được buộc vào điều khiển nào sau đây?A. List boxB. Check boxC. Radio buttonD. Drop-down list",
+    "marks": 1,
+    "answerid": 107829,
+    "answers": [{
+        "id": 107827,
+        "text": "A, C đúng"
+    }, {
+        "id": 107828,
+        "text": "B, C đúng"
+    }, {
+        "id": 107829,
+        "text": "A, D đúng"
+    }, {
+        "id": 107830,
+        "text": "A, B đúng"
+    }]
+}, {
+    "id": 26035,
+    "text": "Phương pháp triển khai nào sau đây làm tăng hiệu năng của người dùng đầu tiên truy cập đến Website?",
+    "marks": 1,
+    "answerid": 107832,
+    "answers": [{
+        "id": 107831,
+        "text": "Tạo Web Setup Project"
+    }, {
+        "id": 107832,
+        "text": "Tiền biên dịch"
+    }, {
+        "id": 107833,
+        "text": "Các phương án đều sai"
+    }, {
+        "id": 107834,
+        "text": "Xcopy"
+    }]
+}, {
+    "id": 26036,
+    "text": "Trong mô hình 3 tầng, các lớp nghiệp vụ của tầng trung gian được chứa trong thư mục nào của ứng dụng?",
+    "marks": 1,
+    "answerid": 107838,
+    "answers": [{
+        "id": 107835,
+        "text": "Logic_Code"
+    }, {
+        "id": 107836,
+        "text": "Application"
+    }, {
+        "id": 107837,
+        "text": "Images"
+    }, {
+        "id": 107838,
+        "text": "App_Code"
+    }]
+}, {
+    "id": 26037,
+    "text": "Theo bạn, các bước tạo và cấu hình thư mục ảo trong IIS7 theo thứ tự nào sau đây là đúng?1.Tạo thư mục ảo trong IIS và chuyển thư mục ảo thành ứng dụng2. Cấu hình xác thực 3. Tạo Application Pool và gán Applicaton Pool cho ứng dụng4. Kích hoạt directory b",
+    "marks": 1,
+    "answerid": 107840,
+    "answers": [{
+        "id": 107839,
+        "text": "3-\u003e2-\u003e1-\u003e5-\u003e4"
+    }, {
+        "id": 107840,
+        "text": "1-\u003e2-\u003e3-\u003e4-\u003e5"
+    }, {
+        "id": 107841,
+        "text": "2-\u003e1-\u003e3-\u003e5-\u003e4"
+    }, {
+        "id": 107842,
+        "text": "1-\u003e2-\u003e3-\u003e5-\u003e4"
+    }]
+}, {
+    "id": 26038,
+    "text": "Trong kiến trúc ba tầng, lớp nghiệp vụ thuộc tầng nào sau đây?",
+    "marks": 1,
+    "answerid": 107843,
+    "answers": [{
+        "id": 107843,
+        "text": "Tầng trung gian"
+    }, {
+        "id": 107844,
+        "text": "Tầng CSDL"
+    }, {
+        "id": 107845,
+        "text": "Tầng trình bày"
+    }, {
+        "id": 107846,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 26039,
+    "text": "Trong mô hình 3 tầng, tầng nào chứa các trang ASP.Net chịu trách nhiệm nhận thông tin từ người dùng và xuất kết quả đến người dùng?",
+    "marks": 1,
+    "answerid": 107847,
+    "answers": [{
+        "id": 107847,
+        "text": "Tầng trình bày"
+    }, {
+        "id": 107848,
+        "text": "Tầng trung gian"
+    }, {
+        "id": 107849,
+        "text": "Tầng CSDL"
+    }, {
+        "id": 107850,
+        "text": "Các phương án đều sai"
+    }]
+}, {
+    "id": 26040,
+    "text": "Để liên kết với CSS từ một file bên ngoài, ta dùng khai báo nào?",
+    "marks": 1,
+    "answerid": 107852,
+    "answers": [{
+        "id": 107851,
+        "text": "\u003clinked href=\"my_style_sheet.css\" media=\"screen\" rel=\"stylesheet\"  type=\"text/css\"  /\u003e"
+    }, {
+        "id": 107852,
+        "text": "\u003clink href=\"my_style_sheet.css\" media=\"screen\" rel=\"stylesheet\"  type=\"text/css\"  /\u003e"
+    }, {
+        "id": 107853,
+        "text": "\u003clink href=\"my_style_sheet.css\" media=\"screen\" type=\"text/css\"  /\u003e"
+    }, {
+        "id": 107854,
+        "text": "Tất cả các phương án đều sai"
+    }]
+}, {
+    "id": 26041,
+    "text": "Ý nghĩa của thuộc tính Display trong CSS?",
+    "marks": 1,
+    "answerid": 107856,
+    "answers": [{
+        "id": 107855,
+        "text": "Tất cả các phương án đều đúng"
+    }, {
+        "id": 107856,
+        "text": "Cho phép một thẻ cục bộ lấp đầy thẻ chứa nó"
+    }, {
+        "id": 107857,
+        "text": "Không cho phép một thẻ cục bộ lấp đầy thẻ chứa nó"
+    }, {
+        "id": 107858,
+        "text": "Tất cả các phương án đều sai"
+    }]
+}, {
+    "id": 26042,
+    "text": "Margin trong cấu trúc Box định nghĩa điều gì?",
+    "marks": 1,
+    "answerid": 107859,
+    "answers": [{
+        "id": 107859,
+        "text": "Định nghĩa lề cho box"
+    }, {
+        "id": 107860,
+        "text": "Tất cả các phương án đều đúng"
+    }, {
+        "id": 107861,
+        "text": "Định nghĩa khoảng đệm cho box"
+    }, {
+        "id": 107862,
+        "text": "Định nghĩa đường viền cho Box"
+    }]
+}, {
+    "id": 26043,
+    "text": "CSS là viết tắt của cụm từ nào?",
+    "marks": 1,
+    "answerid": 107866,
+    "answers": [{
+        "id": 107863,
+        "text": "Cascading Style Sheet"
+    }, {
+        "id": 107864,
+        "text": "Tất cả các phương án đều sai"
+    }, {
+        "id": 107865,
+        "text": "Cascaded Style Sheets"
+    }, {
+        "id": 107866,
+        "text": "Cascading Style Sheets"
+    }]
+}, {
+    "id": 26044,
+    "text": "Thuộc tính clear trong CSS dùng để làm gì?",
+    "marks": 1,
+    "answerid": 107870,
+    "answers": [{
+        "id": 107867,
+        "text": "Cho phép thẻ nổi"
+    }, {
+        "id": 107868,
+        "text": "Không cho phép sửa trang web"
+    }, {
+        "id": 107869,
+        "text": "Tất cả các đáp án đều sai"
+    }, {
+        "id": 107870,
+        "text": "Không cho phép thẻ nổi"
+    }]
+}, {
+    "id": 26045,
+    "text": "Giá trị static của thuộc tính position có ý nghĩa gì?",
+    "marks": 1,
+    "answerid": 107872,
+    "answers": [{
+        "id": 107871,
+        "text": "Tất cả các phương án đều sai"
+    }, {
+        "id": 107872,
+        "text": "Đặt cố định các box để tránh chồng chéo giữa các box"
+    }, {
+        "id": 107873,
+        "text": "Tất cả các phương án đều đúng"
+    }, {
+        "id": 107874,
+        "text": "Định nghĩa phương thức tĩnh"
+    }]
+}, {
+    "id": 26046,
+    "text": "Thuộc tính float trong CSS dùng để làm gì?",
+    "marks": 1,
+    "answerid": 107876,
+    "answers": [{
+        "id": 107875,
+        "text": "Dùng đề định nghĩa số thực"
+    }, {
+        "id": 107876,
+        "text": "Dùng để nổi những thành phần (box, image, text, …) trên trang"
+    }, {
+        "id": 107877,
+        "text": "Tất cả các phương án đều sai"
+    }, {
+        "id": 107878,
+        "text": "Dùng để thay đổi những thành phần (box, image, text, …) trên trang"
+    }]
+}, {
+    "id": 26047,
+    "text": "Class trong CSS dùng để làm gì?",
+    "marks": 1,
+    "answerid": 107882,
+    "answers": [{
+        "id": 107879,
+        "text": "Định nghĩa lớp cho các giá trị của thuộc tính trong CSS"
+    }, {
+        "id": 107880,
+        "text": "Định nghĩa một lớp trong lập trình hướng đối tượng"
+    }, {
+        "id": 107881,
+        "text": "Tất cả các phương án đều đúng"
+    }, {
+        "id": 107882,
+        "text": "Định nghĩa một kiểu định dạng cho nhiều thẻ có cùng class"
+    }]
+}, {
+    "id": 26048,
+    "text": "Ý nghĩa của thuộc tính overflow trong CSS?",
+    "marks": 1,
+    "answerid": 107883,
+    "answers": [{
+        "id": 107883,
+        "text": "Để tránh hiện tượng xô lệch các cột"
+    }, {
+        "id": 107884,
+        "text": "Để tránh tràn số trong ASP.NET"
+    }, {
+        "id": 107885,
+        "text": "Để đánh dấu cờ tràn trong ASP.NET"
+    }, {
+        "id": 107886,
+        "text": "Tất cả các phương án đều đúng"
+    }]
+}, {
+    "id": 26049,
+    "text": "Các giá trị nào là của thuộc tính Display trong CSS?",
+    "marks": 1,
+    "answerid": 107888,
+    "answers": [{
+        "id": 107887,
+        "text": "online, block"
+    }, {
+        "id": 107888,
+        "text": "inline, block"
+    }, {
+        "id": 107889,
+        "text": "inline, online, block"
+    }, {
+        "id": 107890,
+        "text": "Tất cả các phương án đều sai"
+    }]
+}]
